@@ -1,13 +1,13 @@
   .nav {
-    width: 80vw;
+    width: 91vw;
     margin: auto;
     background: #fffafa08;
     text-align: center;
+    -webkit-backdrop-filter: blur(10px);
     backdrop-filter: blur(10px);
     margin-top: 28px;
     border-radius: 0.675rem;
     position: fixed;
-    left: 11vw;
     display: flex;
     justify-content: center;
     align-items: center;

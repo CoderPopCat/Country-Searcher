@@ -6,7 +6,7 @@ import CountryInfo from './CountryInfo';
 const Country = () => {
     const { name } = useParams();
     const country = Countries.find(c => c.country === name);
-    if (!country) return <div style={{ fontWeight: '700', height: '300px' }} className='text-[60px] text-center text-white pt-[26vh] App'>No Country Found 🤣💀</div>
+    if (!country) return <div style={{ fontWeight: '700', height: '300px' }} className='text-[60px] text-center text-white pt-[23vh] App'>No Country Found 🤣💀</div>
     const continents = {
         'as': '🌏 Asia',
         'eu': '🌍 Europe',
