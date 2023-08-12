@@ -6,6 +6,7 @@ import CountryInfo from './CountryInfo';
 const Country = () => {
     const { name } = useParams();
     const country = Countries.find(c => c.country === name);
+    if (!country) return <div style={{ fontWeight: '700', height: '300px' }} className='text-[60px] text-center text-white pt-[26vh] App'>No Country Found 🤣💀</div>
     const continents = {
         'as': '🌏 Asia',
         'eu': '🌍 Europe',
@@ -24,16 +25,16 @@ const Country = () => {
                     <div class="content">
                         <div class="p-6 w-full lg:w-[90vw] bg-[#ffffff0a] rounded-lg border border-[#333] flex flex-col relative" style={{ backdropFilter: 'blur(5px)' }}>
                             <div class="everything-else p-6 -w-[100%] rounded-lg flex flex-col lg:flex-row">
-                                <div class="flex flex-col lg:flex-row justify-between sm:px-6 lg:px-8 img-container img relative">
+                                <div class="flex flex-col lg:flex-row justify-between sm:px-6 lg:px-8 img-container img relative items-center">
                                     <div className="images">
-                                        <img class="max-w-[19rem] rounded-lg img-blur" src={country.flag} alt="" />
-                                        <img class="max-w-[19rem] rounded-lg absolute" style={{ transform: 'translateY(-100%)' }} src={country.flag} alt="" />
+                                        <img class="max-w-[19rem] rounded-lg img-blur" src={country.flag} alt="" data-aos='zoom-in' data-aos-easing='ease-in-out' data-aos-duration='900' />
+                                        <img class="max-w-[19rem] rounded-lg absolute" style={{ transform: 'translateY(-100%)' }} src={country.flag} alt="" data-aos='zoom-in' data-aos-easing='ease-in-out' data-aos-duration='900' />
                                     </div>
                                     <div class="text items-left lg:ml-[4rem] flex flex-col justify-start space-y-5">
-                                        <h5 class="mb-2 text-5xl font-bold tracking-tight text-white text-left" style={{ textDecoration: '#7760fe wavy underline' }}>
+                                        <h5 class="mb-2 text-5xl font-bold tracking-tight text-white text-center lg:text-left" style={{ textDecoration: '#7760fe wavy underline' }} data-aos='fade-left' data-aos-easing='ease-in-out' data-aos-duration='900'>
                                             {country.country}
                                         </h5>
-                                        <div className="flex lg:flex-row flex-col gap-5 items-center justify-left flex-wrap">
+                                        <div className="flex lg:flex-row flex-col gap-5 items-center justify-left flex-wrap" data-aos='fade-left' data-aos-easing='ease-in-out' data-aos-duration='900'>
                                             <CountryInfo heading='Capital' info={country.capital} icon='fa-solid fa-location' />
                                             <CountryInfo heading='Currency' info={country.currency} icon='fa-solid fa-coins' />
                                             <CountryInfo heading='Continent' info={continentEmoji} icon='fa-solid fa-globe' />
