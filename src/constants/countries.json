@@ -1,0 +1,6836 @@
+[
+    {
+        "country": "Afghanistan",
+        "capital": "Kabul",
+        "currency": "Afghani",
+        "native_language": [
+            "dari persian",
+            "pashto"
+        ],
+        "famous_for": "Rugs, Taliban",
+        "phone_code": "+93",
+        "flag": "https://cdn.britannica.com/40/5340-004-B25ED5CF/Flag-Afghanistan.jpg",
+        "drive_direction": "right",
+        "alcohol_prohibition": "nationwide",
+        "area": {
+            "km2": 652864,
+            "mi2": 252072
+        },
+        "continent": "as",
+        "iso": {
+            "numeric": "004",
+            "alpha_2": "af",
+            "alpha_3": "afg"
+        },
+        "tld": ".af",
+        "constitutional_form": "republic",
+        "language_codes": [
+            "fa-AF",
+            "ps-AF"
+        ],
+        "is_landlocked": true,
+        "neighbors": [
+            "cn",
+            "ir",
+            "pk",
+            "tj",
+            "tm",
+            "uz"
+        ]
+    },
+    {
+        "country": "Albania",
+        "capital": "Tirane",
+        "currency": "Lek",
+        "native_language": [
+            "albanian"
+        ],
+        "famous_for": "Mother Teresa",
+        "phone_code": "+355",
+        "flag": "https://flagpedia.net/data/flags/h160/al.png",
+        "drive_direction": "right",
+        "alcohol_prohibition": "none",
+        "area": {
+            "km2": 28748,
+            "mi2": 11100
+        },
+        "continent": "eu",
+        "iso": {
+            "numeric": "008",
+            "alpha_2": "al",
+            "alpha_3": "alb"
+        },
+        "tld": ".al",
+        "constitutional_form": "republic",
+        "language_codes": [
+            "sq-AL"
+        ],
+        "is_landlocked": false,
+        "neighbors": [
+            "gr",
+            "me",
+            "mk",
+            "xk"
+        ]
+    },
+    {
+        "country": "Algeria",
+        "capital": "Algiers",
+        "currency": "Algerian dinar",
+        "native_language": [
+            "arabic",
+            "tamazight",
+            "french"
+        ],
+        "famous_for": "Oil And Gas Reserves",
+        "phone_code": "+213",
+        "flag": "https://flagpedia.net/data/flags/h160/dz.png",
+        "drive_direction": "right",
+        "alcohol_prohibition": "none",
+        "area": {
+            "km2": 2381741,
+            "mi2": 919595
+        },
+        "continent": "af",
+        "iso": {
+            "numeric": "012",
+            "alpha_2": "dz",
+            "alpha_3": "dza"
+        },
+        "tld": ".dz",
+        "constitutional_form": "republic",
+        "language_codes": [
+            "ar-DZ",
+            "fr-DZ"
+        ],
+        "is_landlocked": false,
+        "neighbors": [
+            "ly",
+            "ma",
+            "ml",
+            "mr",
+            "ne",
+            "tn"
+        ]
+    },
+    {
+        "country": "Andorra",
+        "capital": "Andorra la vella",
+        "currency": "Euro",
+        "native_language": [
+            "catalan"
+        ],
+        "famous_for": "Tourism And Tobacco",
+        "phone_code": "+376",
+        "flag": "https://flagpedia.net/data/flags/h160/ad.png",
+        "drive_direction": "right",
+        "alcohol_prohibition": "none",
+        "area": {
+            "km2": 468,
+            "mi2": 181
+        },
+        "continent": "eu",
+        "iso": {
+            "numeric": "020",
+            "alpha_2": "ad",
+            "alpha_3": "and"
+        },
+        "tld": ".ad",
+        "constitutional_form": "constitutional monarchy",
+        "language_codes": [
+            "ca-AD"
+        ],
+        "is_landlocked": true,
+        "neighbors": [
+            "es",
+            "fr"
+        ]
+    },
+    {
+        "country": "Angola",
+        "capital": "Luanda",
+        "currency": "Kwanza",
+        "native_language": [
+            "portuguese"
+        ],
+        "famous_for": "Oil",
+        "phone_code": "+244",
+        "flag": "https://flagpedia.net/data/flags/h160/ao.png",
+        "drive_direction": "right",
+        "alcohol_prohibition": "none",
+        "area": {
+            "km2": 1246700,
+            "mi2": 481400
+        },
+        "continent": "af",
+        "iso": {
+            "numeric": "024",
+            "alpha_2": "ao",
+            "alpha_3": "ago"
+        },
+        "tld": ".ao",
+        "constitutional_form": "republic",
+        "language_codes": [
+            "pt-AO"
+        ],
+        "is_landlocked": false,
+        "neighbors": [
+            "cd",
+            "cg",
+            "na",
+            "zm"
+        ]
+    },
+    {
+        "country": "Antigua & barbuda",
+        "capital": "Saint john's",
+        "currency": "East caribbean dollar",
+        "native_language": [
+            "english"
+        ],
+        "famous_for": "Spectacular Racing And Rum",
+        "phone_code": "+1-268",
+        "flag": "https://flagpedia.net/data/flags/h160/ag.png",
+        "drive_direction": "right",
+        "alcohol_prohibition": "none",
+        "area": {
+            "km2": 442,
+            "mi2": 171
+        },
+        "continent": "na",
+        "iso": {
+            "numeric": "028",
+            "alpha_2": "ag",
+            "alpha_3": "atg"
+        },
+        "tld": ".ag",
+        "constitutional_form": "constitutional monarchy",
+        "language_codes": [
+            "en-AG"
+        ],
+        "is_landlocked": false,
+        "neighbors": []
+    },
+    {
+        "country": "Argentina",
+        "capital": "Buenos aires",
+        "currency": "Argentine peso",
+        "native_language": [
+            "spanish"
+        ],
+        "famous_for": "Football",
+        "phone_code": "+54",
+        "flag": "https://flagpedia.net/data/flags/h160/ar.png",
+        "drive_direction": "right",
+        "alcohol_prohibition": "none",
+        "area": {
+            "km2": 2780400,
+            "mi2": 1073500
+        },
+        "continent": "sa",
+        "iso": {
+            "numeric": "032",
+            "alpha_2": "ar",
+            "alpha_3": "arg"
+        },
+        "tld": ".ar",
+        "constitutional_form": "republic",
+        "language_codes": [
+            "es-AR"
+        ],
+        "is_landlocked": false,
+        "neighbors": [
+            "bo",
+            "br",
+            "cl",
+            "py",
+            "uy"
+        ]
+    },
+    {
+        "country": "Armenia",
+        "capital": "Yerevan",
+        "currency": "Dram",
+        "native_language": [
+            "armenian"
+        ],
+        "famous_for": "Genocide And Kim Kardashian",
+        "phone_code": "+374",
+        "flag": "https://flagpedia.net/data/flags/h160/am.png",
+        "drive_direction": "right",
+        "alcohol_prohibition": "none",
+        "area": {
+            "km2": 29743,
+            "mi2": 11484
+        },
+        "continent": "af",
+        "iso": {
+            "numeric": "051",
+            "alpha_2": "am",
+            "alpha_3": "arm"
+        },
+        "tld": ".am",
+        "constitutional_form": "republic",
+        "language_codes": [
+            "as-AM"
+        ],
+        "is_landlocked": true,
+        "neighbors": [
+            "az",
+            "ge",
+            "ir",
+            "tr"
+        ]
+    },
+    {
+        "country": "Australia",
+        "capital": "Canberra",
+        "currency": "Australian dollar",
+        "native_language": [
+            "english"
+        ],
+        "famous_for": "Koalas And Kangaroos",
+        "phone_code": "+61",
+        "flag": "https://flagpedia.net/data/flags/h160/au.png",
+        "drive_direction": "left",
+        "alcohol_prohibition": "none",
+        "area": {
+            "km2": 7692024,
+            "mi2": 2969907
+        },
+        "continent": "oc",
+        "iso": {
+            "numeric": "036",
+            "alpha_2": "au",
+            "alpha_3": "aus"
+        },
+        "tld": ".au",
+        "constitutional_form": "constitutional monarchy",
+        "language_codes": [
+            "en-AU"
+        ],
+        "is_landlocked": false,
+        "neighbors": []
+    },
+    {
+        "country": "Austria",
+        "capital": "Vienna",
+        "currency": "Euro",
+        "native_language": [
+            "german"
+        ],
+        "famous_for": "Hitler, Mozart, Redbull, Franz Ferdinand And Arnold Schwarzenegger",
+        "phone_code": "+43",
+        "flag": "https://flagpedia.net/data/flags/h160/at.png",
+        "drive_direction": "right",
+        "alcohol_prohibition": "none",
+        "area": {
+            "km2": 83871,
+            "mi2": 32383
+        },
+        "continent": "eu",
+        "iso": {
+            "numeric": "040",
+            "alpha_2": "at",
+            "alpha_3": "aut"
+        },
+        "tld": ".at",
+        "constitutional_form": "republic",
+        "language_codes": [
+            "de-AT"
+        ],
+        "is_landlocked": true,
+        "neighbors": [
+            "ch",
+            "cz",
+            "de",
+            "hu",
+            "it",
+            "li",
+            "si",
+            "sk"
+        ]
+    },
+    {
+        "country": "Azerbaijan",
+        "capital": "Baku",
+        "currency": "Manat",
+        "native_language": [
+            "azerbaijani"
+        ],
+        "famous_for": "Burning Mountain",
+        "phone_code": "+994",
+        "flag": "https://flagpedia.net/data/flags/h160/az.png",
+        "drive_direction": "right",
+        "alcohol_prohibition": "none",
+        "area": {
+            "km2": 86600,
+            "mi2": 33400
+        },
+        "continent": "as",
+        "iso": {
+            "numeric": "031",
+            "alpha_2": "az",
+            "alpha_3": "aze"
+        },
+        "tld": ".az",
+        "constitutional_form": "republic",
+        "language_codes": [
+            "az-AZ"
+        ],
+        "is_landlocked": true,
+        "neighbors": [
+            "am",
+            "ge",
+            "ir",
+            "ru",
+            "tr"
+        ]
+    },
+    {
+        "country": "The bahamas",
+        "capital": "Nassau",
+        "currency": "Bahamian dollar",
+        "native_language": [
+            "english"
+        ],
+        "famous_for": "Scenic Beauty And Year-round Tropical Weather",
+        "phone_code": "+1-242",
+        "flag": "https://flagpedia.net/data/flags/h160/bs.png",
+        "drive_direction": "right",
+        "alcohol_prohibition": "none",
+        "area": {
+            "km2": 13943,
+            "mi2": 5383
+        },
+        "continent": "na",
+        "iso": {
+            "numeric": "044",
+            "alpha_2": "bs",
+            "alpha_3": "bhs"
+        },
+        "tld": ".bs",
+        "constitutional_form": "constitutional monarchy",
+        "language_codes": [
+            "en-BS"
+        ],
+        "is_landlocked": false,
+        "neighbors": []
+    },
+    {
+        "country": "Bahrain",
+        "capital": "Manama",
+        "currency": "Bahraini dinar",
+        "native_language": [
+            "arabic"
+        ],
+        "famous_for": "Oil, Pearls And World Heritage Sites",
+        "phone_code": "+973",
+        "flag": "https://flagpedia.net/data/flags/h160/bh.png",
+        "drive_direction": "right",
+        "alcohol_prohibition": "limited",
+        "area": {
+            "km2": 778,
+            "mi2": 300
+        },
+        "continent": "as",
+        "iso": {
+            "numeric": "048",
+            "alpha_2": "bh",
+            "alpha_3": "bhr"
+        },
+        "tld": ".bh",
+        "constitutional_form": "constitutional monarchy",
+        "language_codes": [
+            "ar-BH"
+        ],
+        "is_landlocked": false,
+        "neighbors": []
+    },
+    {
+        "country": "Bangladesh",
+        "capital": "Dhaka",
+        "currency": "Taka",
+        "native_language": [
+            "bangla"
+        ],
+        "famous_for": "Cox's Bazar Sea",
+        "phone_code": "+880",
+        "flag": "https://flagpedia.net/data/flags/h160/bd.png",
+        "drive_direction": "left",
+        "alcohol_prohibition": "limited",
+        "area": {
+            "km2": 147570,
+            "mi2": 56980
+        },
+        "continent": "as",
+        "iso": {
+            "numeric": "050",
+            "alpha_2": "bd",
+            "alpha_3": "bgd"
+        },
+        "tld": ".bd",
+        "constitutional_form": "republic",
+        "language_codes": [
+            "bn-BD"
+        ],
+        "is_landlocked": false,
+        "neighbors": [
+            "in",
+            "mm"
+        ]
+    },
+    {
+        "country": "Barbados",
+        "capital": "Bridgetown",
+        "currency": "Barbadian dollar",
+        "native_language": [
+            "english"
+        ],
+        "famous_for": "Flying Fish",
+        "phone_code": "+1-246",
+        "flag": "https://flagpedia.net/data/flags/h160/bb.png",
+        "drive_direction": "left",
+        "alcohol_prohibition": "none",
+        "area": {
+            "km2": 430,
+            "mi2": 170
+        },
+        "continent": "na",
+        "iso": {
+            "numeric": "052",
+            "alpha_2": "bb",
+            "alpha_3": "brb"
+        },
+        "tld": ".bb",
+        "constitutional_form": "constitutional monarchy",
+        "language_codes": [
+            "en-BB"
+        ],
+        "is_landlocked": false,
+        "neighbors": []
+    },
+    {
+        "country": "Belarus",
+        "capital": "Minsk",
+        "currency": "Belarusian ruble",
+        "native_language": [
+            "belarusian",
+            "russian"
+        ],
+        "famous_for": "Variety Of Sweets",
+        "phone_code": "+375",
+        "flag": "https://flagpedia.net/data/flags/h160/by.png",
+        "drive_direction": "right",
+        "alcohol_prohibition": "none",
+        "area": {
+            "km2": 207600,
+            "mi2": 80200
+        },
+        "continent": "eu",
+        "iso": {
+            "numeric": "112",
+            "alpha_2": "by",
+            "alpha_3": "blr"
+        },
+        "tld": ".by",
+        "constitutional_form": "republic",
+        "language_codes": [
+            "be-BY",
+            "ru-BY"
+        ],
+        "is_landlocked": true,
+        "neighbors": [
+            "lt",
+            "lv",
+            "pl",
+            "ru",
+            "ua"
+        ]
+    },
+    {
+        "country": "Belgium",
+        "capital": "Brussels",
+        "currency": "Euro",
+        "native_language": [
+            "dutch",
+            "french",
+            "german"
+        ],
+        "famous_for": "Chocolates, Waffles, Fries And Beer",
+        "phone_code": "+32",
+        "flag": "https://flagpedia.net/data/flags/h160/be.png",
+        "drive_direction": "right",
+        "alcohol_prohibition": "none",
+        "area": {
+            "km2": 30528,
+            "mi2": 11787
+        },
+        "continent": "eu",
+        "iso": {
+            "numeric": "056",
+            "alpha_2": "be",
+            "alpha_3": "bel"
+        },
+        "tld": ".be",
+        "constitutional_form": "constitutional monarchy",
+        "language_codes": [
+            "de-BE",
+            "fr-BE",
+            "nl-BE"
+        ],
+        "is_landlocked": false,
+        "neighbors": [
+            "de",
+            "fr",
+            "lu",
+            "nl"
+        ]
+    },
+    {
+        "country": "Belize",
+        "capital": "Belmopan",
+        "currency": "Belize dollar",
+        "native_language": [
+            "english"
+        ],
+        "famous_for": "Scuba Diving Sites",
+        "phone_code": "+501",
+        "flag": "https://flagpedia.net/data/flags/h160/bz.png",
+        "drive_direction": "right",
+        "alcohol_prohibition": "none",
+        "area": {
+            "km2": 22966,
+            "mi2": 8867
+        },
+        "continent": "na",
+        "iso": {
+            "numeric": "084",
+            "alpha_2": "bz",
+            "alpha_3": "blz"
+        },
+        "tld": ".bz",
+        "constitutional_form": "constitutional monarchy",
+        "language_codes": [
+            "en-BZ"
+        ],
+        "is_landlocked": false,
+        "neighbors": [
+            "gt",
+            "mx"
+        ]
+    },
+    {
+        "country": "Benin",
+        "capital": "Porto-novo",
+        "currency": "West african cfa franc",
+        "native_language": [
+            "french"
+        ],
+        "famous_for": "Bronzes - Brass Work",
+        "phone_code": "+229",
+        "flag": "https://flagpedia.net/data/flags/h160/bj.png",
+        "drive_direction": "right",
+        "alcohol_prohibition": "none",
+        "area": {
+            "km2": 114763,
+            "mi2": 44310
+        },
+        "continent": "af",
+        "iso": {
+            "numeric": "204",
+            "alpha_2": "bj",
+            "alpha_3": "ben"
+        },
+        "tld": ".bj",
+        "constitutional_form": "republic",
+        "language_codes": [
+            "fr-BJ"
+        ],
+        "is_landlocked": false,
+        "neighbors": [
+            "bf",
+            "ne",
+            "ng",
+            "tg"
+        ]
+    },
+    {
+        "country": "Bhutan",
+        "capital": "Thimphu",
+        "currency": "Ngultrum",
+        "native_language": [
+            "dzongkha"
+        ],
+        "famous_for": "Natural Beauty, Forest Conservation, Great Culture And Heritage",
+        "phone_code": "+975",
+        "flag": "https://flagpedia.net/data/flags/h160/bt.png",
+        "drive_direction": "left",
+        "alcohol_prohibition": "none",
+        "area": {
+            "km2": 38394,
+            "mi2": 14824
+        },
+        "continent": "as",
+        "iso": {
+            "numeric": "064",
+            "alpha_2": "bt",
+            "alpha_3": "btn"
+        },
+        "tld": ".bt",
+        "constitutional_form": "constitutional monarchy",
+        "language_codes": [
+            "dz-BT"
+        ],
+        "is_landlocked": true,
+        "neighbors": [
+            "cn",
+            "in"
+        ]
+    },
+    {
+        "country": "Bolivia",
+        "capital": "La paz, sucre",
+        "currency": "Boliviano",
+        "native_language": [
+            "spanish",
+            "quechua",
+            "aymara"
+        ],
+        "famous_for": "Salar De Uyuni",
+        "phone_code": "+591",
+        "flag": "https://flagpedia.net/data/flags/h160/bo.png",
+        "drive_direction": "right",
+        "alcohol_prohibition": "none",
+        "area": {
+            "km2": 1098581,
+            "mi2": 424164
+        },
+        "continent": "sa",
+        "iso": {
+            "numeric": "068",
+            "alpha_2": "bo",
+            "alpha_3": "bol"
+        },
+        "tld": ".bo",
+        "constitutional_form": "republic",
+        "language_codes": [
+            "ay-BO",
+            "es-BO",
+            "qu-BO"
+        ],
+        "is_landlocked": true,
+        "neighbors": [
+            "ar",
+            "br",
+            "cl",
+            "pe",
+            "py"
+        ]
+    },
+    {
+        "country": "Bosnia and herzegovina",
+        "capital": "Sarajevo",
+        "currency": "Convertible mark",
+        "native_language": [
+            "bosnian",
+            "croatian",
+            "serbian"
+        ],
+        "famous_for": "Natural Environment And Cultural Heritage",
+        "phone_code": "+387",
+        "flag": "https://flagpedia.net/data/flags/h160/ba.png",
+        "drive_direction": "right",
+        "alcohol_prohibition": "none",
+        "area": {
+            "km2": 51209,
+            "mi2": 19772
+        },
+        "continent": "eu",
+        "iso": {
+            "numeric": "070",
+            "alpha_2": "ba",
+            "alpha_3": "bih"
+        },
+        "tld": ".ba",
+        "constitutional_form": "republic",
+        "language_codes": [
+            "bs-BA",
+            "hr-BA",
+            "sr-BA"
+        ],
+        "is_landlocked": false,
+        "neighbors": [
+            "hr",
+            "me",
+            "rs"
+        ]
+    },
+    {
+        "country": "Botswana",
+        "capital": "Gaborone",
+        "currency": "Pula",
+        "native_language": [
+            "english",
+            "tswana"
+        ],
+        "famous_for": "Safari Destinations",
+        "phone_code": "+267",
+        "flag": "https://flagpedia.net/data/flags/h160/bw.png",
+        "drive_direction": "left",
+        "alcohol_prohibition": "none",
+        "area": {
+            "km2": 581730,
+            "mi2": 224610
+        },
+        "continent": "af",
+        "iso": {
+            "numeric": "072",
+            "alpha_2": "bw",
+            "alpha_3": "bwa"
+        },
+        "tld": ".bw",
+        "constitutional_form": "republic",
+        "language_codes": [
+            "en-BW"
+        ],
+        "is_landlocked": true,
+        "neighbors": [
+            "na",
+            "za",
+            "zm",
+            "zw"
+        ]
+    },
+    {
+        "country": "Brazil",
+        "capital": "Brasilia",
+        "currency": "Real",
+        "native_language": [
+            "portuguese"
+        ],
+        "famous_for": "Soccer And Football",
+        "phone_code": "+55",
+        "flag": "https://flagpedia.net/data/flags/h160/br.png",
+        "drive_direction": "right",
+        "alcohol_prohibition": "none",
+        "area": {
+            "km2": 8515767,
+            "mi2": 3287956
+        },
+        "continent": "sa",
+        "iso": {
+            "numeric": "076",
+            "alpha_2": "br",
+            "alpha_3": "bra"
+        },
+        "tld": ".br",
+        "constitutional_form": "republic",
+        "language_codes": [
+            "pt-BR"
+        ],
+        "is_landlocked": false,
+        "neighbors": [
+            "ar",
+            "bo",
+            "co",
+            "gq",
+            "gy",
+            "pe",
+            "py",
+            "sr",
+            "uy",
+            "ve"
+        ]
+    },
+    {
+        "country": "Brunei",
+        "capital": "Bandar seri begawan",
+        "currency": "Brunei dollar",
+        "native_language": [
+            "malay"
+        ],
+        "famous_for": "Gorgeous Mosques And Islamic Architecture",
+        "phone_code": "+673",
+        "flag": "https://flagpedia.net/data/flags/h160/bn.png",
+        "drive_direction": "left",
+        "alcohol_prohibition": "nationwide",
+        "area": {
+            "km2": 5765,
+            "mi2": 2226
+        },
+        "continent": "as",
+        "iso": {
+            "numeric": "096",
+            "alpha_2": "bn",
+            "alpha_3": "brn"
+        },
+        "tld": ".bn",
+        "constitutional_form": "absolute monarchy",
+        "language_codes": [
+            "ms-BN"
+        ],
+        "is_landlocked": false,
+        "neighbors": [
+            "my"
+        ]
+    },
+    {
+        "country": "Bulgaria",
+        "capital": "Sofia",
+        "currency": "Lev",
+        "native_language": [
+            "bulgarian"
+        ],
+        "famous_for": "Lavender Oil And The Rose Valley",
+        "phone_code": "+359",
+        "flag": "https://flagpedia.net/data/flags/h160/bg.png",
+        "drive_direction": "right",
+        "alcohol_prohibition": "none",
+        "area": {
+            "km2": 111002,
+            "mi2": 42858
+        },
+        "continent": "eu",
+        "iso": {
+            "numeric": "100",
+            "alpha_2": "bg",
+            "alpha_3": "bgr"
+        },
+        "tld": ".bg",
+        "constitutional_form": "republic",
+        "language_codes": [
+            "bg-BG"
+        ],
+        "is_landlocked": false,
+        "neighbors": [
+            "gr",
+            "mk",
+            "ro",
+            "rs",
+            "tr"
+        ]
+    },
+    {
+        "country": "Burkina faso",
+        "capital": "Ouagadougou",
+        "currency": "West african cfa franc",
+        "native_language": [
+            "french"
+        ],
+        "famous_for": "African Art And Culture",
+        "phone_code": "+226",
+        "flag": "https://flagpedia.net/data/flags/h160/bf.png",
+        "drive_direction": "right",
+        "alcohol_prohibition": "none",
+        "area": {
+            "km2": 274222,
+            "mi2": 105878
+        },
+        "continent": "af",
+        "iso": {
+            "numeric": "854",
+            "alpha_2": "bf",
+            "alpha_3": "bfa"
+        },
+        "tld": ".bf",
+        "constitutional_form": "republic",
+        "language_codes": [
+            "fr-BF"
+        ],
+        "is_landlocked": true,
+        "neighbors": [
+            "bj",
+            "ci",
+            "gh",
+            "ml",
+            "ne",
+            "tg"
+        ]
+    },
+    {
+        "country": "Burundi",
+        "capital": "Bujumbura",
+        "currency": "Burundi franc",
+        "native_language": [
+            "kirundi",
+            "french"
+        ],
+        "famous_for": "Wildlife And Greenery",
+        "phone_code": "+257",
+        "flag": "https://flagpedia.net/data/flags/h160/bi.png",
+        "drive_direction": "right",
+        "alcohol_prohibition": "none",
+        "area": {
+            "km2": 27834,
+            "mi2": 10747
+        },
+        "continent": "af",
+        "iso": {
+            "numeric": "108",
+            "alpha_2": "bi",
+            "alpha_3": "bdi"
+        },
+        "tld": ".bi",
+        "constitutional_form": "republic",
+        "language_codes": [
+            "fr-BI",
+            "rn-BI"
+        ],
+        "is_landlocked": true,
+        "neighbors": [
+            "cd",
+            "rw",
+            "tz"
+        ]
+    },
+    {
+        "country": "Cambodia",
+        "capital": "Phnom penh",
+        "currency": "Riel",
+        "native_language": [
+            "khmer"
+        ],
+        "famous_for": "Angkor Wat Hindu Temple",
+        "phone_code": "+855",
+        "flag": "https://flagpedia.net/data/flags/h160/kh.png",
+        "drive_direction": "right",
+        "alcohol_prohibition": "none",
+        "area": {
+            "km2": 181035,
+            "mi2": 69898
+        },
+        "continent": "as",
+        "iso": {
+            "numeric": "116",
+            "alpha_2": "kh",
+            "alpha_3": "khm"
+        },
+        "tld": ".kh",
+        "constitutional_form": "constitutional monarchy",
+        "language_codes": [
+            "km-KH"
+        ],
+        "is_landlocked": false,
+        "neighbors": [
+            "la",
+            "th",
+            "vn"
+        ]
+    },
+    {
+        "country": "Cameroon",
+        "capital": "Yaounde",
+        "currency": "Central african cfa franc",
+        "native_language": [
+            "french",
+            "english"
+        ],
+        "famous_for": "Coffee, Cocoa, Cotton And Oilseeds",
+        "phone_code": "+237",
+        "flag": "https://flagpedia.net/data/flags/h160/cm.png",
+        "drive_direction": "right",
+        "alcohol_prohibition": "none",
+        "area": {
+            "km2": 475442,
+            "mi2": 183569
+        },
+        "continent": "af",
+        "iso": {
+            "numeric": "120",
+            "alpha_2": "cm",
+            "alpha_3": "cmr"
+        },
+        "tld": ".cm",
+        "constitutional_form": "republic",
+        "language_codes": [
+            "en-CM",
+            "fr-CM"
+        ],
+        "is_landlocked": false,
+        "neighbors": [
+            "cf",
+            "cg",
+            "ga",
+            "gq",
+            "ng",
+            "td"
+        ]
+    },
+    {
+        "country": "Canada",
+        "capital": "Ottawa",
+        "currency": "Canadian dollar",
+        "native_language": [
+            "english",
+            "french"
+        ],
+        "famous_for": "Maple Syrup, Maple Trees, Politeness And Hockey",
+        "phone_code": "+1",
+        "flag": "https://flagpedia.net/data/flags/h160/ca.png",
+        "drive_direction": "right",
+        "alcohol_prohibition": "none",
+        "area": {
+            "km2": 9984670,
+            "mi2": 3855100
+        },
+        "continent": "na",
+        "iso": {
+            "numeric": "124",
+            "alpha_2": "ca",
+            "alpha_3": "can"
+        },
+        "tld": ".ca",
+        "constitutional_form": "constitutional monarchy",
+        "language_codes": [
+            "en-CA",
+            "fr-CA"
+        ],
+        "is_landlocked": false,
+        "neighbors": [
+            "us"
+        ]
+    },
+    {
+        "country": "Cape verde",
+        "capital": "Praia",
+        "currency": "Cape verdean escudo",
+        "native_language": [
+            "portuguese"
+        ],
+        "famous_for": "Warm Tropical Climate, Volcanic Islands, Wonderful Musicians",
+        "phone_code": "+238",
+        "flag": "https://flagpedia.net/data/flags/h160/cv.png",
+        "drive_direction": "right",
+        "alcohol_prohibition": "none",
+        "area": {
+            "km2": 4033,
+            "mi2": 1557
+        },
+        "continent": "af",
+        "iso": {
+            "numeric": "132",
+            "alpha_2": "cv",
+            "alpha_3": "cpv"
+        },
+        "tld": ".cv",
+        "constitutional_form": "republic",
+        "language_codes": [
+            "pt-CV"
+        ],
+        "is_landlocked": false,
+        "neighbors": []
+    },
+    {
+        "country": "Central african republic",
+        "capital": "Bangui",
+        "currency": "Central african cfa franc",
+        "native_language": [
+            "sango",
+            "french"
+        ],
+        "famous_for": "Diamonds, Gold, Oil And Uranium",
+        "phone_code": "+236",
+        "flag": "https://flagpedia.net/data/flags/h160/cf.png",
+        "drive_direction": "right",
+        "alcohol_prohibition": "none",
+        "area": {
+            "km2": 622984,
+            "mi2": 240535
+        },
+        "continent": "af",
+        "iso": {
+            "numeric": "140",
+            "alpha_2": "cf",
+            "alpha_3": "caf"
+        },
+        "tld": ".cf",
+        "constitutional_form": "republic",
+        "language_codes": [
+            "fr-CF",
+            "sg-CF"
+        ],
+        "is_landlocked": true,
+        "neighbors": [
+            "cd",
+            "cg",
+            "cm",
+            "sd",
+            "ss",
+            "td"
+        ]
+    },
+    {
+        "country": "Chad",
+        "capital": "N'djamena",
+        "currency": "Central african cfa franc",
+        "native_language": [
+            "french",
+            "arabic"
+        ],
+        "famous_for": "Chad Lake",
+        "phone_code": "+235",
+        "flag": "https://flagpedia.net/data/flags/h160/td.png",
+        "drive_direction": "right",
+        "alcohol_prohibition": "none",
+        "area": {
+            "km2": 1284000,
+            "mi2": 496000
+        },
+        "continent": "af",
+        "iso": {
+            "numeric": "148",
+            "alpha_2": "td",
+            "alpha_3": "tcd"
+        },
+        "tld": ".td",
+        "constitutional_form": "republic",
+        "language_codes": [
+            "ar-TD",
+            "fr-TD"
+        ],
+        "is_landlocked": true,
+        "neighbors": [
+            "cf",
+            "cm",
+            "ly",
+            "ne",
+            "ng",
+            "sd"
+        ]
+    },
+    {
+        "country": "Chile",
+        "capital": "Santiago",
+        "currency": "Chilean peso",
+        "native_language": [
+            "spanish"
+        ],
+        "famous_for": "Country Of Poets",
+        "phone_code": "+56",
+        "flag": "https://flagpedia.net/data/flags/h160/cl.png",
+        "drive_direction": "right",
+        "alcohol_prohibition": "none",
+        "area": {
+            "km2": 756102,
+            "mi2": 291933
+        },
+        "continent": "sa",
+        "iso": {
+            "numeric": "152",
+            "alpha_2": "cl",
+            "alpha_3": "chl"
+        },
+        "tld": ".cl",
+        "constitutional_form": "republic",
+        "language_codes": [
+            "es-CL"
+        ],
+        "is_landlocked": false,
+        "neighbors": [
+            "ar",
+            "bo",
+            "pe"
+        ]
+    },
+    {
+        "country": "China",
+        "capital": "Beijing",
+        "currency": "Chinese yuan",
+        "native_language": [
+            "mandarin"
+        ],
+        "famous_for": "Kung Fu, Spitting Habit, Panda, Cheap Electronics",
+        "phone_code": "+86",
+        "flag": "https://flagpedia.net/data/flags/h160/cn.png",
+        "drive_direction": "right",
+        "alcohol_prohibition": "none",
+        "area": {
+            "km2": 9596961,
+            "mi2": 3705407
+        },
+        "continent": "as",
+        "iso": {
+            "numeric": "156",
+            "alpha_2": "cn",
+            "alpha_3": "chn"
+        },
+        "tld": ".cn",
+        "constitutional_form": "republic",
+        "language_codes": [
+            "zh-CN"
+        ],
+        "is_landlocked": false,
+        "neighbors": [
+            "af",
+            "bt",
+            "in",
+            "kg",
+            "kp",
+            "kz",
+            "la",
+            "mm",
+            "mn",
+            "np",
+            "pk",
+            "ru",
+            "tj",
+            "vn"
+        ]
+    },
+    {
+        "country": "Colombia",
+        "capital": "Bogota",
+        "currency": "Colombian peso",
+        "native_language": [
+            "spanish"
+        ],
+        "famous_for": "Mines Of Muzo, Chivor And Coscuez",
+        "phone_code": "+57",
+        "flag": "https://flagpedia.net/data/flags/h160/co.png",
+        "drive_direction": "right",
+        "alcohol_prohibition": "none",
+        "area": {
+            "km2": 1141748,
+            "mi2": 440831
+        },
+        "continent": "sa",
+        "iso": {
+            "numeric": "170",
+            "alpha_2": "co",
+            "alpha_3": "col"
+        },
+        "tld": ".co",
+        "constitutional_form": "republic",
+        "language_codes": [
+            "es-CO"
+        ],
+        "is_landlocked": false,
+        "neighbors": [
+            "br",
+            "ec",
+            "pa",
+            "pe",
+            "ve"
+        ]
+    },
+    {
+        "country": "Comoros",
+        "capital": "Moron",
+        "currency": "Comorian franc",
+        "native_language": [
+            "comorian",
+            "arabic",
+            "french"
+        ],
+        "famous_for": "Fragrant Plant Life And Scenic Beauty",
+        "phone_code": "+269",
+        "flag": "https://flagpedia.net/data/flags/h160/km.png",
+        "drive_direction": "right",
+        "alcohol_prohibition": "none",
+        "area": {
+            "km2": 1862,
+            "mi2": 719
+        },
+        "continent": "af",
+        "iso": {
+            "numeric": "174",
+            "alpha_2": "km",
+            "alpha_3": "com"
+        },
+        "tld": ".km",
+        "constitutional_form": "republic",
+        "language_codes": [
+            "ar-KM",
+            "fr-KM"
+        ],
+        "is_landlocked": false,
+        "neighbors": []
+    },
+    {
+        "country": "Democratic republic of the congo",
+        "capital": "Kinshasa",
+        "currency": "Congolese franc",
+        "native_language": [
+            "french"
+        ],
+        "famous_for": "Diamonds, Cobalt And Copper",
+        "phone_code": "+243",
+        "flag": "https://flagpedia.net/data/flags/h160/cd.webp",
+        "drive_direction": "right",
+        "alcohol_prohibition": "none",
+        "area": {
+            "km2": 2344858,
+            "mi2": 905355
+        },
+        "continent": "af",
+        "iso": {
+            "numeric": "180",
+            "alpha_2": "cd",
+            "alpha_3": "cod"
+        },
+        "tld": ".cd",
+        "constitutional_form": "republic",
+        "language_codes": [
+            "fr-CD"
+        ],
+        "is_landlocked": false,
+        "neighbors": [
+            "ao",
+            "bi",
+            "cf",
+            "cg",
+            "rw",
+            "ss",
+            "tz",
+            "ug",
+            "zm"
+        ]
+    },
+    {
+        "country": "Republic of the congo (congo-brazzaville)",
+        "capital": "Brazzaville",
+        "currency": "Central african cfa franc",
+        "native_language": [
+            "french"
+        ],
+        "famous_for": "Natural Resources",
+        "phone_code": "+242",
+        "flag": "https://flagpedia.net/data/flags/h160/cg.png",
+        "drive_direction": "right",
+        "alcohol_prohibition": "none",
+        "area": {
+            "km2": 342000,
+            "mi2": 132000
+        },
+        "continent": "af",
+        "iso": {
+            "numeric": "178",
+            "alpha_2": "cg",
+            "alpha_3": "cog"
+        },
+        "tld": ".cg",
+        "constitutional_form": "republic",
+        "language_codes": [
+            "fr-CG"
+        ],
+        "is_landlocked": false,
+        "neighbors": [
+            "ao",
+            "cd",
+            "cf",
+            "cm",
+            "ga"
+        ]
+    },
+    {
+        "country": "Costa rica",
+        "capital": "San jose",
+        "currency": "Colon",
+        "native_language": [
+            "spanish"
+        ],
+        "famous_for": "Coffee Beans",
+        "phone_code": "+506",
+        "flag": "https://flagpedia.net/data/flags/h160/cr.png",
+        "drive_direction": "right",
+        "alcohol_prohibition": "none",
+        "area": {
+            "km2": 51100,
+            "mi2": 19700
+        },
+        "continent": "na",
+        "iso": {
+            "numeric": "188",
+            "alpha_2": "cr",
+            "alpha_3": "cri"
+        },
+        "tld": ".cr",
+        "constitutional_form": "republic",
+        "language_codes": [
+            "es-CR"
+        ],
+        "is_landlocked": false,
+        "neighbors": [
+            "ni",
+            "pa"
+        ]
+    },
+    {
+        "country": "Cote d'ivoire (ivory coast)",
+        "capital": "Yamoussoukro, abidjan",
+        "currency": "West african cfa franc",
+        "native_language": [
+            "french"
+        ],
+        "famous_for": "Religious And Ethnic Harmony",
+        "phone_code": "+225",
+        "flag": "https://flagpedia.net/data/flags/h160/ci.png",
+        "drive_direction": "right",
+        "alcohol_prohibition": "none",
+        "area": {
+            "km2": 322463,
+            "mi2": 124504
+        },
+        "continent": "af",
+        "iso": {
+            "numeric": "384",
+            "alpha_2": "ci",
+            "alpha_3": "civ"
+        },
+        "tld": ".ci",
+        "constitutional_form": "republic",
+        "language_codes": [
+            "fr-CI"
+        ],
+        "is_landlocked": false,
+        "neighbors": [
+            "bf",
+            "gh",
+            "gn",
+            "lr",
+            "ml"
+        ]
+    },
+    {
+        "country": "Croatia",
+        "capital": "Zagreb",
+        "currency": "Euro",
+        "native_language": [
+            "croatian"
+        ],
+        "famous_for": "Game Of Thrones, Stunning Natural Beauty And 6000km Long Coast",
+        "phone_code": "+385",
+        "flag": "https://flagpedia.net/data/flags/h160/hr.png",
+        "drive_direction": "right",
+        "alcohol_prohibition": "none",
+        "area": {
+            "km2": 56594,
+            "mi2": 21851
+        },
+        "continent": "eu",
+        "iso": {
+            "numeric": "191",
+            "alpha_2": "hr",
+            "alpha_3": "hrv"
+        },
+        "tld": ".hr",
+        "constitutional_form": "republic",
+        "language_codes": [
+            "hr-HR"
+        ],
+        "is_landlocked": false,
+        "neighbors": [
+            "ba",
+            "hu",
+            "me",
+            "rs",
+            "si"
+        ]
+    },
+    {
+        "country": "Cuba",
+        "capital": "Havana",
+        "currency": "Cuban peso",
+        "native_language": [
+            "spanish"
+        ],
+        "famous_for": "Beaches, Rum, Cigars, Fascinating Architecture",
+        "phone_code": "+53",
+        "flag": "https://flagpedia.net/data/flags/h160/cu.png",
+        "drive_direction": "right",
+        "alcohol_prohibition": "none",
+        "area": {
+            "km2": 109884,
+            "mi2": 42426
+        },
+        "continent": "na",
+        "iso": {
+            "numeric": "192",
+            "alpha_2": "cu",
+            "alpha_3": "cub"
+        },
+        "tld": ".cu",
+        "constitutional_form": "republic",
+        "language_codes": [
+            "es-CU"
+        ],
+        "is_landlocked": false,
+        "neighbors": []
+    },
+    {
+        "country": "Cyprus",
+        "capital": "Nicosia",
+        "currency": "Euro",
+        "native_language": [
+            "greek",
+            "turkish"
+        ],
+        "famous_for": "Incredible Scenery And History",
+        "phone_code": "+357",
+        "flag": "https://flagpedia.net/data/flags/h160/cy.png",
+        "drive_direction": "left",
+        "alcohol_prohibition": "none",
+        "area": {
+            "km2": 9251,
+            "mi2": 3572
+        },
+        "continent": "eu",
+        "iso": {
+            "numeric": "196",
+            "alpha_2": "cy",
+            "alpha_3": "cyp"
+        },
+        "tld": ".cy",
+        "constitutional_form": "republic",
+        "language_codes": [
+            "el-CY",
+            "tr-CY"
+        ],
+        "is_landlocked": false,
+        "neighbors": []
+    },
+    {
+        "country": "Czechia",
+        "capital": "Prague",
+        "currency": "Czech koruna",
+        "native_language": [
+            "czech",
+            "slovak"
+        ],
+        "famous_for": "Museums, Puppetry, Marionette Exhibitions And Folk Festivals",
+        "phone_code": "+420",
+        "flag": "https://flagpedia.net/data/flags/h160/cz.png",
+        "drive_direction": "right",
+        "alcohol_prohibition": "none",
+        "area": {
+            "km2": 78865,
+            "mi2": 30450
+        },
+        "continent": "eu",
+        "iso": {
+            "numeric": "203",
+            "alpha_2": "cz",
+            "alpha_3": "cze"
+        },
+        "tld": ".cz",
+        "constitutional_form": "republic",
+        "language_codes": [
+            "cs-CZ"
+        ],
+        "is_landlocked": true,
+        "neighbors": [
+            "at",
+            "de",
+            "pl",
+            "sk"
+        ]
+    },
+    {
+        "country": "Denmark",
+        "capital": "Copenhagen",
+        "currency": "Danish krone",
+        "native_language": [
+            "danish"
+        ],
+        "famous_for": "Pig Meat, Healthcare, Pastries And Cuisine",
+        "phone_code": "+45",
+        "flag": "https://flagpedia.net/data/flags/h160/dk.png",
+        "drive_direction": "right",
+        "alcohol_prohibition": "none",
+        "area": {
+            "km2": 43094,
+            "mi2": 16639
+        },
+        "continent": "eu",
+        "iso": {
+            "numeric": "208",
+            "alpha_2": "dk",
+            "alpha_3": "dnk"
+        },
+        "tld": ".dk",
+        "constitutional_form": "constitutional monarchy",
+        "language_codes": [
+            "da-DK"
+        ],
+        "is_landlocked": false,
+        "neighbors": [
+            "de"
+        ]
+    },
+    {
+        "country": "Djibouti",
+        "capital": "Djibouti",
+        "currency": "Djiboutian franc",
+        "native_language": [
+            "arabic",
+            "french"
+        ],
+        "famous_for": "Amazing Landscapes, Limestone Vents And Flamingos",
+        "phone_code": "+253",
+        "flag": "https://flagpedia.net/data/flags/h160/dj.png",
+        "drive_direction": "right",
+        "alcohol_prohibition": "nationwide",
+        "area": {
+            "km2": 23200,
+            "mi2": 9000
+        },
+        "continent": "af",
+        "iso": {
+            "numeric": "262",
+            "alpha_2": "dj",
+            "alpha_3": "dji"
+        },
+        "tld": ".dj",
+        "constitutional_form": "republic",
+        "language_codes": [
+            "ar-DJ",
+            "fr-DJ"
+        ],
+        "is_landlocked": false,
+        "neighbors": [
+            "er",
+            "et"
+        ]
+    },
+    {
+        "country": "Dominica",
+        "capital": "Rosesau",
+        "currency": "East caribbean dollar",
+        "native_language": [
+            "english",
+            "french",
+            "antillean creole"
+        ],
+        "famous_for": "Boiling Lake",
+        "phone_code": "+1-767",
+        "flag": "https://flagpedia.net/data/flags/h160/dm.png",
+        "drive_direction": "left",
+        "alcohol_prohibition": "none",
+        "area": {
+            "km2": 751,
+            "mi2": 290
+        },
+        "continent": "na",
+        "iso": {
+            "numeric": "212",
+            "alpha_2": "dm",
+            "alpha_3": "dma"
+        },
+        "tld": ".dm",
+        "constitutional_form": "republic",
+        "language_codes": [
+            "en-DM",
+            "fr-DM"
+        ],
+        "is_landlocked": false,
+        "neighbors": []
+    },
+    {
+        "country": "Dominican republic",
+        "capital": "Santo domingo",
+        "currency": "Dominican peso",
+        "native_language": [
+            "spanish"
+        ],
+        "famous_for": "Blue Ocean Water, White-sand Beaches And Beautiful Resorts",
+        "phone_code": "+1-809, +1-829, +1-849",
+        "flag": "https://flagpedia.net/data/flags/h160/do.png",
+        "drive_direction": "right",
+        "alcohol_prohibition": "none",
+        "area": {
+            "km2": 48671,
+            "mi2": 18792
+        },
+        "continent": "na",
+        "iso": {
+            "numeric": "214",
+            "alpha_2": "do",
+            "alpha_3": "dom"
+        },
+        "tld": ".do",
+        "constitutional_form": "republic",
+        "language_codes": [
+            "es-DO"
+        ],
+        "is_landlocked": false,
+        "neighbors": [
+            "ht"
+        ]
+    },
+    {
+        "country": "East timor (timor-leste)",
+        "capital": "Dilli",
+        "currency": "United states dollar",
+        "native_language": [
+            "tetum",
+            "portuguese",
+            "indonesian"
+        ],
+        "famous_for": "Rich Culture And Beautiful Beaches",
+        "phone_code": "+670",
+        "flag": "https://flagpedia.net/data/flags/h160/tl.png",
+        "drive_direction": "left",
+        "alcohol_prohibition": "none",
+        "area": {
+            "km2": 14919,
+            "mi2": 5760
+        },
+        "continent": "as",
+        "iso": {
+            "numeric": "626",
+            "alpha_2": "tl",
+            "alpha_3": "tls"
+        },
+        "tld": ".tl",
+        "constitutional_form": "republic",
+        "language_codes": [
+            "pt-TL"
+        ],
+        "is_landlocked": false,
+        "neighbors": [
+            "id"
+        ]
+    },
+    {
+        "country": "Ecuador",
+        "capital": "Quito",
+        "currency": "United states dollar",
+        "native_language": [
+            "spanish"
+        ],
+        "famous_for": "Home To Galapagos Islands",
+        "phone_code": "+593",
+        "flag": "https://flagpedia.net/data/flags/h160/ec.png",
+        "drive_direction": "right",
+        "alcohol_prohibition": "none",
+        "area": {
+            "km2": 276841,
+            "mi2": 106889
+        },
+        "continent": "sa",
+        "iso": {
+            "numeric": "218",
+            "alpha_2": "ec",
+            "alpha_3": "ecu"
+        },
+        "tld": ".ec",
+        "constitutional_form": "republic",
+        "language_codes": [
+            "es-EC"
+        ],
+        "is_landlocked": false,
+        "neighbors": [
+            "co",
+            "pe"
+        ]
+    },
+    {
+        "country": "Egypt",
+        "capital": "Cairo",
+        "currency": "Egyptian pound",
+        "native_language": [
+            "arabic"
+        ],
+        "famous_for": "Pyramids, Sphinx, Ai Aqsa University And Mummies",
+        "phone_code": "+20",
+        "flag": "https://flagpedia.net/data/flags/h160/eg.png",
+        "drive_direction": "right",
+        "alcohol_prohibition": "none",
+        "area": {
+            "km2": 1002450,
+            "mi2": 387050
+        },
+        "continent": "af",
+        "iso": {
+            "numeric": "818",
+            "alpha_2": "eg",
+            "alpha_3": "egy"
+        },
+        "tld": ".eg",
+        "constitutional_form": "republic",
+        "language_codes": [
+            "ar-EG"
+        ],
+        "is_landlocked": false,
+        "neighbors": [
+            "il",
+            "ly",
+            "sd"
+        ]
+    },
+    {
+        "country": "El salvador",
+        "capital": "San salvador",
+        "currency": "United states dollar",
+        "native_language": [
+            "spanish"
+        ],
+        "famous_for": "Land Of Volcanoes",
+        "phone_code": "+503",
+        "flag": "https://flagpedia.net/data/flags/h160/sv.png",
+        "drive_direction": "right",
+        "alcohol_prohibition": "none",
+        "area": {
+            "km2": 21041,
+            "mi2": 8124
+        },
+        "continent": "na",
+        "iso": {
+            "numeric": "222",
+            "alpha_2": "sv",
+            "alpha_3": "slv"
+        },
+        "tld": ".sv",
+        "constitutional_form": "republic",
+        "language_codes": [
+            "es-SV"
+        ],
+        "is_landlocked": false,
+        "neighbors": [
+            "gt",
+            "hn"
+        ]
+    },
+    {
+        "country": "Equitorial guinea",
+        "capital": "Malabo",
+        "currency": "Central african cfa franc",
+        "native_language": [
+            "spanish",
+            "french",
+            "portuguese"
+        ],
+        "famous_for": "Spanish Speaking Country In Africa",
+        "phone_code": "+240",
+        "flag": "https://flagpedia.net/data/flags/h160/gq.png",
+        "drive_direction": "right",
+        "alcohol_prohibition": "none",
+        "area": {
+            "km2": 28051,
+            "mi2": 10831
+        },
+        "continent": "af",
+        "iso": {
+            "numeric": "226",
+            "alpha_2": "gq",
+            "alpha_3": "gnq"
+        },
+        "tld": ".gq",
+        "constitutional_form": "republic",
+        "language_codes": [
+            "es-GQ",
+            "fr-GQ",
+            "pt-GQ"
+        ],
+        "is_landlocked": false,
+        "neighbors": [
+            "cm",
+            "ga"
+        ]
+    },
+    {
+        "country": "Eritrea",
+        "capital": "Asmara",
+        "currency": "Nakfa",
+        "native_language": [
+            "arabic",
+            "tigrinya",
+            "english"
+        ],
+        "famous_for": "Coastal Location In History And Culture",
+        "phone_code": "+291",
+        "flag": "https://flagpedia.net/data/flags/h160/er.png",
+        "drive_direction": "right",
+        "alcohol_prohibition": "none",
+        "area": {
+            "km2": 117600,
+            "mi2": 45400
+        },
+        "continent": "af",
+        "iso": {
+            "numeric": "232",
+            "alpha_2": "er",
+            "alpha_3": "eri"
+        },
+        "tld": ".er",
+        "constitutional_form": "republic",
+        "language_codes": [
+            "ar-ER",
+            "en-ER",
+            "ti-ER"
+        ],
+        "is_landlocked": false,
+        "neighbors": [
+            "dj",
+            "et",
+            "sd"
+        ]
+    },
+    {
+        "country": "Estonia",
+        "capital": "Tallinn",
+        "currency": "Estonian kroon, euro",
+        "native_language": [
+            "estonian"
+        ],
+        "famous_for": "Medieval Architecture",
+        "phone_code": "+372",
+        "flag": "https://flagpedia.net/data/flags/h160/ee.png",
+        "drive_direction": "right",
+        "alcohol_prohibition": "none",
+        "area": {
+            "km2": 45227,
+            "mi2": 17462
+        },
+        "continent": "eu",
+        "iso": {
+            "numeric": "233",
+            "alpha_2": "ee",
+            "alpha_3": "est"
+        },
+        "tld": ".ee",
+        "constitutional_form": "republic",
+        "language_codes": [
+            "et-EE"
+        ],
+        "is_landlocked": false,
+        "neighbors": [
+            "lv",
+            "ru"
+        ]
+    },
+    {
+        "country": "Ethiopia",
+        "capital": "Addis ababa",
+        "currency": "Birr",
+        "native_language": [
+            "amharic"
+        ],
+        "famous_for": "Cradle Of Mankind",
+        "phone_code": "+251",
+        "flag": "https://flagpedia.net/data/flags/h160/et.png",
+        "drive_direction": "right",
+        "alcohol_prohibition": "none",
+        "area": {
+            "km2": 1104300,
+            "mi2": 426400
+        },
+        "continent": "af",
+        "iso": {
+            "numeric": "231",
+            "alpha_2": "et",
+            "alpha_3": "eth"
+        },
+        "tld": ".et",
+        "constitutional_form": "republic",
+        "language_codes": [
+            "am-ET"
+        ],
+        "is_landlocked": true,
+        "neighbors": [
+            "dj",
+            "er",
+            "ke",
+            "sd",
+            "so",
+            "ss"
+        ]
+    },
+    {
+        "country": "Fiji",
+        "capital": "Suva",
+        "currency": "Fijian dollar",
+        "native_language": [
+            "english",
+            "bau fijian",
+            "hindi"
+        ],
+        "famous_for": "Friendly People And Heavenly Tropical Islands",
+        "phone_code": "+679",
+        "flag": "https://flagpedia.net/data/flags/h160/fj.png",
+        "drive_direction": "left",
+        "alcohol_prohibition": "none",
+        "area": {
+            "km2": 18272,
+            "mi2": 7055
+        },
+        "continent": "oc",
+        "iso": {
+            "numeric": "242",
+            "alpha_2": "fj",
+            "alpha_3": "fji"
+        },
+        "tld": ".fj",
+        "constitutional_form": "republic",
+        "language_codes": [
+            "en-FJ",
+            "fj-FJ"
+        ],
+        "is_landlocked": false,
+        "neighbors": []
+    },
+    {
+        "country": "Finland",
+        "capital": "Helsinki",
+        "currency": "Euro",
+        "native_language": [
+            "finnish",
+            "swedish"
+        ],
+        "famous_for": "Glassware, Littala",
+        "phone_code": "+358",
+        "flag": "https://flagpedia.net/data/flags/h160/fi.png",
+        "drive_direction": "right",
+        "alcohol_prohibition": "none",
+        "area": {
+            "km2": 338424,
+            "mi2": 130666
+        },
+        "continent": "eu",
+        "iso": {
+            "numeric": "246",
+            "alpha_2": "fi",
+            "alpha_3": "fin"
+        },
+        "tld": ".fi",
+        "constitutional_form": "republic",
+        "language_codes": [
+            "fi-FI",
+            "sv-FI"
+        ],
+        "is_landlocked": false,
+        "neighbors": [
+            "no",
+            "se",
+            "ru"
+        ]
+    },
+    {
+        "country": "France",
+        "capital": "Paris",
+        "currency": "Euro, cfp franc",
+        "native_language": [
+            "french"
+        ],
+        "famous_for": "Eiffel Tower, Croissant, Fashion, Smoking And Wine",
+        "phone_code": "+33",
+        "flag": "https://flagpedia.net/data/flags/h160/fr.png",
+        "drive_direction": "right",
+        "alcohol_prohibition": "none",
+        "area": {
+            "km2": 640679,
+            "mi2": 247368
+        },
+        "continent": "eu",
+        "iso": {
+            "numeric": "250",
+            "alpha_2": "fr",
+            "alpha_3": "fra"
+        },
+        "tld": ".fr",
+        "constitutional_form": "republic",
+        "language_codes": [
+            "fr-FR"
+        ],
+        "is_landlocked": false,
+        "neighbors": [
+            "ad",
+            "be",
+            "ch",
+            "de",
+            "es",
+            "it",
+            "lu",
+            "mc"
+        ]
+    },
+    {
+        "country": "Gabon",
+        "capital": "Libreville",
+        "currency": "Central african cfa franc",
+        "native_language": [
+            "french"
+        ],
+        "famous_for": "Preserving The Natural Environment",
+        "phone_code": "+241",
+        "flag": "https://flagpedia.net/data/flags/h160/ga.png",
+        "drive_direction": "right",
+        "alcohol_prohibition": "none",
+        "area": {
+            "km2": 267668,
+            "mi2": 103347
+        },
+        "continent": "af",
+        "iso": {
+            "numeric": "266",
+            "alpha_2": "ga",
+            "alpha_3": "gab"
+        },
+        "tld": ".ga",
+        "constitutional_form": "republic",
+        "language_codes": [
+            "fr-GA"
+        ],
+        "is_landlocked": false,
+        "neighbors": [
+            "cg",
+            "cm",
+            "gq"
+        ]
+    },
+    {
+        "country": "The gambia",
+        "capital": "Banjul",
+        "currency": "Dalasi",
+        "native_language": [
+            "english"
+        ],
+        "famous_for": "Beaches, Home To Juffure",
+        "phone_code": "+220",
+        "flag": "https://flagpedia.net/data/flags/h160/gm.png",
+        "drive_direction": "right",
+        "alcohol_prohibition": "none",
+        "area": {
+            "km2": 11295,
+            "mi2": 4361
+        },
+        "continent": "af",
+        "iso": {
+            "numeric": "270",
+            "alpha_2": "gm",
+            "alpha_3": "gmb"
+        },
+        "tld": ".gm",
+        "constitutional_form": "republic",
+        "language_codes": [
+            "en-GM"
+        ],
+        "is_landlocked": false,
+        "neighbors": [
+            "sn"
+        ]
+    },
+    {
+        "country": "Georgia",
+        "capital": "Tbilisi",
+        "currency": "Lari",
+        "native_language": [
+            "georgian"
+        ],
+        "famous_for": "Joseph Stalin",
+        "phone_code": "+995",
+        "flag": "https://flagpedia.net/data/flags/h160/ge.png",
+        "drive_direction": "right",
+        "alcohol_prohibition": "none",
+        "area": {
+            "km2": 69700,
+            "mi2": 26900
+        },
+        "continent": "as",
+        "iso": {
+            "numeric": "268",
+            "alpha_2": "ge",
+            "alpha_3": "geo"
+        },
+        "tld": ".ge",
+        "constitutional_form": "republic",
+        "language_codes": [
+            "ka-GE"
+        ],
+        "is_landlocked": false,
+        "neighbors": [
+            "am",
+            "az",
+            "ru",
+            "tr"
+        ]
+    },
+    {
+        "country": "Germany",
+        "capital": "Berlin",
+        "currency": "Euro",
+        "native_language": [
+            "german"
+        ],
+        "famous_for": "Beer, Sausage, Nazi And Cars",
+        "phone_code": "+49",
+        "flag": "https://flagpedia.net/data/flags/h160/de.png",
+        "drive_direction": "right",
+        "alcohol_prohibition": "none",
+        "area": {
+            "km2": 357114,
+            "mi2": 137882
+        },
+        "continent": "eu",
+        "iso": {
+            "numeric": "276",
+            "alpha_2": "de",
+            "alpha_3": "deu"
+        },
+        "tld": ".de",
+        "constitutional_form": "republic",
+        "language_codes": [
+            "de-DE"
+        ],
+        "is_landlocked": false,
+        "neighbors": [
+            "at",
+            "be",
+            "ch",
+            "cz",
+            "de",
+            "fr",
+            "lu",
+            "nl",
+            "pl"
+        ]
+    },
+    {
+        "country": "Ghana",
+        "capital": "Accra",
+        "currency": "Ghanaian cedi",
+        "native_language": [
+            "english"
+        ],
+        "famous_for": "Lush Forests, Diverse Animal Life, Cocoa And Gold",
+        "phone_code": "+223",
+        "flag": "https://flagpedia.net/data/flags/h160/gh.png",
+        "drive_direction": "right",
+        "alcohol_prohibition": "none",
+        "area": {
+            "km2": 238533,
+            "mi2": 92098
+        },
+        "continent": "af",
+        "iso": {
+            "numeric": "288",
+            "alpha_2": "gh",
+            "alpha_3": "gha"
+        },
+        "tld": ".gh",
+        "constitutional_form": "republic",
+        "language_codes": [
+            "en-GH"
+        ],
+        "is_landlocked": false,
+        "neighbors": [
+            "bf",
+            "ci",
+            "tg"
+        ]
+    },
+    {
+        "country": "Greece",
+        "capital": "Athens",
+        "currency": "Euro",
+        "native_language": [
+            "greek"
+        ],
+        "famous_for": "Ancient Philosophers, Ancient Greek Gods, Sparta And Orthodox Christianity",
+        "phone_code": "+30",
+        "flag": "https://flagpedia.net/data/flags/h160/gr.png",
+        "drive_direction": "right",
+        "alcohol_prohibition": "none",
+        "area": {
+            "km2": 131957,
+            "mi2": 50949
+        },
+        "continent": "eu",
+        "iso": {
+            "numeric": "300",
+            "alpha_2": "gr",
+            "alpha_3": "grc"
+        },
+        "tld": ".gr",
+        "constitutional_form": "republic",
+        "language_codes": [
+            "el-GR"
+        ],
+        "is_landlocked": false,
+        "neighbors": [
+            "al",
+            "bg",
+            "mk",
+            "tr"
+        ]
+    },
+    {
+        "country": "Grenada",
+        "capital": "St. george's",
+        "currency": "East caribbean dollar",
+        "native_language": [
+            "english",
+            "patois"
+        ],
+        "famous_for": "Spices",
+        "phone_code": "+1-473",
+        "flag": "https://flagpedia.net/data/flags/h160/gd.png",
+        "drive_direction": "left",
+        "alcohol_prohibition": "none",
+        "area": {
+            "km2": 344,
+            "mi2": 133
+        },
+        "continent": "na",
+        "iso": {
+            "numeric": "308",
+            "alpha_2": "gd",
+            "alpha_3": "grd"
+        },
+        "tld": ".gd",
+        "constitutional_form": "constitutional monarchy",
+        "language_codes": [
+            "en-GD"
+        ],
+        "is_landlocked": false,
+        "neighbors": []
+    },
+    {
+        "country": "Guatemala",
+        "capital": "Guatemala city",
+        "currency": "Quetzal",
+        "native_language": [
+            "spanish"
+        ],
+        "famous_for": "Volcanic Landscape And Fascinating Mayan Culture",
+        "phone_code": "+502",
+        "flag": "https://flagpedia.net/data/flags/h160/gt.png",
+        "drive_direction": "right",
+        "alcohol_prohibition": "none",
+        "area": {
+            "km2": 108889,
+            "mi2": 42042
+        },
+        "continent": "na",
+        "iso": {
+            "numeric": "320",
+            "alpha_2": "gt",
+            "alpha_3": "gtm"
+        },
+        "tld": ".gt",
+        "constitutional_form": "republic",
+        "language_codes": [
+            "es-GT"
+        ],
+        "is_landlocked": false,
+        "neighbors": [
+            "bz",
+            "hn",
+            "mx",
+            "sv"
+        ]
+    },
+    {
+        "country": "Guinea",
+        "capital": "Conakry",
+        "currency": "Guinean franc",
+        "native_language": [
+            "french"
+        ],
+        "famous_for": "Hydroelectric Power, Bauxite Reserves",
+        "phone_code": "+224",
+        "flag": "https://flagpedia.net/data/flags/h160/gn.png",
+        "drive_direction": "right",
+        "alcohol_prohibition": "none",
+        "area": {
+            "km2": 245857,
+            "mi2": 94926
+        },
+        "continent": "af",
+        "iso": {
+            "numeric": "324",
+            "alpha_2": "gn",
+            "alpha_3": "gin"
+        },
+        "tld": ".gn",
+        "constitutional_form": "republic",
+        "language_codes": [
+            "fr-GN"
+        ],
+        "is_landlocked": false,
+        "neighbors": [
+            "ci",
+            "gw",
+            "lr",
+            "ml",
+            "sl",
+            "sn"
+        ]
+    },
+    {
+        "country": "Guinea-bissau",
+        "capital": "Bissau",
+        "currency": "West african cfa franc",
+        "native_language": [
+            "portuguese"
+        ],
+        "famous_for": "Transit Point For Latin American Cocain",
+        "phone_code": "+245",
+        "flag": "https://flagpedia.net/data/flags/h160/gw.png",
+        "drive_direction": "right",
+        "alcohol_prohibition": "none",
+        "area": {
+            "km2": 36125,
+            "mi2": 13948
+        },
+        "continent": "af",
+        "iso": {
+            "numeric": "624",
+            "alpha_2": "gw",
+            "alpha_3": "gnb"
+        },
+        "tld": ".gw",
+        "constitutional_form": "republic",
+        "language_codes": [
+            "pt-GW"
+        ],
+        "is_landlocked": false,
+        "neighbors": [
+            "gn",
+            "sl"
+        ]
+    },
+    {
+        "country": "Guyana",
+        "capital": "Georgetown",
+        "currency": "Guyanese dollar",
+        "native_language": [
+            "english"
+        ],
+        "famous_for": "Pristine Rainforests, Sugarcane Plantations, Rice Fields And Bauxite Reserves",
+        "phone_code": "+592",
+        "flag": "https://flagpedia.net/data/flags/h160/gy.png",
+        "drive_direction": "left",
+        "alcohol_prohibition": "none",
+        "area": {
+            "km2": 214969,
+            "mi2": 83000
+        },
+        "continent": "sa",
+        "iso": {
+            "numeric": "328",
+            "alpha_2": "gy",
+            "alpha_3": "guy"
+        },
+        "tld": ".gy",
+        "constitutional_form": "republic",
+        "language_codes": [
+            "en-GY"
+        ],
+        "is_landlocked": false,
+        "neighbors": [
+            "br",
+            "sr",
+            "ve"
+        ]
+    },
+    {
+        "country": "Haiti",
+        "capital": "Port-au-prince",
+        "currency": "Gourde",
+        "native_language": [
+            "haitian creole",
+            "french"
+        ],
+        "famous_for": "Breathtaking Beaches And Crystal Blue Waters",
+        "phone_code": "+509",
+        "flag": "https://flagpedia.net/data/flags/h160/ht.png",
+        "drive_direction": "right",
+        "alcohol_prohibition": "none",
+        "area": {
+            "km2": 27750,
+            "mi2": 10710
+        },
+        "continent": "na",
+        "iso": {
+            "numeric": "332",
+            "alpha_2": "ht",
+            "alpha_3": "hti"
+        },
+        "tld": ".ht",
+        "constitutional_form": "republic",
+        "language_codes": [
+            "fr-HT",
+            "ht-HT"
+        ],
+        "is_landlocked": false,
+        "neighbors": [
+            "do"
+        ]
+    },
+    {
+        "country": "Honduras",
+        "capital": "Tegucigalpa",
+        "currency": "Lempira",
+        "native_language": [
+            "spanish"
+        ],
+        "famous_for": "Rich Natural Resources, Tropical Fruit, Sugarcane, Coffee And Growing Textiles Industry",
+        "phone_code": "+504",
+        "flag": "https://flagpedia.net/data/flags/h160/hn.png",
+        "drive_direction": "right",
+        "alcohol_prohibition": "none",
+        "area": {
+            "km2": 112492,
+            "mi2": 43433
+        },
+        "continent": "na",
+        "iso": {
+            "numeric": "340",
+            "alpha_2": "hn",
+            "alpha_3": "hnd"
+        },
+        "tld": ".hn",
+        "constitutional_form": "republic",
+        "language_codes": [
+            "es-HN"
+        ],
+        "is_landlocked": false,
+        "neighbors": [
+            "gt",
+            "ni",
+            "sv"
+        ]
+    },
+    {
+        "country": "Hungary",
+        "capital": "Budapest",
+        "currency": "Forint",
+        "native_language": [
+            "hungarian"
+        ],
+        "famous_for": "Rich Natural Resources And Textiles",
+        "phone_code": "+36",
+        "flag": "https://flagpedia.net/data/flags/h160/hu.png",
+        "drive_direction": "right",
+        "alcohol_prohibition": "none",
+        "area": {
+            "km2": 93028,
+            "mi2": 35918
+        },
+        "continent": "eu",
+        "iso": {
+            "numeric": "348",
+            "alpha_2": "hu",
+            "alpha_3": "hun"
+        },
+        "tld": ".hu",
+        "constitutional_form": "republic",
+        "language_codes": [
+            "hu-HU"
+        ],
+        "is_landlocked": true,
+        "neighbors": [
+            "at",
+            "hr",
+            "ro",
+            "rs",
+            "si",
+            "sk",
+            "ua"
+        ]
+    },
+    {
+        "country": "Iceland",
+        "capital": "Reykjavik",
+        "currency": "Icelandic krona",
+        "native_language": [
+            "icelandic"
+        ],
+        "famous_for": "Largest Glaciers In Europe",
+        "phone_code": "+354",
+        "flag": "https://flagpedia.net/data/flags/h160/is.png",
+        "drive_direction": "right",
+        "alcohol_prohibition": "none",
+        "area": {
+            "km2": 103000,
+            "mi2": 40000
+        },
+        "continent": "eu",
+        "iso": {
+            "numeric": "352",
+            "alpha_2": "is",
+            "alpha_3": "isl"
+        },
+        "tld": ".is",
+        "constitutional_form": "republic",
+        "language_codes": [
+            "is-IS"
+        ],
+        "is_landlocked": false,
+        "neighbors": []
+    },
+    {
+        "country": "India",
+        "capital": "New delhi",
+        "currency": "Indian rupee",
+        "native_language": [
+            "hindi",
+            "english"
+        ],
+        "famous_for": "Bollywood, Yoga, Hinduism, Food And Diversity",
+        "phone_code": "+91",
+        "flag": "https://flagpedia.net/data/flags/h160/in.png",
+        "drive_direction": "left",
+        "alcohol_prohibition": "regional",
+        "area": {
+            "km2": 3287263,
+            "mi2": 1269219
+        },
+        "continent": "as",
+        "iso": {
+            "numeric": "356",
+            "alpha_2": "in",
+            "alpha_3": "ind"
+        },
+        "tld": ".in",
+        "constitutional_form": "republic",
+        "language_codes": [
+            "en-IN",
+            "hi-IN"
+        ],
+        "is_landlocked": false,
+        "neighbors": [
+            "bd",
+            "bt",
+            "cn",
+            "lk",
+            "mm",
+            "np",
+            "pk"
+        ]
+    },
+    {
+        "country": "Indonesia",
+        "capital": "Jakarta",
+        "currency": "Rupiah",
+        "native_language": [
+            "indonesian"
+        ],
+        "famous_for": "Bali, Komodo Dragon, Domestic Workers And Rendang",
+        "phone_code": "+62",
+        "flag": "https://flagpedia.net/data/flags/h160/id.png",
+        "drive_direction": "left",
+        "alcohol_prohibition": "regional",
+        "area": {
+            "km2": 1910931,
+            "mi2": 737815
+        },
+        "continent": "as",
+        "iso": {
+            "numeric": "360",
+            "alpha_2": "id",
+            "alpha_3": "idn"
+        },
+        "tld": ".id",
+        "constitutional_form": "republic",
+        "language_codes": [
+            "id-ID"
+        ],
+        "is_landlocked": false,
+        "neighbors": [
+            "my",
+            "pg",
+            "tl"
+        ]
+    },
+    {
+        "country": "Iran",
+        "capital": "Tehran",
+        "currency": "Rial",
+        "native_language": [
+            "persian"
+        ],
+        "famous_for": "Nuclear Weapon, Shia Muslims, Poetry, Persian Carpet",
+        "phone_code": "+98",
+        "flag": "https://flagpedia.net/data/flags/h160/ir.png",
+        "drive_direction": "right",
+        "alcohol_prohibition": "nationwide",
+        "area": {
+            "km2": 1648195,
+            "mi2": 636372
+        },
+        "continent": "as",
+        "iso": {
+            "numeric": "364",
+            "alpha_2": "ir",
+            "alpha_3": "irn"
+        },
+        "tld": ".ir",
+        "constitutional_form": "republic",
+        "language_codes": [
+            "fa-IR"
+        ],
+        "is_landlocked": false,
+        "neighbors": [
+            "af",
+            "am",
+            "az",
+            "iq",
+            "pk",
+            "tm",
+            "tr"
+        ]
+    },
+    {
+        "country": "Iraq",
+        "capital": "Baghdad",
+        "currency": "Iraqi dinar",
+        "native_language": [
+            "arabic",
+            "kurdish"
+        ],
+        "famous_for": "Saddam Hussein, Isis",
+        "phone_code": "+964",
+        "flag": "https://flagpedia.net/data/flags/h160/iq.png",
+        "drive_direction": "right",
+        "alcohol_prohibition": "none",
+        "area": {
+            "km2": 438317,
+            "mi2": 169235
+        },
+        "continent": "as",
+        "iso": {
+            "numeric": "368",
+            "alpha_2": "iq",
+            "alpha_3": "irq"
+        },
+        "tld": ".iq",
+        "constitutional_form": "republic",
+        "language_codes": [
+            "ar-IK",
+            "ku-IK"
+        ],
+        "is_landlocked": false,
+        "neighbors": [
+            "ir",
+            "jo",
+            "kw",
+            "sa",
+            "sy",
+            "tr"
+        ]
+    },
+    {
+        "country": "Republic of ireland",
+        "capital": "Dublin",
+        "currency": "Euro",
+        "native_language": [
+            "english",
+            "irish"
+        ],
+        "famous_for": "Meadows And Leprechaun",
+        "phone_code": "+353",
+        "flag": "https://flagpedia.net/data/flags/h160/ie.png",
+        "drive_direction": "right",
+        "alcohol_prohibition": "none",
+        "area": {
+            "km2": 70273,
+            "mi2": 27133
+        },
+        "continent": "eu",
+        "iso": {
+            "numeric": "372",
+            "alpha_2": "ie",
+            "alpha_3": "irl"
+        },
+        "tld": ".ie",
+        "constitutional_form": "republic",
+        "language_codes": [
+            "en-IE",
+            "ga-IE"
+        ],
+        "is_landlocked": false,
+        "neighbors": [
+            "gb"
+        ]
+    },
+    {
+        "country": "Israel",
+        "capital": "Jerusalem",
+        "currency": "Shekel",
+        "native_language": [
+            "hebrew",
+            "arabic"
+        ],
+        "famous_for": "Jewish-majority, Aliyah, Al Aqsa Mosque, Jerusalem",
+        "phone_code": "+972",
+        "flag": "https://flagpedia.net/data/flags/h160/il.png",
+        "drive_direction": "right",
+        "alcohol_prohibition": "none",
+        "area": {
+            "km2": 20770,
+            "mi2": 8020
+        },
+        "continent": "as",
+        "iso": {
+            "numeric": "376",
+            "alpha_2": "il",
+            "alpha_3": "isr"
+        },
+        "tld": ".il",
+        "constitutional_form": "republic",
+        "language_codes": [
+            "ar-IL",
+            "he-IL"
+        ],
+        "is_landlocked": false,
+        "neighbors": [
+            "eg",
+            "jo",
+            "lb",
+            "sy"
+        ]
+    },
+    {
+        "country": "Italy",
+        "capital": "Rome",
+        "currency": "Euro",
+        "native_language": [
+            "italian"
+        ],
+        "famous_for": "Ferrari, Spaghetti, Pizza, Fashion, Venice",
+        "phone_code": "+39",
+        "flag": "https://flagpedia.net/data/flags/h160/it.png",
+        "drive_direction": "right",
+        "alcohol_prohibition": "none",
+        "area": {
+            "km2": 301339,
+            "mi2": 116348
+        },
+        "continent": "eu",
+        "iso": {
+            "numeric": "380",
+            "alpha_2": "it",
+            "alpha_3": "ita"
+        },
+        "tld": ".it",
+        "constitutional_form": "republic",
+        "language_codes": [
+            "it-IT"
+        ],
+        "is_landlocked": false,
+        "neighbors": [
+            "at",
+            "ch",
+            "fr",
+            "si",
+            "sm",
+            "va"
+        ]
+    },
+    {
+        "country": "Jamaica",
+        "capital": "Kingston",
+        "currency": "Jamaican dollar",
+        "native_language": [
+            "english"
+        ],
+        "famous_for": "Blue Mountain Coffee",
+        "phone_code": "+1-876",
+        "flag": "https://flagpedia.net/data/flags/h160/jm.png",
+        "drive_direction": "left",
+        "alcohol_prohibition": "none",
+        "area": {
+            "km2": 10991,
+            "mi2": 4244
+        },
+        "continent": "na",
+        "iso": {
+            "numeric": "388",
+            "alpha_2": "jm",
+            "alpha_3": "jam"
+        },
+        "tld": ".jm",
+        "constitutional_form": "constitutional monarchy",
+        "language_codes": [
+            "en-JM"
+        ],
+        "is_landlocked": false,
+        "neighbors": []
+    },
+    {
+        "country": "Japan",
+        "capital": "Tokyo",
+        "currency": "Yen",
+        "native_language": [
+            "japanese"
+        ],
+        "famous_for": "Politeness, Anime, Sushi, Samurai, Nintendo Karate, Cars And Robotics",
+        "phone_code": "+81",
+        "flag": "https://flagpedia.net/data/flags/h160/jp.png",
+        "drive_direction": "left",
+        "alcohol_prohibition": "none",
+        "area": {
+            "km2": 377975,
+            "mi2": 145937
+        },
+        "continent": "as",
+        "iso": {
+            "numeric": "392",
+            "alpha_2": "jp",
+            "alpha_3": "jpn"
+        },
+        "tld": ".jp",
+        "constitutional_form": "constitutional monarchy",
+        "language_codes": [
+            "ja-JP"
+        ],
+        "is_landlocked": false,
+        "neighbors": []
+    },
+    {
+        "country": "Jordan",
+        "capital": "Amman",
+        "currency": "Jordanian dinar",
+        "native_language": [
+            "arabic"
+        ],
+        "famous_for": "Petra",
+        "phone_code": "+962",
+        "flag": "https://flagpedia.net/data/flags/h160/jo.png",
+        "drive_direction": "right",
+        "alcohol_prohibition": "none",
+        "area": {
+            "km2": 89342,
+            "mi2": 34495
+        },
+        "continent": "as",
+        "iso": {
+            "numeric": "400",
+            "alpha_2": "jo",
+            "alpha_3": "jor"
+        },
+        "tld": ".jo",
+        "constitutional_form": "constitutional monarchy",
+        "language_codes": [
+            "ar-JO"
+        ],
+        "is_landlocked": false,
+        "neighbors": [
+            "il",
+            "iq",
+            "sa",
+            "sy"
+        ]
+    },
+    {
+        "country": "Kazakhstan",
+        "capital": "Astana",
+        "currency": "Tenge",
+        "native_language": [
+            "kazakh",
+            "russian"
+        ],
+        "famous_for": "Architectural Marvels, The Caspian Sea And Wild Horses",
+        "phone_code": "+7",
+        "flag": "https://flagpedia.net/data/flags/h160/kz.png",
+        "drive_direction": "right",
+        "alcohol_prohibition": "none",
+        "area": {
+            "km2": 2724900,
+            "mi2": 1052100
+        },
+        "continent": "as",
+        "iso": {
+            "numeric": "398",
+            "alpha_2": "kz",
+            "alpha_3": "kaz"
+        },
+        "tld": ".kz",
+        "constitutional_form": "republic",
+        "language_codes": [
+            "kk-KZ",
+            "ru-KZ"
+        ],
+        "is_landlocked": true,
+        "neighbors": [
+            "cn",
+            "kg",
+            "ru",
+            "tm",
+            "uz"
+        ]
+    },
+    {
+        "country": "Kenya",
+        "capital": "Nairobi",
+        "currency": "Kenyan shilling",
+        "native_language": [
+            "swahili",
+            "english"
+        ],
+        "famous_for": "Masai People, Safari Tourism",
+        "phone_code": "+254",
+        "flag": "https://flagpedia.net/data/flags/h160/ke.png",
+        "drive_direction": "left",
+        "alcohol_prohibition": "none",
+        "area": {
+            "km2": 580367,
+            "mi2": 224081
+        },
+        "continent": "af",
+        "iso": {
+            "numeric": "404",
+            "alpha_2": "ke",
+            "alpha_3": "ken"
+        },
+        "tld": ".ke",
+        "constitutional_form": "republic",
+        "language_codes": [
+            "en-KE",
+            "sw-KE"
+        ],
+        "is_landlocked": false,
+        "neighbors": [
+            "et",
+            "so",
+            "ss",
+            "tz",
+            "ug"
+        ]
+    },
+    {
+        "country": "Kiribati",
+        "capital": "Tarawa atoll",
+        "currency": "Kiribati dollar",
+        "native_language": [
+            "english",
+            "gilbertese"
+        ],
+        "famous_for": "Flyfishing, Scuba Diving And Astounding Seabird Wildlife",
+        "phone_code": "+686",
+        "flag": "https://flagpedia.net/data/flags/h160/ki.png",
+        "drive_direction": "left",
+        "alcohol_prohibition": "none",
+        "area": {
+            "km2": 811,
+            "mi2": 313
+        },
+        "continent": "oc",
+        "iso": {
+            "numeric": "296",
+            "alpha_2": "ki",
+            "alpha_3": "kir"
+        },
+        "tld": ".ki",
+        "constitutional_form": "republic",
+        "language_codes": [
+            "en-KI"
+        ],
+        "is_landlocked": false,
+        "neighbors": []
+    },
+    {
+        "country": "North korea",
+        "capital": "Pyongyang",
+        "currency": "North korean won",
+        "native_language": [
+            "korean"
+        ],
+        "famous_for": "Communism, Kim Jeong 2, Nuclear Weapon",
+        "phone_code": "+850",
+        "flag": "https://flagpedia.net/data/flags/h160/kp.png",
+        "drive_direction": "right",
+        "alcohol_prohibition": "none",
+        "area": {
+            "km2": 120540,
+            "mi2": 46540
+        },
+        "continent": "as",
+        "iso": {
+            "numeric": "408",
+            "alpha_2": "kp",
+            "alpha_3": "prk"
+        },
+        "tld": ".kp",
+        "constitutional_form": "republic",
+        "language_codes": [
+            "ko-KP"
+        ],
+        "is_landlocked": false,
+        "neighbors": [
+            "cn",
+            "kr",
+            "ru"
+        ]
+    },
+    {
+        "country": "South korea",
+        "capital": "Seoul",
+        "currency": "South korean won",
+        "native_language": [
+            "korean"
+        ],
+        "famous_for": "K-pop, Samsung, Hyundai, Kia And Kim Chi",
+        "phone_code": "+82",
+        "flag": "https://flagpedia.net/data/flags/h160/kr.png",
+        "drive_direction": "right",
+        "alcohol_prohibition": "none",
+        "area": {
+            "km2": 100210,
+            "mi2": 38690
+        },
+        "continent": "as",
+        "iso": {
+            "numeric": "410",
+            "alpha_2": "kr",
+            "alpha_3": "kor"
+        },
+        "tld": ".kr",
+        "constitutional_form": "republic",
+        "language_codes": [
+            "ko-KR"
+        ],
+        "is_landlocked": false,
+        "neighbors": [
+            "kp"
+        ]
+    },
+    {
+        "country": "Kosovo",
+        "capital": "Pristina",
+        "currency": "Euro",
+        "native_language": [
+            "albanian",
+            "serbian"
+        ],
+        "famous_for": "Mountains And Wine",
+        "phone_code": "+383",
+        "flag": "https://flagpedia.net/data/flags/h160/xk.png",
+        "drive_direction": "right",
+        "alcohol_prohibition": "none",
+        "area": {
+            "km2": 10887,
+            "mi2": 4203
+        },
+        "continent": "eu",
+        "iso": {
+            "numeric": "383",
+            "alpha_2": "xk",
+            "alpha_3": "xkx"
+        },
+        "tld": ".rs",
+        "constitutional_form": "republic",
+        "language_codes": [
+            "sr-XK",
+            "sq-XK"
+        ],
+        "is_landlocked": true,
+        "neighbors": [
+            "al",
+            "me",
+            "mk",
+            "rs"
+        ]
+    },
+    {
+        "country": "Kuwait",
+        "capital": "Kuwait city",
+        "currency": "Kuwaiti dollar",
+        "native_language": [
+            "arabic",
+            "english"
+        ],
+        "famous_for": "Victim Of Saddam's Invasion",
+        "phone_code": "965",
+        "flag": "https://flagpedia.net/data/flags/h160/kw.png",
+        "drive_direction": "right",
+        "alcohol_prohibition": "nationwide",
+        "area": {
+            "km2": 17818,
+            "mi2": 6880
+        },
+        "continent": "as",
+        "iso": {
+            "numeric": "414",
+            "alpha_2": "kw",
+            "alpha_3": "kwt"
+        },
+        "tld": ".kw",
+        "constitutional_form": "constitutional monarchy",
+        "language_codes": [
+            "ar-KW",
+            "en-KW"
+        ],
+        "is_landlocked": false,
+        "neighbors": [
+            "iq",
+            "sa"
+        ]
+    },
+    {
+        "country": "Kyrgyzstan",
+        "capital": "Bishkek",
+        "currency": "Som",
+        "native_language": [
+            "kyrgyz",
+            "russian"
+        ],
+        "famous_for": "Lake Issyk Kul",
+        "phone_code": "+996",
+        "flag": "https://flagpedia.net/data/flags/h160/kg.png",
+        "drive_direction": "right",
+        "alcohol_prohibition": "none",
+        "area": {
+            "km2": 199951,
+            "mi2": 77202
+        },
+        "continent": "as",
+        "iso": {
+            "numeric": "417",
+            "alpha_2": "kg",
+            "alpha_3": "kgz"
+        },
+        "tld": ".kg",
+        "constitutional_form": "republic",
+        "language_codes": [
+            "ky-KG",
+            "ru-KG"
+        ],
+        "is_landlocked": true,
+        "neighbors": [
+            "cn",
+            "kz",
+            "tj",
+            "uz"
+        ]
+    },
+    {
+        "country": "Laos",
+        "capital": "Vientiane",
+        "currency": "Kip",
+        "native_language": [
+            "lao (laotian)"
+        ],
+        "famous_for": "Bolaven Plateau, Ethnic Villages",
+        "phone_code": "+856",
+        "flag": "https://flagpedia.net/data/flags/h160/la.png",
+        "drive_direction": "right",
+        "alcohol_prohibition": "none",
+        "area": {
+            "km2": 236800,
+            "mi2": 91400
+        },
+        "continent": "as",
+        "iso": {
+            "numeric": "418",
+            "alpha_2": "la",
+            "alpha_3": "lao"
+        },
+        "tld": ".la",
+        "constitutional_form": "republic",
+        "language_codes": [
+            "lo-LA"
+        ],
+        "is_landlocked": true,
+        "neighbors": [
+            "cn",
+            "kh",
+            "my",
+            "th",
+            "vn"
+        ]
+    },
+    {
+        "country": "Latvia",
+        "capital": "Riga",
+        "currency": "Lats",
+        "native_language": [
+            "latvian"
+        ],
+        "famous_for": "Old Town, Home To Widest Waterfall In Europe",
+        "phone_code": "+371",
+        "flag": "https://flagpedia.net/data/flags/h160/lv.png",
+        "drive_direction": "right",
+        "alcohol_prohibition": "none",
+        "area": {
+            "km2": 64559,
+            "mi2": 24926
+        },
+        "continent": "eu",
+        "iso": {
+            "numeric": "428",
+            "alpha_2": "lv",
+            "alpha_3": "lva"
+        },
+        "tld": ".lv",
+        "constitutional_form": "republic",
+        "language_codes": [
+            "lv-LV"
+        ],
+        "is_landlocked": false,
+        "neighbors": [
+            "by",
+            "ee",
+            "lt",
+            "ru"
+        ]
+    },
+    {
+        "country": "Lebanon",
+        "capital": "Beirut",
+        "currency": "Lebanese pound",
+        "native_language": [
+            "arabic",
+            "french"
+        ],
+        "famous_for": "Rome And Phoenica Culture",
+        "phone_code": "+961",
+        "flag": "https://flagpedia.net/data/flags/h160/lb.png",
+        "drive_direction": "right",
+        "alcohol_prohibition": "none",
+        "area": {
+            "km2": 10452,
+            "mi2": 4036
+        },
+        "continent": "as",
+        "iso": {
+            "numeric": "422",
+            "alpha_2": "lb",
+            "alpha_3": "lbn"
+        },
+        "tld": ".lb",
+        "constitutional_form": "republic",
+        "language_codes": [
+            "ar-LB",
+            "fr-LB"
+        ],
+        "is_landlocked": false,
+        "neighbors": [
+            "il",
+            "sy"
+        ]
+    },
+    {
+        "country": "Lesotho",
+        "capital": "Maseru",
+        "currency": "Loti",
+        "native_language": [
+            "sesotho",
+            "english"
+        ],
+        "famous_for": "Sehlabathebe National Park",
+        "phone_code": "+266",
+        "flag": "https://flagpedia.net/data/flags/h160/ls.png",
+        "drive_direction": "left",
+        "alcohol_prohibition": "none",
+        "area": {
+            "km2": 30355,
+            "mi2": 11720
+        },
+        "continent": "af",
+        "iso": {
+            "numeric": "426",
+            "alpha_2": "ls",
+            "alpha_3": "lso"
+        },
+        "tld": ".ls",
+        "constitutional_form": "constitutional monarchy",
+        "language_codes": [
+            "en-LS",
+            "st-LS"
+        ],
+        "is_landlocked": true,
+        "neighbors": [
+            "za"
+        ]
+    },
+    {
+        "country": "Liberia",
+        "capital": "Monrovia",
+        "currency": "Liberian dollar",
+        "native_language": [
+            "english"
+        ],
+        "famous_for": "Long Running Ruinous Civil War",
+        "phone_code": "+231",
+        "flag": "https://flagpedia.net/data/flags/h160/lr.png",
+        "drive_direction": "right",
+        "alcohol_prohibition": "none",
+        "area": {
+            "km2": 111369,
+            "mi2": 43000
+        },
+        "continent": "af",
+        "iso": {
+            "numeric": "430",
+            "alpha_2": "lr",
+            "alpha_3": "lbr"
+        },
+        "tld": ".lr",
+        "constitutional_form": "republic",
+        "language_codes": [
+            "en-LR"
+        ],
+        "is_landlocked": false,
+        "neighbors": [
+            "ci",
+            "gn",
+            "sl"
+        ]
+    },
+    {
+        "country": "Libya",
+        "capital": "Tripoli",
+        "currency": "Libyan dinar",
+        "native_language": [
+            "arabic"
+        ],
+        "famous_for": "Sahara Desert",
+        "phone_code": "+218",
+        "flag": "https://flagpedia.net/data/flags/h160/ly.png",
+        "drive_direction": "right",
+        "alcohol_prohibition": "nationwide",
+        "area": {
+            "km2": 1759540,
+            "mi2": 679360
+        },
+        "continent": "af",
+        "iso": {
+            "numeric": "434",
+            "alpha_2": "ly",
+            "alpha_3": "lby"
+        },
+        "tld": ".ly",
+        "constitutional_form": "n/a",
+        "language_codes": [
+            "ar-LY"
+        ],
+        "is_landlocked": false,
+        "neighbors": [
+            "dz",
+            "eg",
+            "ne",
+            "sd",
+            "td",
+            "tn"
+        ]
+    },
+    {
+        "country": "Liechtenstein",
+        "capital": "Vaduz",
+        "currency": "Swiss franc",
+        "native_language": [
+            "german"
+        ],
+        "famous_for": "Unbelievable Transformation From Rural To Wealthiest Population Within 60 Years",
+        "phone_code": "+423",
+        "flag": "https://flagpedia.net/data/flags/h160/li.png",
+        "drive_direction": "right",
+        "alcohol_prohibition": "none",
+        "area": {
+            "km2": 160,
+            "mi2": 62
+        },
+        "continent": "eu",
+        "iso": {
+            "numeric": "438",
+            "alpha_2": "li",
+            "alpha_3": "lie"
+        },
+        "tld": ".li",
+        "constitutional_form": "constitutional monarchy",
+        "language_codes": [
+            "de-LI"
+        ],
+        "is_landlocked": true,
+        "neighbors": [
+            "at",
+            "ch"
+        ]
+    },
+    {
+        "country": "Lithuania",
+        "capital": "Vilnius",
+        "currency": "Lithuanian litas",
+        "native_language": [
+            "lithuanian"
+        ],
+        "famous_for": "Own Official Lithuania Scent, Amber On Shores Of Baltic Sea",
+        "phone_code": "+370",
+        "flag": "https://flagpedia.net/data/flags/h160/lt.png",
+        "drive_direction": "right",
+        "alcohol_prohibition": "none",
+        "area": {
+            "km2": 65300,
+            "mi2": 25200
+        },
+        "continent": "eu",
+        "iso": {
+            "numeric": "440",
+            "alpha_2": "lt",
+            "alpha_3": "ltu"
+        },
+        "tld": ".lt",
+        "constitutional_form": "republic",
+        "language_codes": [
+            "lt-LT"
+        ],
+        "is_landlocked": false,
+        "neighbors": [
+            "by",
+            "lv",
+            "pl",
+            "ru"
+        ]
+    },
+    {
+        "country": "Luxembourg",
+        "capital": "Luxembourg",
+        "currency": "Euro",
+        "native_language": [
+            "german",
+            "french",
+            "luxembourgish"
+        ],
+        "famous_for": "Europe's Most Powerful Investment Management Centre And Steel Manufacturing",
+        "phone_code": "+352",
+        "flag": "https://flagpedia.net/data/flags/h160/lu.png",
+        "drive_direction": "right",
+        "alcohol_prohibition": "none",
+        "area": {
+            "km2": 2586,
+            "mi2": 998
+        },
+        "continent": "eu",
+        "iso": {
+            "numeric": "442",
+            "alpha_2": "lu",
+            "alpha_3": "lux"
+        },
+        "tld": ".lu",
+        "constitutional_form": "constitutional monarchy",
+        "language_codes": [
+            "de-LU",
+            "fr-LU",
+            "lb-LU"
+        ],
+        "is_landlocked": true,
+        "neighbors": [
+            "be",
+            "de",
+            "fr"
+        ]
+    },
+    {
+        "country": "North macedonia (the republic of north macedonia)",
+        "capital": "Skopje",
+        "currency": "Macedonian denar",
+        "native_language": [
+            "macedonian"
+        ],
+        "famous_for": "Great Empire's History",
+        "phone_code": "+389",
+        "flag": "https://flagpedia.net/data/flags/h160/mk.png",
+        "drive_direction": "right",
+        "alcohol_prohibition": "none",
+        "area": {
+            "km2": 25713,
+            "mi2": 9928
+        },
+        "continent": "eu",
+        "iso": {
+            "numeric": "807",
+            "alpha_2": "mk",
+            "alpha_3": "mkd"
+        },
+        "tld": ".mk",
+        "constitutional_form": "republic",
+        "language_codes": [
+            "mk-MK",
+            "sq-MK"
+        ],
+        "is_landlocked": true,
+        "neighbors": [
+            "al",
+            "bg",
+            "gr",
+            "rs",
+            "xk"
+        ]
+    },
+    {
+        "country": "Madagascar",
+        "capital": "Antananarivo",
+        "currency": "Malagasy ariary",
+        "native_language": [
+            "malagasy",
+            "french",
+            "english"
+        ],
+        "famous_for": "Lemurs, Colourful Chameleons, Stunning Orchids And Home To Flora And Fauna",
+        "phone_code": "+261",
+        "flag": "https://flagpedia.net/data/flags/h160/mg.png",
+        "drive_direction": "right",
+        "alcohol_prohibition": "none",
+        "area": {
+            "km2": 587041,
+            "mi2": 226658
+        },
+        "continent": "af",
+        "iso": {
+            "numeric": "450",
+            "alpha_2": "mg",
+            "alpha_3": "mdg"
+        },
+        "tld": ".mg",
+        "constitutional_form": "republic",
+        "language_codes": [
+            "fr-MG",
+            "mg-MG"
+        ],
+        "is_landlocked": false,
+        "neighbors": []
+    },
+    {
+        "country": "Malawi",
+        "capital": "Lilongwe",
+        "currency": "Malawi kwacha",
+        "native_language": [
+            "english"
+        ],
+        "famous_for": "Home To Largest Number Of Fish Species In The World",
+        "phone_code": "+265",
+        "flag": "https://flagpedia.net/data/flags/h160/mw.png",
+        "drive_direction": "left",
+        "alcohol_prohibition": "none",
+        "area": {
+            "km2": 118484,
+            "mi2": 45747
+        },
+        "continent": "af",
+        "iso": {
+            "numeric": "454",
+            "alpha_2": "mw",
+            "alpha_3": "mwi"
+        },
+        "tld": ".mw",
+        "constitutional_form": "republic",
+        "language_codes": [
+            "en-MW",
+            "ny-MW"
+        ],
+        "is_landlocked": true,
+        "neighbors": [
+            "mz",
+            "tz",
+            "zm"
+        ]
+    },
+    {
+        "country": "Malaysia",
+        "capital": "Kuala lumpur",
+        "currency": "Ringgit",
+        "native_language": [
+            "malay"
+        ],
+        "famous_for": "Rendang, Teh Tark, Nasi Lemak And Yuna",
+        "phone_code": "+60",
+        "flag": "https://flagpedia.net/data/flags/h160/my.png",
+        "drive_direction": "left",
+        "alcohol_prohibition": "none",
+        "area": {
+            "km2": 330803,
+            "mi2": 127724
+        },
+        "continent": "as",
+        "iso": {
+            "numeric": "458",
+            "alpha_2": "my",
+            "alpha_3": "mys"
+        },
+        "tld": ".my",
+        "constitutional_form": "constitutional monarchy",
+        "language_codes": [
+            "ms-MY"
+        ],
+        "is_landlocked": false,
+        "neighbors": [
+            "bn",
+            "id",
+            "th"
+        ]
+    },
+    {
+        "country": "Maldives",
+        "capital": "Male",
+        "currency": "Maldivian rufiyaa",
+        "native_language": [
+            "dhivehi"
+        ],
+        "famous_for": "Natural Environment And Water Sports",
+        "phone_code": "+960",
+        "flag": "https://flagpedia.net/data/flags/h160/mv.png",
+        "drive_direction": "left",
+        "alcohol_prohibition": "limited",
+        "area": {
+            "km2": 300,
+            "mi2": 120
+        },
+        "continent": "as",
+        "iso": {
+            "numeric": "462",
+            "alpha_2": "mv",
+            "alpha_3": "mdv"
+        },
+        "tld": ".mv",
+        "constitutional_form": "republic",
+        "language_codes": [
+            "dv-MV"
+        ],
+        "is_landlocked": false,
+        "neighbors": []
+    },
+    {
+        "country": "Mali",
+        "capital": "Bamako",
+        "currency": "West african cfa franc",
+        "native_language": [
+            "french"
+        ],
+        "famous_for": "Salt Mines",
+        "phone_code": "+223",
+        "flag": "https://flagpedia.net/data/flags/h160/ml.png",
+        "drive_direction": "right",
+        "alcohol_prohibition": "none",
+        "area": {
+            "km2": 1240192,
+            "mi2": 478841
+        },
+        "continent": "af",
+        "iso": {
+            "numeric": "466",
+            "alpha_2": "ml",
+            "alpha_3": "mli"
+        },
+        "tld": ".ml",
+        "constitutional_form": "n/a",
+        "language_codes": [
+            "fr-ML"
+        ],
+        "is_landlocked": true,
+        "neighbors": [
+            "bf",
+            "ci",
+            "dz",
+            "gn",
+            "mr",
+            "ne",
+            "sn"
+        ]
+    },
+    {
+        "country": "Malta",
+        "capital": "Valletta",
+        "currency": "Euro",
+        "native_language": [
+            "maltese",
+            "english"
+        ],
+        "famous_for": "Warm Climate, Architectural And Historical Monuments",
+        "phone_code": "+356",
+        "flag": "https://flagpedia.net/data/flags/h160/mt.png",
+        "drive_direction": "left",
+        "alcohol_prohibition": "none",
+        "area": {
+            "km2": 316,
+            "mi2": 122
+        },
+        "continent": "eu",
+        "iso": {
+            "numeric": "470",
+            "alpha_2": "mt",
+            "alpha_3": "mlt"
+        },
+        "tld": ".mt",
+        "constitutional_form": "republic",
+        "language_codes": [
+            "en-MT",
+            "mt-MT"
+        ],
+        "is_landlocked": false,
+        "neighbors": []
+    },
+    {
+        "country": "Marshall islands",
+        "capital": "Majuro",
+        "currency": "United states dollar",
+        "native_language": [
+            "marshallese",
+            "english"
+        ],
+        "famous_for": "Being Fierce And Hostile To Strangers",
+        "phone_code": "+692",
+        "flag": "https://flagpedia.net/data/flags/h160/mh.png",
+        "drive_direction": "right",
+        "alcohol_prohibition": "none",
+        "area": {
+            "km2": 181,
+            "mi2": 70
+        },
+        "continent": "oc",
+        "iso": {
+            "numeric": "584",
+            "alpha_2": "mh",
+            "alpha_3": "mhl"
+        },
+        "tld": ".mh",
+        "constitutional_form": "republic",
+        "language_codes": [
+            "en-MH",
+            "mh-MH"
+        ],
+        "is_landlocked": false,
+        "neighbors": []
+    },
+    {
+        "country": "Mauritania",
+        "capital": "Nouakchott",
+        "currency": "Ouguiya",
+        "native_language": [
+            "arabic"
+        ],
+        "famous_for": "Large Reserves Of Iron Ore, Copper, And Gypsum",
+        "phone_code": "+222",
+        "flag": "https://flagpedia.net/data/flags/h160/mr.png",
+        "drive_direction": "right",
+        "alcohol_prohibition": "nationwide",
+        "area": {
+            "km2": 1030700,
+            "mi2": 398000
+        },
+        "continent": "af",
+        "iso": {
+            "numeric": "478",
+            "alpha_2": "mr",
+            "alpha_3": "mrt"
+        },
+        "tld": ".mr",
+        "constitutional_form": "republic",
+        "language_codes": [
+            "ar-MR"
+        ],
+        "is_landlocked": false,
+        "neighbors": [
+            "dz",
+            "ml",
+            "sn"
+        ]
+    },
+    {
+        "country": "Mauritius",
+        "capital": "Port louis",
+        "currency": "Mauritian rupee",
+        "native_language": [
+            "english"
+        ],
+        "famous_for": "Extinct Dodo And Rare Species Of Plants And Animals",
+        "phone_code": "+230",
+        "flag": "https://flagpedia.net/data/flags/h160/mu.png",
+        "drive_direction": "left",
+        "alcohol_prohibition": "none",
+        "area": {
+            "km2": 2040,
+            "mi2": 790
+        },
+        "continent": "af",
+        "iso": {
+            "numeric": "480",
+            "alpha_2": "mu",
+            "alpha_3": "mus"
+        },
+        "tld": ".mu",
+        "constitutional_form": "republic",
+        "language_codes": [
+            "en-MU"
+        ],
+        "is_landlocked": false,
+        "neighbors": []
+    },
+    {
+        "country": "Mexico",
+        "capital": "Mexico city",
+        "currency": "Mexican peso",
+        "native_language": [
+            "spanish"
+        ],
+        "famous_for": "Sombero Hat, Taco, Aztec, Salsa",
+        "phone_code": "+52",
+        "flag": "https://flagpedia.net/data/flags/h160/mx.png",
+        "drive_direction": "right",
+        "alcohol_prohibition": "none",
+        "area": {
+            "km2": 1964375,
+            "mi2": 758449
+        },
+        "continent": "na",
+        "iso": {
+            "numeric": "484",
+            "alpha_2": "mx",
+            "alpha_3": "mex"
+        },
+        "tld": ".mx",
+        "constitutional_form": "republic",
+        "language_codes": [
+            "es-MX"
+        ],
+        "is_landlocked": false,
+        "neighbors": [
+            "bz",
+            "gt",
+            "us"
+        ]
+    },
+    {
+        "country": "Federal states of micronesia",
+        "capital": "Palikir",
+        "currency": "United states dollar",
+        "native_language": [
+            "english"
+        ],
+        "famous_for": "Manta Rays, Eco-tourism",
+        "phone_code": "+691",
+        "flag": "https://flagpedia.net/data/flags/h160/fm.png",
+        "drive_direction": "right",
+        "alcohol_prohibition": "none",
+        "area": {
+            "km2": 702,
+            "mi2": 271
+        },
+        "continent": "oc",
+        "iso": {
+            "numeric": "583",
+            "alpha_2": "fm",
+            "alpha_3": "fsm"
+        },
+        "tld": ".fm",
+        "constitutional_form": "republic",
+        "language_codes": [
+            "en-FM"
+        ],
+        "is_landlocked": false,
+        "neighbors": []
+    },
+    {
+        "country": "Moldova",
+        "capital": "Chisinau",
+        "currency": "Moldovan leu",
+        "native_language": [
+            "moldovan (romanian)"
+        ],
+        "famous_for": "Wine",
+        "phone_code": "+373",
+        "flag": "https://flagpedia.net/data/flags/h160/md.png",
+        "drive_direction": "right",
+        "alcohol_prohibition": "none",
+        "area": {
+            "km2": 33846,
+            "mi2": 13068
+        },
+        "continent": "eu",
+        "iso": {
+            "numeric": "498",
+            "alpha_2": "md",
+            "alpha_3": "mda"
+        },
+        "tld": ".md",
+        "constitutional_form": "republic",
+        "language_codes": [
+            "ro-MD"
+        ],
+        "is_landlocked": true,
+        "neighbors": [
+            "ro",
+            "ua"
+        ]
+    },
+    {
+        "country": "Monaco",
+        "capital": "Monaco",
+        "currency": "Euro",
+        "native_language": [
+            "french",
+            "italian",
+            "english"
+        ],
+        "famous_for": "High-end Casinos, Beautiful Yachts And Scenic Montecarlo",
+        "phone_code": "+377",
+        "flag": "https://flagpedia.net/data/flags/h160/mc.png",
+        "drive_direction": "right",
+        "alcohol_prohibition": "none",
+        "area": {
+            "km2": 2.02,
+            "mi2": 0.78
+        },
+        "continent": "eu",
+        "iso": {
+            "numeric": "492",
+            "alpha_2": "mc",
+            "alpha_3": "mco"
+        },
+        "tld": ".mc",
+        "constitutional_form": "constitutional monarchy",
+        "language_codes": [
+            "fr-MC"
+        ],
+        "is_landlocked": false,
+        "neighbors": [
+            "fr"
+        ]
+    },
+    {
+        "country": "Mongolia",
+        "capital": "Ulaanbaatar",
+        "currency": "Togrog",
+        "native_language": [
+            "mongolian"
+        ],
+        "famous_for": "Siberian Ibex, Snow Leopard, Gobi Bear And Wild Bactrian Camel",
+        "phone_code": "+976",
+        "flag": "https://flagpedia.net/data/flags/h160/mn.png",
+        "drive_direction": "right",
+        "alcohol_prohibition": "none",
+        "area": {
+            "km2": 1564110,
+            "mi2": 603910
+        },
+        "continent": "as",
+        "iso": {
+            "numeric": "496",
+            "alpha_2": "mn",
+            "alpha_3": "mng"
+        },
+        "tld": ".mn",
+        "constitutional_form": "republic",
+        "language_codes": [
+            "mn-MN"
+        ],
+        "is_landlocked": true,
+        "neighbors": [
+            "cn",
+            "ru"
+        ]
+    },
+    {
+        "country": "Montenegro",
+        "capital": "Podgorica",
+        "currency": "Euro",
+        "native_language": [
+            "montenegrin"
+        ],
+        "famous_for": "Montenegrin Coast",
+        "phone_code": "+377",
+        "flag": "https://flagpedia.net/data/flags/h160/me.png",
+        "drive_direction": "right",
+        "alcohol_prohibition": "none",
+        "area": {
+            "km2": 13812,
+            "mi2": 5333
+        },
+        "continent": "eu",
+        "iso": {
+            "numeric": "499",
+            "alpha_2": "me",
+            "alpha_3": "mne"
+        },
+        "tld": ".me",
+        "constitutional_form": "republic",
+        "language_codes": [
+            "sr-ME"
+        ],
+        "is_landlocked": false,
+        "neighbors": [
+            "al",
+            "ba",
+            "hr",
+            "rs",
+            "xk"
+        ]
+    },
+    {
+        "country": "Morocco",
+        "capital": "Rabat",
+        "currency": "Moroccan dirham",
+        "native_language": [
+            "arabic"
+        ],
+        "famous_for": "Medinas, Beautiful Handcrafts And Traditional Products",
+        "phone_code": "+212",
+        "flag": "https://flagpedia.net/data/flags/h160/ma.png",
+        "drive_direction": "right",
+        "alcohol_prohibition": "none",
+        "area": {
+            "km2": 446550,
+            "mi2": 172410
+        },
+        "continent": "af",
+        "iso": {
+            "numeric": "504",
+            "alpha_2": "ma",
+            "alpha_3": "mar"
+        },
+        "tld": ".ma",
+        "constitutional_form": "constitutional monarchy",
+        "language_codes": [
+            "ar-MA"
+        ],
+        "is_landlocked": false,
+        "neighbors": [
+            "dz",
+            "es"
+        ]
+    },
+    {
+        "country": "Mozambique",
+        "capital": "Maputo",
+        "currency": "Mozambican metical",
+        "native_language": [
+            "portuguese"
+        ],
+        "famous_for": "Fresh Seafood",
+        "phone_code": "+258",
+        "flag": "https://flagpedia.net/data/flags/h160/mz.png",
+        "drive_direction": "left",
+        "alcohol_prohibition": "none",
+        "area": {
+            "km2": 801590,
+            "mi2": 309500
+        },
+        "continent": "af",
+        "iso": {
+            "numeric": "508",
+            "alpha_2": "mz",
+            "alpha_3": "moz"
+        },
+        "tld": ".mz",
+        "constitutional_form": "republic",
+        "language_codes": [
+            "pt-MZ"
+        ],
+        "is_landlocked": false,
+        "neighbors": [
+            "mw",
+            "sz",
+            "tz",
+            "za",
+            "zm",
+            "zw"
+        ]
+    },
+    {
+        "country": "Myanmar (burma)",
+        "capital": "Nypyidaw",
+        "currency": "Kyat",
+        "native_language": [
+            "burmese"
+        ],
+        "famous_for": "Greatest Archeological Sites And Sule Pagoda",
+        "phone_code": "+95",
+        "flag": "https://flagpedia.net/data/flags/h160/mm.png",
+        "drive_direction": "right",
+        "alcohol_prohibition": "none",
+        "area": {
+            "km2": 676578,
+            "mi2": 261228
+        },
+        "continent": "as",
+        "iso": {
+            "numeric": "104",
+            "alpha_2": "mm",
+            "alpha_3": "mmr"
+        },
+        "tld": ".mm",
+        "constitutional_form": "republic",
+        "language_codes": [
+            "my-MM"
+        ],
+        "is_landlocked": false,
+        "neighbors": [
+            "bd",
+            "cn",
+            "in",
+            "la",
+            "th"
+        ]
+    },
+    {
+        "country": "Namibia",
+        "capital": "Windhoek",
+        "currency": "Namibian dollar",
+        "native_language": [
+            "english",
+            "afrikaans",
+            "german"
+        ],
+        "famous_for": "Highest Dunes And Etosha National Park",
+        "phone_code": "+264",
+        "flag": "https://flagpedia.net/data/flags/h160/na.png",
+        "drive_direction": "left",
+        "alcohol_prohibition": "none",
+        "area": {
+            "km2": 825615,
+            "mi2": 318772
+        },
+        "continent": "af",
+        "iso": {
+            "numeric": "516",
+            "alpha_2": "na",
+            "alpha_3": "nam"
+        },
+        "tld": ".na",
+        "constitutional_form": "republic",
+        "language_codes": [
+            "af-NA",
+            "de-NA",
+            "en-NA"
+        ],
+        "is_landlocked": false,
+        "neighbors": [
+            "ao",
+            "bw",
+            "za",
+            "zm"
+        ]
+    },
+    {
+        "country": "Nauru",
+        "capital": "Yaren",
+        "currency": "Australian dollar",
+        "native_language": [
+            "english",
+            "nauran"
+        ],
+        "famous_for": "Islands Of Banaba",
+        "phone_code": "+674",
+        "flag": "https://flagpedia.net/data/flags/h160/nr.png",
+        "drive_direction": "left",
+        "alcohol_prohibition": "none",
+        "area": {
+            "km2": 21,
+            "mi2": 8.1
+        },
+        "continent": "oc",
+        "iso": {
+            "numeric": "520",
+            "alpha_2": "nr",
+            "alpha_3": "nru"
+        },
+        "tld": ".nr",
+        "constitutional_form": "republic",
+        "language_codes": [
+            "en-NR",
+            "na-NR"
+        ],
+        "is_landlocked": false,
+        "neighbors": []
+    },
+    {
+        "country": "Nepal",
+        "capital": "Kathmandu",
+        "currency": "Nepalese rupee",
+        "native_language": [
+            "nepali"
+        ],
+        "famous_for": "Mountain Peaks, Mount Everest And Kanchenjunga",
+        "phone_code": "+977",
+        "flag": "https://flagpedia.net/data/flags/h160/np.png",
+        "drive_direction": "left",
+        "alcohol_prohibition": "none",
+        "area": {
+            "km2": 147181,
+            "mi2": 56827
+        },
+        "continent": "as",
+        "iso": {
+            "numeric": "524",
+            "alpha_2": "np",
+            "alpha_3": "npl"
+        },
+        "tld": ".np",
+        "constitutional_form": "republic",
+        "language_codes": [
+            "ne-NP"
+        ],
+        "is_landlocked": true,
+        "neighbors": [
+            "cn",
+            "in"
+        ]
+    },
+    {
+        "country": "Netherlands",
+        "capital": "Amsterdam, the hague",
+        "currency": "Euro",
+        "native_language": [
+            "dutch"
+        ],
+        "famous_for": "Legal Drugs, Tulip Flowers And Windmills",
+        "phone_code": "+31",
+        "flag": "https://flagpedia.net/data/flags/h160/nl.png",
+        "drive_direction": "right",
+        "alcohol_prohibition": "none",
+        "area": {
+            "km2": 41850,
+            "mi2": 16160
+        },
+        "continent": "eu",
+        "iso": {
+            "numeric": "528",
+            "alpha_2": "nl",
+            "alpha_3": "nld"
+        },
+        "tld": ".nl",
+        "constitutional_form": "constitutional monarchy",
+        "language_codes": [
+            "nl-NL"
+        ],
+        "is_landlocked": false,
+        "neighbors": [
+            "be",
+            "de"
+        ]
+    },
+    {
+        "country": "New zealand",
+        "capital": "Wellington",
+        "currency": "New zealand dollar",
+        "native_language": [
+            "english"
+        ],
+        "famous_for": "National Rugby Team",
+        "phone_code": "+64",
+        "flag": "https://flagpedia.net/data/flags/h160/nz.png",
+        "drive_direction": "left",
+        "alcohol_prohibition": "none",
+        "area": {
+            "km2": 270467,
+            "mi2": 104428
+        },
+        "continent": "oc",
+        "iso": {
+            "numeric": "554",
+            "alpha_2": "nz",
+            "alpha_3": "nzl"
+        },
+        "tld": ".nz",
+        "constitutional_form": "constitutional monarchy",
+        "language_codes": [
+            "en-NZ"
+        ],
+        "is_landlocked": false,
+        "neighbors": []
+    },
+    {
+        "country": "Nicaragua",
+        "capital": "Managua",
+        "currency": "Cordoba",
+        "native_language": [
+            "spanish"
+        ],
+        "famous_for": "Volcanoes And Lakes",
+        "phone_code": "+505",
+        "flag": "https://flagpedia.net/data/flags/h160/ni.png",
+        "drive_direction": "right",
+        "alcohol_prohibition": "none",
+        "area": {
+            "km2": 130373,
+            "mi2": 50337
+        },
+        "continent": "na",
+        "iso": {
+            "numeric": "558",
+            "alpha_2": "ni",
+            "alpha_3": "nic"
+        },
+        "tld": ".ni",
+        "constitutional_form": "republic",
+        "language_codes": [
+            "es-NA"
+        ],
+        "is_landlocked": false,
+        "neighbors": [
+            "cr",
+            "hn"
+        ]
+    },
+    {
+        "country": "Niger",
+        "capital": "Niamey",
+        "currency": "West african cfa franc",
+        "native_language": [
+            "french"
+        ],
+        "famous_for": "World's Largest Uranium Deposits",
+        "phone_code": "+277",
+        "flag": "https://flagpedia.net/data/flags/h160/ne.png",
+        "drive_direction": "right",
+        "alcohol_prohibition": "none",
+        "area": {
+            "km2": 1267000,
+            "mi2": 489000
+        },
+        "continent": "af",
+        "iso": {
+            "numeric": "562",
+            "alpha_2": "ne",
+            "alpha_3": "ner"
+        },
+        "tld": ".ne",
+        "constitutional_form": "republic",
+        "language_codes": [
+            "fr-NE"
+        ],
+        "is_landlocked": true,
+        "neighbors": [
+            "bj",
+            "bf",
+            "dz",
+            "ly",
+            "ml",
+            "ng",
+            "td"
+        ]
+    },
+    {
+        "country": "Nigeria",
+        "capital": "Abuja",
+        "currency": "Naira",
+        "native_language": [
+            "english"
+        ],
+        "famous_for": "Most Common Sub Saharan Tourists, Petroleum Production",
+        "phone_code": "+234",
+        "flag": "https://flagpedia.net/data/flags/h160/ng.png",
+        "drive_direction": "right",
+        "alcohol_prohibition": "none",
+        "area": {
+            "km2": 923768,
+            "mi2": 356669
+        },
+        "continent": "af",
+        "iso": {
+            "numeric": "566",
+            "alpha_2": "ng",
+            "alpha_3": "nga"
+        },
+        "tld": ".ng",
+        "constitutional_form": "republic",
+        "language_codes": [
+            "en-NG"
+        ],
+        "is_landlocked": false,
+        "neighbors": [
+            "bj",
+            "cm",
+            "ne",
+            "td"
+        ]
+    },
+    {
+        "country": "Norway",
+        "capital": "Oslo",
+        "currency": "Norwegian krone",
+        "native_language": [
+            "norwegian"
+        ],
+        "famous_for": "Oil, Fjords, Mountains And Midnight Sun",
+        "phone_code": "+47",
+        "flag": "https://flagpedia.net/data/flags/h160/no.png",
+        "drive_direction": "right",
+        "alcohol_prohibition": "none",
+        "area": {
+            "km2": 385207,
+            "mi2": 148729
+        },
+        "continent": "eu",
+        "iso": {
+            "numeric": "578",
+            "alpha_2": "no",
+            "alpha_3": "nor"
+        },
+        "tld": ".no",
+        "constitutional_form": "constitutional monarchy",
+        "language_codes": [
+            "no-NO"
+        ],
+        "is_landlocked": false,
+        "neighbors": [
+            "fi",
+            "se",
+            "ru"
+        ]
+    },
+    {
+        "country": "Oman",
+        "capital": "Muscat",
+        "currency": "Omani rial",
+        "native_language": [
+            "arabic"
+        ],
+        "famous_for": "Fresh Sea And Air Breathing",
+        "phone_code": "+968",
+        "flag": "https://flagpedia.net/data/flags/h160/om.png",
+        "drive_direction": "right",
+        "alcohol_prohibition": "none",
+        "area": {
+            "km2": 309500,
+            "mi2": 119500
+        },
+        "continent": "as",
+        "iso": {
+            "numeric": "512",
+            "alpha_2": "om",
+            "alpha_3": "omn"
+        },
+        "tld": ".om",
+        "constitutional_form": "absolute monarchy",
+        "language_codes": [
+            "ar-OM"
+        ],
+        "is_landlocked": false,
+        "neighbors": [
+            "ae",
+            "sa",
+            "ye"
+        ]
+    },
+    {
+        "country": "Pakistan",
+        "capital": "Islamabad",
+        "currency": "Pakistani rupee",
+        "native_language": [
+            "urdu",
+            "english"
+        ],
+        "famous_for": "Producing Footballs, Cricket Team",
+        "phone_code": "+92",
+        "flag": "https://flagpedia.net/data/flags/h160/pk.png",
+        "drive_direction": "left",
+        "alcohol_prohibition": "limited",
+        "area": {
+            "km2": 907843,
+            "mi2": 350520
+        },
+        "continent": "as",
+        "iso": {
+            "numeric": "586",
+            "alpha_2": "pk",
+            "alpha_3": "pak"
+        },
+        "tld": ".pk",
+        "constitutional_form": "republic",
+        "language_codes": [
+            "en-PK",
+            "ur-PK"
+        ],
+        "is_landlocked": false,
+        "neighbors": [
+            "af",
+            "cn",
+            "in",
+            "ir"
+        ]
+    },
+    {
+        "country": "Palau",
+        "capital": "Melekeok",
+        "currency": "United states dollar",
+        "native_language": [
+            "english",
+            "palauan"
+        ],
+        "famous_for": "Jellyfish Lake",
+        "phone_code": "+680",
+        "flag": "https://flagpedia.net/data/flags/h160/pw.png",
+        "drive_direction": "right",
+        "alcohol_prohibition": "none",
+        "area": {
+            "km2": 459,
+            "mi2": 177
+        },
+        "continent": "oc",
+        "iso": {
+            "numeric": "585",
+            "alpha_2": "pw",
+            "alpha_3": "plw"
+        },
+        "tld": ".pw",
+        "constitutional_form": "republic",
+        "language_codes": [
+            "en-PW"
+        ],
+        "is_landlocked": false,
+        "neighbors": []
+    },
+    {
+        "country": "Panama",
+        "capital": "Panama city",
+        "currency": "Balboa",
+        "native_language": [
+            "spanish"
+        ],
+        "famous_for": "Panama Canal, Birding, Snorkeling And Rafting",
+        "phone_code": "+507",
+        "flag": "https://flagpedia.net/data/flags/h160/pa.png",
+        "drive_direction": "right",
+        "alcohol_prohibition": "none",
+        "area": {
+            "km2": 75417,
+            "mi2": 29119
+        },
+        "continent": "na",
+        "iso": {
+            "numeric": "591",
+            "alpha_2": "pa",
+            "alpha_3": "pan"
+        },
+        "tld": ".pa",
+        "constitutional_form": "republic",
+        "language_codes": [
+            "es-PA"
+        ],
+        "is_landlocked": false,
+        "neighbors": [
+            "co",
+            "cr"
+        ]
+    },
+    {
+        "country": "Papa new guinea",
+        "capital": "Port moresby papa",
+        "currency": "Papa new guinean kina",
+        "native_language": [
+            "english",
+            "tok pisin",
+            "hiri motu"
+        ],
+        "famous_for": "Scuba Diving And Marine Diversity",
+        "phone_code": "+675",
+        "flag": "https://flagpedia.net/data/flags/h160/pg.png",
+        "drive_direction": "right",
+        "alcohol_prohibition": "none",
+        "area": {
+            "km2": 462840,
+            "mi2": 178700
+        },
+        "continent": "oc",
+        "iso": {
+            "numeric": "598",
+            "alpha_2": "pg",
+            "alpha_3": "png"
+        },
+        "tld": ".pg",
+        "constitutional_form": "constitutional monarchy",
+        "language_codes": [
+            "en-PG"
+        ],
+        "is_landlocked": false,
+        "neighbors": [
+            "id"
+        ]
+    },
+    {
+        "country": "Paraguay",
+        "capital": "Asuncion",
+        "currency": "Guarani",
+        "native_language": [
+            "spanish",
+            "guarani"
+        ],
+        "famous_for": "Largest Naval Power",
+        "phone_code": "+595",
+        "flag": "https://flagpedia.net/data/flags/h160/py.png",
+        "drive_direction": "right",
+        "alcohol_prohibition": "none",
+        "area": {
+            "km2": 406752,
+            "mi2": 157048
+        },
+        "continent": "sa",
+        "iso": {
+            "numeric": "600",
+            "alpha_2": "py",
+            "alpha_3": "pry"
+        },
+        "tld": ".py",
+        "constitutional_form": "republic",
+        "language_codes": [
+            "es-PY",
+            "gn-PY"
+        ],
+        "is_landlocked": true,
+        "neighbors": [
+            "ar",
+            "bo",
+            "br"
+        ]
+    },
+    {
+        "country": "Peru",
+        "capital": "Lima",
+        "currency": "Nuevo sol",
+        "native_language": [
+            "spanish"
+        ],
+        "famous_for": "Machu Picchu",
+        "phone_code": "+51",
+        "flag": "https://flagpedia.net/data/flags/h160/pe.png",
+        "drive_direction": "right",
+        "alcohol_prohibition": "none",
+        "area": {
+            "km2": 1285216,
+            "mi2": 496225
+        },
+        "continent": "sa",
+        "iso": {
+            "numeric": "604",
+            "alpha_2": "pe",
+            "alpha_3": "per"
+        },
+        "tld": ".pe",
+        "constitutional_form": "republic",
+        "language_codes": [
+            "es-PE",
+            "qu-PE"
+        ],
+        "is_landlocked": false,
+        "neighbors": [
+            "bo",
+            "br",
+            "cl",
+            "co",
+            "ec"
+        ]
+    },
+    {
+        "country": "Philippines",
+        "capital": "Manila",
+        "currency": "Philippine peso",
+        "native_language": [
+            "filipino",
+            "english"
+        ],
+        "famous_for": "Domestic Workers, Ferdinand Marcos, Manny Pacquiao",
+        "phone_code": "+63",
+        "flag": "https://flagpedia.net/data/flags/h160/ph.png",
+        "drive_direction": "right",
+        "alcohol_prohibition": "none",
+        "area": {
+            "km2": 300000,
+            "mi2": 120000
+        },
+        "continent": "as",
+        "iso": {
+            "numeric": "608",
+            "alpha_2": "ph",
+            "alpha_3": "phl"
+        },
+        "tld": ".ph",
+        "constitutional_form": "republic",
+        "language_codes": [
+            "en-PH",
+            "tl-PH"
+        ],
+        "is_landlocked": false,
+        "neighbors": []
+    },
+    {
+        "country": "Poland",
+        "capital": "Warsaw",
+        "currency": "Zloty",
+        "native_language": [
+            "polish"
+        ],
+        "famous_for": "Pierogi And Potatoes",
+        "phone_code": "+48",
+        "flag": "https://flagpedia.net/data/flags/h160/pl.png",
+        "drive_direction": "right",
+        "alcohol_prohibition": "none",
+        "area": {
+            "km2": 312696,
+            "mi2": 120733
+        },
+        "continent": "eu",
+        "iso": {
+            "numeric": "616",
+            "alpha_2": "pl",
+            "alpha_3": "pol"
+        },
+        "tld": ".pl",
+        "constitutional_form": "republic",
+        "language_codes": [
+            "pl-PL"
+        ],
+        "is_landlocked": false,
+        "neighbors": [
+            "by",
+            "cz",
+            "de",
+            "lt",
+            "ru",
+            "sk",
+            "ua"
+        ]
+    },
+    {
+        "country": "Portugal",
+        "capital": "Lisbon",
+        "currency": "Euro",
+        "native_language": [
+            "portuguese"
+        ],
+        "famous_for": "Beaches, Food And Cristiano Ronaldo",
+        "phone_code": "+351",
+        "flag": "https://flagpedia.net/data/flags/h160/pt.png",
+        "drive_direction": "right",
+        "alcohol_prohibition": "none",
+        "area": {
+            "km2": 92090,
+            "mi2": 35560
+        },
+        "continent": "eu",
+        "iso": {
+            "numeric": "620",
+            "alpha_2": "pt",
+            "alpha_3": "prt"
+        },
+        "tld": ".pt",
+        "constitutional_form": "republic",
+        "language_codes": [
+            "pt-PT"
+        ],
+        "is_landlocked": false,
+        "neighbors": [
+            "es"
+        ]
+    },
+    {
+        "country": "Qatar",
+        "capital": "Doha",
+        "currency": "Qatari riyal",
+        "native_language": [
+            "arabic"
+        ],
+        "famous_for": "Qatar Airlines",
+        "phone_code": "+974",
+        "flag": "https://flagpedia.net/data/flags/h160/qa.png",
+        "drive_direction": "right",
+        "alcohol_prohibition": "limited",
+        "area": {
+            "km2": 11586,
+            "mi2": 4473
+        },
+        "continent": "as",
+        "iso": {
+            "numeric": "634",
+            "alpha_2": "qa",
+            "alpha_3": "qat"
+        },
+        "tld": ".qa",
+        "constitutional_form": "absolute monarchy",
+        "language_codes": [
+            "ar-QA"
+        ],
+        "is_landlocked": false,
+        "neighbors": [
+            "sa"
+        ]
+    },
+    {
+        "country": "Romania",
+        "capital": "Bucharest",
+        "currency": "Romanian rupee",
+        "native_language": [
+            "romanian"
+        ],
+        "famous_for": "Dracula",
+        "phone_code": "+40",
+        "flag": "https://flagpedia.net/data/flags/h160/ro.png",
+        "drive_direction": "right",
+        "alcohol_prohibition": "none",
+        "area": {
+            "km2": 238397,
+            "mi2": 92046
+        },
+        "continent": "eu",
+        "iso": {
+            "numeric": "642",
+            "alpha_2": "ro",
+            "alpha_3": "rou"
+        },
+        "tld": ".ro",
+        "constitutional_form": "republic",
+        "language_codes": [
+            "ro-RO"
+        ],
+        "is_landlocked": false,
+        "neighbors": [
+            "bg",
+            "hu",
+            "md",
+            "rs",
+            "ua"
+        ]
+    },
+    {
+        "country": "Russia",
+        "capital": "Moscow",
+        "currency": "Ruble",
+        "native_language": [
+            "russian"
+        ],
+        "famous_for": "Vodka, Military, Matroyshka Dolls And Cold Climate",
+        "phone_code": "+7",
+        "flag": "https://flagpedia.net/data/flags/h160/ru.png",
+        "drive_direction": "right",
+        "alcohol_prohibition": "none",
+        "area": {
+            "km2": 17098246,
+            "mi2": 6601670
+        },
+        "continent": "eu/as",
+        "iso": {
+            "numeric": "643",
+            "alpha_2": "ru",
+            "alpha_3": "rus"
+        },
+        "tld": ".ru",
+        "constitutional_form": "republic",
+        "language_codes": [
+            "ru-RU"
+        ],
+        "is_landlocked": false,
+        "neighbors": [
+            "az",
+            "by",
+            "cn",
+            "ee",
+            "fi",
+            "ge",
+            "kp",
+            "kz",
+            "lt",
+            "lv",
+            "mn",
+            "no",
+            "pl",
+            "ua"
+        ]
+    },
+    {
+        "country": "Rwanda",
+        "capital": "Kigali",
+        "currency": "Rwandan franc",
+        "native_language": [
+            "kinyarwanda",
+            "french",
+            "english"
+        ],
+        "famous_for": "Chimpanzee Species And Home  Of Mountain Gorillas",
+        "phone_code": "+250",
+        "flag": "https://flagpedia.net/data/flags/h160/rw.png",
+        "drive_direction": "right",
+        "alcohol_prohibition": "none",
+        "area": {
+            "km2": 26338,
+            "mi2": 10169
+        },
+        "continent": "af",
+        "iso": {
+            "numeric": "646",
+            "alpha_2": "rw",
+            "alpha_3": "rwa"
+        },
+        "tld": ".rw",
+        "constitutional_form": "republic",
+        "language_codes": [
+            "en-RW",
+            "fr-RW",
+            "rw-RW"
+        ],
+        "is_landlocked": true,
+        "neighbors": [
+            "bi",
+            "cd",
+            "tz",
+            "ug"
+        ]
+    },
+    {
+        "country": "Saint kitts and nevis",
+        "capital": "Basseterre",
+        "currency": "East caribbean dollar",
+        "native_language": [
+            "english"
+        ],
+        "famous_for": "Beautiful Beaches And Pristine Tropical Forests",
+        "phone_code": "+1-869",
+        "flag": "https://flagpedia.net/data/flags/h160/kn.png",
+        "drive_direction": "right",
+        "alcohol_prohibition": "none",
+        "area": {
+            "km2": 261,
+            "mi2": 101
+        },
+        "continent": "na",
+        "iso": {
+            "numeric": "659",
+            "alpha_2": "kn",
+            "alpha_3": "kna"
+        },
+        "tld": ".kn",
+        "constitutional_form": "constitutional monarchy",
+        "language_codes": [
+            "en-KN"
+        ],
+        "is_landlocked": false,
+        "neighbors": []
+    },
+    {
+        "country": "Saint lucia",
+        "capital": "Castries",
+        "currency": "East caribbean dollar",
+        "native_language": [
+            "english",
+            "french"
+        ],
+        "famous_for": "Volcanic Island",
+        "phone_code": "+1-758",
+        "flag": "https://flagpedia.net/data/flags/h160/lc.png",
+        "drive_direction": "left",
+        "alcohol_prohibition": "none",
+        "area": {
+            "km2": 616,
+            "mi2": 238
+        },
+        "continent": "na",
+        "iso": {
+            "numeric": "662",
+            "alpha_2": "lc",
+            "alpha_3": "lca"
+        },
+        "tld": ".lc",
+        "constitutional_form": "constitutional monarchy",
+        "language_codes": [
+            "en-LC",
+            "fr-LC"
+        ],
+        "is_landlocked": false,
+        "neighbors": []
+    },
+    {
+        "country": "Saint vincent and the grenadines",
+        "capital": "Kingstown east",
+        "currency": "Caribbean dollar",
+        "native_language": [
+            "english"
+        ],
+        "famous_for": "Beautiful White-sand Beaches And Snorkeling",
+        "phone_code": "+1-784",
+        "flag": "https://flagpedia.net/data/flags/h160/vc.png",
+        "drive_direction": "left",
+        "alcohol_prohibition": "none",
+        "area": {
+            "km2": 389,
+            "mi2": 150
+        },
+        "continent": "na",
+        "iso": {
+            "numeric": "670",
+            "alpha_2": "vc",
+            "alpha_3": "vct"
+        },
+        "tld": ".vc",
+        "constitutional_form": "constitutional monarchy",
+        "language_codes": [
+            "en-VC"
+        ],
+        "is_landlocked": false,
+        "neighbors": []
+    },
+    {
+        "country": "Samoa",
+        "capital": "Apia",
+        "currency": "Tala",
+        "native_language": [
+            "samoan",
+            "english"
+        ],
+        "famous_for": "Samoan Culture, Music, Dance And Visual Arts",
+        "phone_code": "+685",
+        "flag": "https://flagpedia.net/data/flags/h160/ws.png",
+        "drive_direction": "left",
+        "alcohol_prohibition": "none",
+        "area": {
+            "km2": 2842,
+            "mi2": 1097
+        },
+        "continent": "oc",
+        "iso": {
+            "numeric": "882",
+            "alpha_2": "ws",
+            "alpha_3": "wsm"
+        },
+        "tld": ".ws",
+        "constitutional_form": "republic",
+        "language_codes": [
+            "en-WS",
+            "sm-WS"
+        ],
+        "is_landlocked": false,
+        "neighbors": []
+    },
+    {
+        "country": "San marino",
+        "capital": "San marino",
+        "currency": "Euro",
+        "native_language": [
+            "italian"
+        ],
+        "famous_for": "World's Oldest Surviving Republic",
+        "phone_code": "+378",
+        "flag": "https://flagpedia.net/data/flags/h160/sm.png",
+        "drive_direction": "right",
+        "alcohol_prohibition": "none",
+        "area": {
+            "km2": 61,
+            "mi2": 24
+        },
+        "continent": "eu",
+        "iso": {
+            "numeric": "674",
+            "alpha_2": "sm",
+            "alpha_3": "smr"
+        },
+        "tld": ".sm",
+        "constitutional_form": "republic",
+        "language_codes": [
+            "it-SM"
+        ],
+        "is_landlocked": true,
+        "neighbors": [
+            "it"
+        ]
+    },
+    {
+        "country": "Sao tome and principe",
+        "capital": "Sao tome",
+        "currency": "Dobra",
+        "native_language": [
+            "portuguese"
+        ],
+        "famous_for": "Cocoa Production",
+        "phone_code": "+239",
+        "flag": "https://flagpedia.net/data/flags/h160/st.png",
+        "drive_direction": "right",
+        "alcohol_prohibition": "none",
+        "area": {
+            "km2": 964,
+            "mi2": 372
+        },
+        "continent": "af",
+        "iso": {
+            "numeric": "678",
+            "alpha_2": "st",
+            "alpha_3": "stp"
+        },
+        "tld": ".st",
+        "constitutional_form": "republic",
+        "language_codes": [
+            "pt-ST"
+        ],
+        "is_landlocked": false,
+        "neighbors": []
+    },
+    {
+        "country": "Saudi arabia",
+        "capital": "Riyadh",
+        "currency": "Saudi riyal",
+        "native_language": [
+            "arabic"
+        ],
+        "famous_for": "Strict Rules, Wahhabism, Mecca And Madina",
+        "phone_code": "+966",
+        "flag": "https://flagpedia.net/data/flags/h160/sa.png",
+        "drive_direction": "right",
+        "alcohol_prohibition": "nationwide",
+        "area": {
+            "km2": 2149690,
+            "mi2": 830000
+        },
+        "continent": "as",
+        "iso": {
+            "numeric": "682",
+            "alpha_2": "sa",
+            "alpha_3": "sau"
+        },
+        "tld": ".sa",
+        "constitutional_form": "absolute monarchy",
+        "language_codes": [
+            "ar-SA"
+        ],
+        "is_landlocked": false,
+        "neighbors": [
+            "ae",
+            "iq",
+            "jo",
+            "kw",
+            "om",
+            "qa",
+            "ye"
+        ]
+    },
+    {
+        "country": "Senegal",
+        "capital": "Dakar",
+        "currency": "West african cfa franc",
+        "native_language": [
+            "french"
+        ],
+        "famous_for": "Traditional Wrestling, Football And Exotic Dance",
+        "phone_code": "+221",
+        "flag": "https://flagpedia.net/data/flags/h160/sn.png",
+        "drive_direction": "right",
+        "alcohol_prohibition": "none",
+        "area": {
+            "km2": 196722,
+            "mi2": 75955
+        },
+        "continent": "af",
+        "iso": {
+            "numeric": "686",
+            "alpha_2": "sn",
+            "alpha_3": "sen"
+        },
+        "tld": ".sn",
+        "constitutional_form": "republic",
+        "language_codes": [
+            "fr-SN"
+        ],
+        "is_landlocked": false,
+        "neighbors": [
+            "gm",
+            "gn",
+            "gw",
+            "ml",
+            "mr"
+        ]
+    },
+    {
+        "country": "Serbia",
+        "capital": "Belgrade",
+        "currency": "Serbian dinar",
+        "native_language": [
+            "serbian"
+        ],
+        "famous_for": "Culture, History, Delicious Cuisine, And Nightlife",
+        "phone_code": "+381",
+        "flag": "https://flagpedia.net/data/flags/h160/rs.png",
+        "drive_direction": "right",
+        "alcohol_prohibition": "none",
+        "area": {
+            "km2": 88361,
+            "mi2": 34116
+        },
+        "continent": "eu",
+        "iso": {
+            "numeric": "688",
+            "alpha_2": "rs",
+            "alpha_3": "srb"
+        },
+        "tld": ".rs",
+        "constitutional_form": "republic",
+        "language_codes": [
+            "sr-RS"
+        ],
+        "is_landlocked": true,
+        "neighbors": [
+            "ba",
+            "bg",
+            "hr",
+            "hu",
+            "me",
+            "mk",
+            "ro",
+            "xk"
+        ]
+    },
+    {
+        "country": "Seychelles",
+        "capital": "Victoria",
+        "currency": "Seychoellois rupee",
+        "native_language": [
+            "seychellois creole",
+            "french",
+            "english"
+        ],
+        "famous_for": "Deep Blue Waters, White Sandy Beaches And Honeymoon Destination",
+        "phone_code": "+248",
+        "flag": "https://flagpedia.net/data/flags/h160/sc.png",
+        "drive_direction": "left",
+        "alcohol_prohibition": "none",
+        "area": {
+            "km2": 452,
+            "mi2": 175
+        },
+        "continent": "af",
+        "iso": {
+            "numeric": "690",
+            "alpha_2": "sc",
+            "alpha_3": "syc"
+        },
+        "tld": ".sc",
+        "constitutional_form": "republic",
+        "language_codes": [
+            "en-SC",
+            "fr-SC"
+        ],
+        "is_landlocked": false,
+        "neighbors": []
+    },
+    {
+        "country": "Sierra leone",
+        "capital": "Freetown",
+        "currency": "Leone",
+        "native_language": [
+            "krio",
+            "english"
+        ],
+        "famous_for": "Producers Of Titanium And Bauxite, Natural Harbour",
+        "phone_code": "+232",
+        "flag": "https://flagpedia.net/data/flags/h160/sl.png",
+        "drive_direction": "right",
+        "alcohol_prohibition": "none",
+        "area": {
+            "km2": 71740,
+            "mi2": 27700
+        },
+        "continent": "af",
+        "iso": {
+            "numeric": "694",
+            "alpha_2": "sl",
+            "alpha_3": "sle"
+        },
+        "tld": ".sl",
+        "constitutional_form": "republic",
+        "language_codes": [
+            "en-SL"
+        ],
+        "is_landlocked": false,
+        "neighbors": [
+            "gn",
+            "lr"
+        ]
+    },
+    {
+        "country": "Singapore",
+        "capital": "Singapore",
+        "currency": "Singapore dollar",
+        "native_language": [
+            "english",
+            "malay",
+            "mandarin chinese"
+        ],
+        "famous_for": "Cleanliness, Marina Bay And Strict Laws",
+        "phone_code": "+65",
+        "flag": "https://flagpedia.net/data/flags/h160/sg.png",
+        "drive_direction": "left",
+        "alcohol_prohibition": "none",
+        "area": {
+            "km2": 726,
+            "mi2": 280
+        },
+        "continent": "as",
+        "iso": {
+            "numeric": "702",
+            "alpha_2": "sg",
+            "alpha_3": "sgp"
+        },
+        "tld": ".sg",
+        "constitutional_form": "republic",
+        "language_codes": [
+            "en-SG",
+            "ms-SG",
+            "zh-SG"
+        ],
+        "is_landlocked": false,
+        "neighbors": []
+    },
+    {
+        "country": "Slovakia",
+        "capital": "Bratislava",
+        "currency": "Euro",
+        "native_language": [
+            "slovak"
+        ],
+        "famous_for": "Eset And Sygic",
+        "phone_code": "+421",
+        "flag": "https://flagpedia.net/data/flags/h160/sk.png",
+        "drive_direction": "right",
+        "alcohol_prohibition": "none",
+        "area": {
+            "km2": 49037,
+            "mi2": 18933
+        },
+        "continent": "eu",
+        "iso": {
+            "numeric": "703",
+            "alpha_2": "sk",
+            "alpha_3": "svk"
+        },
+        "tld": ".sk",
+        "constitutional_form": "republic",
+        "language_codes": [
+            "sk-SK"
+        ],
+        "is_landlocked": true,
+        "neighbors": [
+            "at",
+            "cz",
+            "hu",
+            "pl",
+            "ua"
+        ]
+    },
+    {
+        "country": "Slovenia",
+        "capital": "Ljubljana",
+        "currency": "Euro",
+        "native_language": [
+            "slovene"
+        ],
+        "famous_for": "Caves",
+        "phone_code": "+386",
+        "flag": "https://flagpedia.net/data/flags/h160/si.png",
+        "drive_direction": "right",
+        "alcohol_prohibition": "none",
+        "area": {
+            "km2": 20273,
+            "mi2": 7827
+        },
+        "continent": "eu",
+        "iso": {
+            "numeric": "705",
+            "alpha_2": "si",
+            "alpha_3": "svn"
+        },
+        "tld": ".si",
+        "constitutional_form": "republic",
+        "language_codes": [
+            "sl-SI"
+        ],
+        "is_landlocked": false,
+        "neighbors": [
+            "at",
+            "hr",
+            "hu",
+            "it"
+        ]
+    },
+    {
+        "country": "Solomon islands",
+        "capital": "Honiara",
+        "currency": "Solomon islands dollar",
+        "native_language": [
+            "solomons pijin"
+        ],
+        "famous_for": "World War 2",
+        "phone_code": "+677",
+        "flag": "https://flagpedia.net/data/flags/h160/sb.png",
+        "drive_direction": "right",
+        "alcohol_prohibition": "none",
+        "area": {
+            "km2": 28896,
+            "mi2": 11157
+        },
+        "continent": "oc",
+        "iso": {
+            "numeric": "090",
+            "alpha_2": "sb",
+            "alpha_3": "slb"
+        },
+        "tld": ".sb",
+        "constitutional_form": "constitutional monarchy",
+        "language_codes": [
+            "en-SB"
+        ],
+        "is_landlocked": false,
+        "neighbors": []
+    },
+    {
+        "country": "Somalia",
+        "capital": "Mogadishu",
+        "currency": "Somali shilling",
+        "native_language": [
+            "somali",
+            "arabic"
+        ],
+        "famous_for": "Frankincense And Myrrh",
+        "phone_code": "+252",
+        "flag": "https://flagpedia.net/data/flags/h160/so.png",
+        "drive_direction": "right",
+        "alcohol_prohibition": "nationwide",
+        "area": {
+            "km2": 637657,
+            "mi2": 246201
+        },
+        "continent": "af",
+        "iso": {
+            "numeric": "706",
+            "alpha_2": "so",
+            "alpha_3": "som"
+        },
+        "tld": ".so",
+        "constitutional_form": "republic",
+        "language_codes": [
+            "so-SO"
+        ],
+        "is_landlocked": false,
+        "neighbors": [
+            "dj",
+            "et",
+            "ke"
+        ]
+    },
+    {
+        "country": "South africa",
+        "capital": "Pretoria, cape town,bloemfontein",
+        "currency": "Rand",
+        "native_language": [
+            "zulu",
+            "xhosa",
+            "afrikaans"
+        ],
+        "famous_for": "Nelson Mandela And Safari",
+        "phone_code": "+27",
+        "flag": "https://flagpedia.net/data/flags/h160/za.png",
+        "drive_direction": "left",
+        "alcohol_prohibition": "limited",
+        "area": {
+            "km2": 1221037,
+            "mi2": 471445
+        },
+        "continent": "af",
+        "iso": {
+            "numeric": "710",
+            "alpha_2": "za",
+            "alpha_3": "zaf"
+        },
+        "tld": ".za",
+        "constitutional_form": "republic",
+        "language_codes": [
+            "af-ZA",
+            "en-ZA",
+            "xh-ZA",
+            "zu-ZA"
+        ],
+        "is_landlocked": false,
+        "neighbors": [
+            "bw",
+            "ls",
+            "mz",
+            "na",
+            "sz",
+            "zw"
+        ]
+    },
+    {
+        "country": "South sudan (republic of south sudan)",
+        "capital": "Juba",
+        "currency": "South sudanese pound",
+        "native_language": [
+            "arabic",
+            "english"
+        ],
+        "famous_for": "National Parks And Oil",
+        "phone_code": "+211",
+        "flag": "https://flagpedia.net/data/flags/h160/ss.png",
+        "drive_direction": "right",
+        "alcohol_prohibition": "limited",
+        "area": {
+            "km2": 644329,
+            "mi2": 248777
+        },
+        "continent": "af",
+        "iso": {
+            "numeric": "728",
+            "alpha_2": "ss",
+            "alpha_3": "ssd"
+        },
+        "tld": ".ss",
+        "constitutional_form": "republic",
+        "language_codes": [
+            "ar-SS",
+            "en-SS"
+        ],
+        "is_landlocked": true,
+        "neighbors": [
+            "cf",
+            "cd",
+            "et",
+            "ke",
+            "sd",
+            "ug"
+        ]
+    },
+    {
+        "country": "Spain",
+        "capital": "Madrid",
+        "currency": "Euro",
+        "native_language": [
+            "spanish",
+            "catalan"
+        ],
+        "famous_for": "Salsa And Bullfight",
+        "phone_code": "+34",
+        "flag": "https://flagpedia.net/data/flags/h160/es.png",
+        "drive_direction": "right",
+        "alcohol_prohibition": "none",
+        "area": {
+            "km2": 505992,
+            "mi2": 195365
+        },
+        "continent": "eu",
+        "iso": {
+            "numeric": "724",
+            "alpha_2": "es",
+            "alpha_3": "esp"
+        },
+        "tld": ".es",
+        "constitutional_form": "constitutional monarchy",
+        "language_codes": [
+            "ca-ES",
+            "es-ES"
+        ],
+        "is_landlocked": false,
+        "neighbors": [
+            "ad",
+            "fr",
+            "ma",
+            "pt"
+        ]
+    },
+    {
+        "country": "Sri lanka",
+        "capital": "Colombo",
+        "currency": "Sri lankan rupee",
+        "native_language": [
+            "sinhala",
+            "tamil"
+        ],
+        "famous_for": "Ceylon Tea",
+        "phone_code": "+94",
+        "flag": "https://flagpedia.net/data/flags/h160/lk.png",
+        "drive_direction": "left",
+        "alcohol_prohibition": "none",
+        "area": {
+            "km2": 65610,
+            "mi2": 25330
+        },
+        "continent": "as",
+        "iso": {
+            "numeric": "144",
+            "alpha_2": "lk",
+            "alpha_3": "lka"
+        },
+        "tld": ".lk",
+        "constitutional_form": "republic",
+        "language_codes": [
+            "si-LK",
+            "ta-LK"
+        ],
+        "is_landlocked": false,
+        "neighbors": []
+    },
+    {
+        "country": "Sudan (republic of the sudan)",
+        "capital": "Khartoum",
+        "currency": "Sudanese pound",
+        "native_language": [
+            "arabic",
+            "english"
+        ],
+        "famous_for": "Largest Collection Of Pyramids",
+        "phone_code": "+249",
+        "flag": "https://flagpedia.net/data/flags/h160/sd.png",
+        "drive_direction": "right",
+        "alcohol_prohibition": "none",
+        "area": {
+            "km2": 1861484,
+            "mi2": 718723
+        },
+        "continent": "af",
+        "iso": {
+            "numeric": "729",
+            "alpha_2": "sd",
+            "alpha_3": "sdn"
+        },
+        "tld": ".sd",
+        "constitutional_form": "n/a",
+        "language_codes": [
+            "ar-SD",
+            "en-SD"
+        ],
+        "is_landlocked": false,
+        "neighbors": [
+            "cf",
+            "eg",
+            "er",
+            "et",
+            "ly",
+            "ss",
+            "td"
+        ]
+    },
+    {
+        "country": "Suriname",
+        "capital": "Paramaribo",
+        "currency": "Surinamese dollar",
+        "native_language": [
+            "dutch"
+        ],
+        "famous_for": "Water Lilies And Orchids",
+        "phone_code": "+597",
+        "flag": "https://flagpedia.net/data/flags/h160/sr.png",
+        "drive_direction": "left",
+        "alcohol_prohibition": "none",
+        "area": {
+            "km2": 163820,
+            "mi2": 63250
+        },
+        "continent": "sa",
+        "iso": {
+            "numeric": "740",
+            "alpha_2": "sr",
+            "alpha_3": "sur"
+        },
+        "tld": ".sr",
+        "constitutional_form": "republic",
+        "language_codes": [
+            "nl-SR"
+        ],
+        "is_landlocked": false,
+        "neighbors": [
+            "br",
+            "gy"
+        ]
+    },
+    {
+        "country": "Eswatini (swaziland)",
+        "capital": "Mbabane",
+        "currency": "Lilangeni",
+        "native_language": [
+            "english",
+            "siswati"
+        ],
+        "famous_for": "Sibebe Rock And Largest Exposed Granite Dome",
+        "phone_code": "+268",
+        "flag": "https://flagpedia.net/data/flags/h160/sz.png",
+        "drive_direction": "right",
+        "alcohol_prohibition": "none",
+        "area": {
+            "km2": 17364,
+            "mi2": 6704
+        },
+        "continent": "af",
+        "iso": {
+            "numeric": "748",
+            "alpha_2": "sz",
+            "alpha_3": "swz"
+        },
+        "tld": ".sz",
+        "constitutional_form": "absolute monarchy",
+        "language_codes": [
+            "ss-SZ"
+        ],
+        "is_landlocked": true,
+        "neighbors": [
+            "mz",
+            "za"
+        ]
+    },
+    {
+        "country": "Sweden",
+        "capital": "Stockholm",
+        "currency": "Swedish krona",
+        "native_language": [
+            "swedish"
+        ],
+        "famous_for": "Ikea, Meatballs, Volvo",
+        "phone_code": "+46",
+        "flag": "https://flagpedia.net/data/flags/h160/se.png",
+        "drive_direction": "right",
+        "alcohol_prohibition": "none",
+        "area": {
+            "km2": 450295,
+            "mi2": 173860
+        },
+        "continent": "eu",
+        "iso": {
+            "numeric": "752",
+            "alpha_2": "se",
+            "alpha_3": "swe"
+        },
+        "tld": ".se",
+        "constitutional_form": "constitutional monarchy",
+        "language_codes": [
+            "sv-SE"
+        ],
+        "is_landlocked": false,
+        "neighbors": [
+            "fi",
+            "no"
+        ]
+    },
+    {
+        "country": "Switzerland",
+        "capital": "Berne",
+        "currency": "Swiss franc",
+        "native_language": [
+            "german",
+            "french",
+            "italian",
+            "romansh"
+        ],
+        "famous_for": "Alps, Natural Beauty, Chocolates And Watches",
+        "flag": "https://flagpedia.net/data/flags/h160/ch.png",
+        "drive_direction": "right",
+        "alcohol_prohibition": "none",
+        "area": {
+            "km2": 41284,
+            "mi2": 15940
+        },
+        "continent": "eu",
+        "iso": {
+            "numeric": "756",
+            "alpha_2": "ch",
+            "alpha_3": "che"
+        },
+        "tld": ".ch",
+        "constitutional_form": "republic",
+        "language_codes": [
+            "de-CH",
+            "fr-CH",
+            "it-CH",
+            "rm-CH"
+        ],
+        "is_landlocked": true,
+        "neighbors": [
+            "at",
+            "de",
+            "fr",
+            "it",
+            "li"
+        ]
+    },
+    {
+        "country": "Syria",
+        "capital": "Damascus",
+        "currency": "Syrian pound",
+        "native_language": [
+            "arabic"
+        ],
+        "famous_for": "Old Heritage Cities",
+        "phone_code": "+963",
+        "flag": "https://flagpedia.net/data/flags/h160/sy.png",
+        "drive_direction": "right",
+        "alcohol_prohibition": "none",
+        "area": {
+            "km2": 185180,
+            "mi2": 71500
+        },
+        "continent": "as",
+        "iso": {
+            "numeric": "760",
+            "alpha_2": "sy",
+            "alpha_3": "syr"
+        },
+        "tld": ".sy",
+        "constitutional_form": "republic",
+        "language_codes": [
+            "ar-SY"
+        ],
+        "is_landlocked": false,
+        "neighbors": [
+            "il",
+            "iq",
+            "jo",
+            "lb",
+            "tr"
+        ]
+    },
+    {
+        "country": "Taiwan",
+        "capital": "Taipei",
+        "currency": "New taiwan dollar",
+        "native_language": [
+            "mandarin"
+        ],
+        "famous_for": "Best Food",
+        "phone_code": "+886",
+        "flag": "https://flagpedia.net/data/flags/h160/tw.png",
+        "drive_direction": "right",
+        "alcohol_prohibition": "none",
+        "area": {
+            "km2": 36193,
+            "mi2": 13974
+        },
+        "continent": "as",
+        "iso": {
+            "numeric": "158",
+            "alpha_2": "tw",
+            "alpha_3": "twn"
+        },
+        "tld": ".tw",
+        "constitutional_form": "republic",
+        "language_codes": [
+            "zh-TW"
+        ],
+        "is_landlocked": false,
+        "neighbors": []
+    },
+    {
+        "country": "Tajikistan",
+        "capital": "Dushanbe",
+        "currency": "Somoni",
+        "native_language": [
+            "tajik",
+            "russian"
+        ],
+        "famous_for": "The Pamir Plateau",
+        "phone_code": "+992",
+        "flag": "https://flagpedia.net/data/flags/h160/tj.png",
+        "drive_direction": "right",
+        "alcohol_prohibition": "none",
+        "area": {
+            "km2": 143100,
+            "mi2": 55300
+        },
+        "continent": "as",
+        "iso": {
+            "numeric": "762",
+            "alpha_2": "tj",
+            "alpha_3": "tjk"
+        },
+        "tld": ".tj",
+        "constitutional_form": "republic",
+        "language_codes": [
+            "ru-TJ",
+            "tg-TJ"
+        ],
+        "is_landlocked": true,
+        "neighbors": [
+            "af",
+            "cn",
+            "kg",
+            "uz"
+        ]
+    },
+    {
+        "country": "Tanzania",
+        "capital": "Dar es salaam, dodoma",
+        "currency": "Tanzanian schilling",
+        "native_language": [
+            "swahili"
+        ],
+        "famous_for": "Mining And Fishing",
+        "phone_code": "+255",
+        "flag": "https://flagpedia.net/data/flags/h160/tz.png",
+        "drive_direction": "left",
+        "alcohol_prohibition": "none",
+        "area": {
+            "km2": 945087,
+            "mi2": 364900
+        },
+        "continent": "af",
+        "iso": {
+            "numeric": "834",
+            "alpha_2": "tz",
+            "alpha_3": "tza"
+        },
+        "tld": ".tz",
+        "constitutional_form": "republic",
+        "language_codes": [
+            "en-TZ",
+            "sw-TZ"
+        ],
+        "is_landlocked": false,
+        "neighbors": [
+            "bi",
+            "cd",
+            "ke",
+            "mw",
+            "mz",
+            "rw",
+            "ug",
+            "zm"
+        ]
+    },
+    {
+        "country": "Thailand",
+        "capital": "Bangkok",
+        "currency": "Thai baht",
+        "native_language": [
+            "thai"
+        ],
+        "famous_for": "Massages, Shopping And Buddhists",
+        "phone_code": "+66",
+        "flag": "https://flagpedia.net/data/flags/h160/th.png",
+        "drive_direction": "left",
+        "alcohol_prohibition": "none",
+        "area": {
+            "km2": 513120,
+            "mi2": 198120
+        },
+        "continent": "as",
+        "iso": {
+            "numeric": "764",
+            "alpha_2": "th",
+            "alpha_3": "tha"
+        },
+        "tld": ".th",
+        "constitutional_form": "constitutional monarchy",
+        "language_codes": [
+            "th-TH"
+        ],
+        "is_landlocked": false,
+        "neighbors": [
+            "kh",
+            "la",
+            "mm",
+            "my"
+        ]
+    },
+    {
+        "country": "Togo",
+        "capital": "Lome",
+        "currency": "West african cfa franc",
+        "native_language": [
+            "french"
+        ],
+        "famous_for": "History, Attraction Sites, Culture, And Commercial Activities",
+        "phone_code": "+228",
+        "flag": "https://flagpedia.net/data/flags/h160/tg.png",
+        "drive_direction": "right",
+        "alcohol_prohibition": "none",
+        "area": {
+            "km2": 56785,
+            "mi2": 21925
+        },
+        "continent": "af",
+        "iso": {
+            "numeric": "768",
+            "alpha_2": "tg",
+            "alpha_3": "tgo"
+        },
+        "tld": ".tg",
+        "constitutional_form": "republic",
+        "language_codes": [
+            "fr-TG"
+        ],
+        "is_landlocked": false,
+        "neighbors": [
+            "bf",
+            "bj",
+            "gh"
+        ]
+    },
+    {
+        "country": "Tonga",
+        "capital": "Nuku'alofa",
+        "currency": "Pa'anga",
+        "native_language": [
+            "tongan",
+            "english"
+        ],
+        "famous_for": "Graceful And Dignified Dancing Of The Kingdom",
+        "phone_code": "+676",
+        "flag": "https://flagpedia.net/data/flags/h160/to.png",
+        "drive_direction": "left",
+        "alcohol_prohibition": "none",
+        "area": {
+            "km2": 747,
+            "mi2": 288
+        },
+        "continent": "oc",
+        "iso": {
+            "numeric": "776",
+            "alpha_2": "to",
+            "alpha_3": "ton"
+        },
+        "tld": ".to",
+        "constitutional_form": "constitutional monarchy",
+        "language_codes": [
+            "en-TO",
+            "to-TO"
+        ],
+        "is_landlocked": false,
+        "neighbors": []
+    },
+    {
+        "country": "Trinidad and tobago",
+        "capital": "Port-of-spain",
+        "currency": "Trinidad and tobago dollar",
+        "native_language": [
+            "english"
+        ],
+        "famous_for": "Stable Economy, Steel Pans, Carnival Festivity, Caribbean Dance And Lush Greenery",
+        "phone_code": "+1-868",
+        "flag": "https://flagpedia.net/data/flags/h160/tt.png",
+        "drive_direction": "left",
+        "alcohol_prohibition": "none",
+        "area": {
+            "km2": 5130,
+            "mi2": 1980
+        },
+        "continent": "na",
+        "iso": {
+            "numeric": "780",
+            "alpha_2": "tt",
+            "alpha_3": "tto"
+        },
+        "tld": ".tt",
+        "constitutional_form": "republic",
+        "language_codes": [
+            "en-TT"
+        ],
+        "is_landlocked": false,
+        "neighbors": []
+    },
+    {
+        "country": "Tunisia",
+        "capital": "Tunis",
+        "currency": "Tunisian dinar",
+        "native_language": [
+            "tunisian",
+            "french"
+        ],
+        "famous_for": "Gold Beaches, Sunny Weather And Affordable Luxuries",
+        "phone_code": "+216",
+        "flag": "https://flagpedia.net/data/flags/h160/tn.png",
+        "drive_direction": "right",
+        "alcohol_prohibition": "none",
+        "area": {
+            "km2": 163610,
+            "mi2": 63170
+        },
+        "continent": "af",
+        "iso": {
+            "numeric": "788",
+            "alpha_2": "tn",
+            "alpha_3": "tun"
+        },
+        "tld": ".tn",
+        "constitutional_form": "republic",
+        "language_codes": [
+            "ar-TN",
+            "fr-TN"
+        ],
+        "is_landlocked": false,
+        "neighbors": [
+            "dz",
+            "ly"
+        ]
+    },
+    {
+        "country": "Turkey",
+        "capital": "Ankara",
+        "currency": "Turkish lira",
+        "native_language": [
+            "turkish"
+        ],
+        "famous_for": "Big Mountain Ranges, Istanbul, Shawarma",
+        "phone_code": "+90",
+        "flag": "https://flagpedia.net/data/flags/h160/tr.png",
+        "drive_direction": "right",
+        "alcohol_prohibition": "none",
+        "area": {
+            "km2": 783562,
+            "mi2": 302535
+        },
+        "continent": "eu/as",
+        "iso": {
+            "numeric": "792",
+            "alpha_2": "tr",
+            "alpha_3": "tur"
+        },
+        "tld": ".tr",
+        "constitutional_form": "republic",
+        "language_codes": [
+            "tr-TR"
+        ],
+        "is_landlocked": false,
+        "neighbors": [
+            "am",
+            "az",
+            "bg",
+            "ge",
+            "gr",
+            "iq",
+            "ir",
+            "sy"
+        ]
+    },
+    {
+        "country": "Turkmenistan",
+        "capital": "Ashgabat",
+        "currency": "Turkmen new manat",
+        "native_language": [
+            "turkmen",
+            "russian"
+        ],
+        "famous_for": "Autocratic Government And Large Gas Reserves",
+        "phone_code": "+993",
+        "flag": "https://flagpedia.net/data/flags/h160/tm.png",
+        "drive_direction": "right",
+        "alcohol_prohibition": "none",
+        "area": {
+            "km2": 488100,
+            "mi2": 188500
+        },
+        "continent": "as",
+        "iso": {
+            "numeric": "795",
+            "alpha_2": "tm",
+            "alpha_3": "tkm"
+        },
+        "tld": ".tm",
+        "constitutional_form": "republic",
+        "language_codes": [
+            "ru-TM",
+            "tk-TM"
+        ],
+        "is_landlocked": true,
+        "neighbors": [
+            "af",
+            "ir",
+            "kz",
+            "uz"
+        ]
+    },
+    {
+        "country": "Tuvalu",
+        "capital": "Vaiaku",
+        "currency": "Tuvaluan dollar",
+        "native_language": [
+            "tuvaluan",
+            "english"
+        ],
+        "famous_for": "Seafaring Skills",
+        "phone_code": "+668",
+        "flag": "https://flagpedia.net/data/flags/h160/tv.png",
+        "drive_direction": "left",
+        "alcohol_prohibition": "none",
+        "area": {
+            "km2": 26,
+            "mi2": 10
+        },
+        "continent": "oc",
+        "iso": {
+            "numeric": "798",
+            "alpha_2": "tv",
+            "alpha_3": "tuv"
+        },
+        "tld": ".tv",
+        "constitutional_form": "constitutional monarchy",
+        "language_codes": [
+            "en-TV"
+        ],
+        "is_landlocked": false,
+        "neighbors": []
+    },
+    {
+        "country": "Uganda",
+        "capital": "Kampala",
+        "currency": "Ugandan shilling",
+        "native_language": [
+            "swahili",
+            "english"
+        ],
+        "famous_for": "Cotton, Tobacco, Tea And Home To Variety Of Wildlife",
+        "phone_code": "+256",
+        "flag": "https://flagpedia.net/data/flags/h160/ug.png",
+        "drive_direction": "left",
+        "alcohol_prohibition": "none",
+        "area": {
+            "km2": 241550,
+            "mi2": 93260
+        },
+        "continent": "af",
+        "iso": {
+            "numeric": "800",
+            "alpha_2": "ug",
+            "alpha_3": "uga"
+        },
+        "tld": ".ug",
+        "constitutional_form": "republic",
+        "language_codes": [
+            "en-UG",
+            "sw-UG"
+        ],
+        "is_landlocked": true,
+        "neighbors": [
+            "cd",
+            "ke",
+            "rw",
+            "ss",
+            "tz"
+        ]
+    },
+    {
+        "country": "Ukraine",
+        "capital": "Kiev",
+        "currency": "Hryvnia",
+        "native_language": [
+            "ukrainian",
+            "russian"
+        ],
+        "famous_for": "Agricultural Production",
+        "phone_code": "+380",
+        "flag": "https://flagpedia.net/data/flags/h160/ua.png",
+        "drive_direction": "right",
+        "alcohol_prohibition": "none",
+        "area": {
+            "km2": 603500,
+            "mi2": 233000
+        },
+        "continent": "eu",
+        "iso": {
+            "numeric": "804",
+            "alpha_2": "ua",
+            "alpha_3": "ukr"
+        },
+        "tld": ".ua",
+        "constitutional_form": "republic",
+        "language_codes": [
+            "ru-UA",
+            "uk-UA"
+        ],
+        "is_landlocked": false,
+        "neighbors": [
+            "by",
+            "hu",
+            "md",
+            "pl",
+            "ro",
+            "ru",
+            "sk"
+        ]
+    },
+    {
+        "country": "United arab emirates",
+        "capital": "Abu dhabi",
+        "currency": "Dirham",
+        "native_language": [
+            "arabic"
+        ],
+        "famous_for": "Dubai, Rich Seikhs, Burj Al Arab",
+        "phone_code": "+971",
+        "flag": "https://flagpedia.net/data/flags/h160/ae.png",
+        "drive_direction": "right",
+        "alcohol_prohibition": "limited",
+        "area": {
+            "km2": 83600,
+            "mi2": 32300
+        },
+        "continent": "as",
+        "iso": {
+            "numeric": "784",
+            "alpha_2": "ae",
+            "alpha_3": "are"
+        },
+        "tld": ".ae",
+        "constitutional_form": "constitutional monarchy",
+        "language_codes": [
+            "ar-AE"
+        ],
+        "is_landlocked": false,
+        "neighbors": [
+            "om",
+            "sa"
+        ]
+    },
+    {
+        "country": "United kingdom",
+        "capital": "London",
+        "currency": "Pound sterling",
+        "native_language": [
+            "english"
+        ],
+        "famous_for": "David Beckham, Fish And Chips, Big Ben, Red Buses, Black Cabs, Oasis, Blur, The Beatles, London And Tea",
+        "phone_code": "+44",
+        "flag": "https://flagpedia.net/data/flags/h160/gb.png",
+        "drive_direction": "right",
+        "alcohol_prohibition": "none",
+        "area": {
+            "km2": 242495,
+            "mi2": 93628
+        },
+        "continent": "eu",
+        "iso": {
+            "numeric": "826",
+            "alpha_2": "gb",
+            "alpha_3": "gbr"
+        },
+        "tld": ".gb/.uk",
+        "constitutional_form": "constitutional monarchy",
+        "language_codes": [
+            "en-GB"
+        ],
+        "is_landlocked": false,
+        "neighbors": [
+            "ie"
+        ]
+    },
+    {
+        "country": "United states of america",
+        "capital": "Washington d.c.",
+        "currency": "United states dollar",
+        "native_language": [
+            "english",
+            "spanish"
+        ],
+        "famous_for": "Grand Canyon And Mount Rushmore",
+        "phone_code": "+1",
+        "flag": "https://flagpedia.net/data/flags/h160/us.png",
+        "drive_direction": "right",
+        "alcohol_prohibition": "none",
+        "area": {
+            "km2": 9833517,
+            "mi2": 3796742
+        },
+        "continent": "na",
+        "iso": {
+            "numeric": "840",
+            "alpha_2": "us",
+            "alpha_3": "usa"
+        },
+        "tld": ".us",
+        "constitutional_form": "republic",
+        "language_codes": [
+            "en-US",
+            "es-US"
+        ],
+        "is_landlocked": false,
+        "neighbors": [
+            "ca",
+            "mx"
+        ]
+    },
+    {
+        "country": "Uruguay",
+        "capital": "Montevideo",
+        "currency": "Uruguayan peso",
+        "native_language": [
+            "spanish"
+        ],
+        "famous_for": "Wine Producers",
+        "phone_code": "+589",
+        "flag": "https://flagpedia.net/data/flags/h160/uy.png",
+        "drive_direction": "right",
+        "alcohol_prohibition": "none",
+        "area": {
+            "km2": 176215,
+            "mi2": 68037
+        },
+        "continent": "sa",
+        "iso": {
+            "numeric": "858",
+            "alpha_2": "uy",
+            "alpha_3": "ury"
+        },
+        "tld": ".uy",
+        "constitutional_form": "republic",
+        "language_codes": [
+            "sp-UY"
+        ],
+        "is_landlocked": false,
+        "neighbors": [
+            "ar",
+            "br"
+        ]
+    },
+    {
+        "country": "Uzbekistan",
+        "capital": "Tashkent",
+        "currency": "Uzbekistan som",
+        "native_language": [
+            "uzbek",
+            "russian"
+        ],
+        "famous_for": "Mosques And Mausoleums",
+        "phone_code": "+998",
+        "flag": "https://flagpedia.net/data/flags/h160/uz.png",
+        "drive_direction": "right",
+        "alcohol_prohibition": "none",
+        "area": {
+            "km2": 447400,
+            "mi2": 172700
+        },
+        "continent": "as",
+        "iso": {
+            "numeric": "860",
+            "alpha_2": "uz",
+            "alpha_3": "uzb"
+        },
+        "tld": ".uz",
+        "constitutional_form": "republic",
+        "language_codes": [
+            "ru-UZ",
+            "uz-UZ"
+        ],
+        "is_landlocked": true,
+        "neighbors": [
+            "af",
+            "kg",
+            "kz",
+            "tj",
+            "tm"
+        ]
+    },
+    {
+        "country": "Vanuatu",
+        "capital": "Port-vila",
+        "currency": "Vanuatu vatu",
+        "native_language": [
+            "bislama",
+            "english",
+            "french"
+        ],
+        "famous_for": "Vanuatu's Underwater World",
+        "phone_code": "+978",
+        "flag": "https://flagpedia.net/data/flags/h160/vu.png",
+        "drive_direction": "right",
+        "alcohol_prohibition": "none",
+        "area": {
+            "km2": 12189,
+            "mi2": 4706
+        },
+        "continent": "oc",
+        "iso": {
+            "numeric": "548",
+            "alpha_2": "vu",
+            "alpha_3": "vut"
+        },
+        "tld": ".vu",
+        "constitutional_form": "republic",
+        "language_codes": [
+            "bi-VU",
+            "en-VU",
+            "fr-VU"
+        ],
+        "is_landlocked": false,
+        "neighbors": []
+    },
+    {
+        "country": "Vatican city",
+        "capital": "Vatican city",
+        "currency": "Euro",
+        "native_language": [
+            "latin",
+            "italian"
+        ],
+        "famous_for": "St. Peter's Basilica, The Sistine Chapel, And The Vatican Museums",
+        "phone_code": "+379",
+        "flag": "https://flagpedia.net/data/flags/h160/va.png",
+        "drive_direction": "right",
+        "alcohol_prohibition": "none",
+        "area": {
+            "km2": 0.49,
+            "mi2": 0.19
+        },
+        "continent": "eu",
+        "iso": {
+            "numeric": "336",
+            "alpha_2": "va",
+            "alpha_3": "vat"
+        },
+        "tld": ".va",
+        "constitutional_form": "absolute monarchy",
+        "language_codes": [
+            "it-VA",
+            "la-VA"
+        ],
+        "is_landlocked": true,
+        "neighbors": [
+            "it"
+        ]
+    },
+    {
+        "country": "Venezuela",
+        "capital": "Caracas",
+        "currency": "Bolivar fuerte",
+        "native_language": [
+            "spanish"
+        ],
+        "famous_for": "Petroleum Industry",
+        "phone_code": "+58",
+        "flag": "https://flagpedia.net/data/flags/h160/ve.png",
+        "drive_direction": "right",
+        "alcohol_prohibition": "none",
+        "area": {
+            "km2": 916445,
+            "mi2": 353841
+        },
+        "continent": "sa",
+        "iso": {
+            "numeric": "862",
+            "alpha_2": "ve",
+            "alpha_3": "ven"
+        },
+        "tld": ".ve",
+        "constitutional_form": "republic",
+        "language_codes": [
+            "es-VE"
+        ],
+        "is_landlocked": false,
+        "neighbors": [
+            "br",
+            "co",
+            "gy"
+        ]
+    },
+    {
+        "country": "Vietnam",
+        "capital": "Hanoi",
+        "currency": "Dong",
+        "native_language": [
+            "vietnamese"
+        ],
+        "famous_for": "Rice Exporter",
+        "phone_code": "+84",
+        "flag": "https://flagpedia.net/data/flags/h160/vn.png",
+        "drive_direction": "right",
+        "alcohol_prohibition": "none",
+        "area": {
+            "km2": 331212,
+            "mi2": 127882
+        },
+        "continent": "as",
+        "iso": {
+            "numeric": "704",
+            "alpha_2": "vn",
+            "alpha_3": "vnm"
+        },
+        "tld": ".vn",
+        "constitutional_form": "republic",
+        "language_codes": [
+            "vi-VN"
+        ],
+        "is_landlocked": false,
+        "neighbors": [
+            "cn",
+            "kh",
+            "la"
+        ]
+    },
+    {
+        "country": "Yemen",
+        "capital": "Sanaa",
+        "currency": "Yemeni rial",
+        "native_language": [
+            "arabic"
+        ],
+        "famous_for": "Home To World's Oldest Skyscraper City",
+        "phone_code": "+967",
+        "flag": "https://flagpedia.net/data/flags/h160/ye.png",
+        "drive_direction": "right",
+        "alcohol_prohibition": "regional",
+        "area": {
+            "km2": 527968,
+            "mi2": 203850
+        },
+        "continent": "as",
+        "iso": {
+            "numeric": "887",
+            "alpha_2": "ye",
+            "alpha_3": "yem"
+        },
+        "tld": ".ye",
+        "constitutional_form": "n/a",
+        "language_codes": [
+            "ar-YE"
+        ],
+        "is_landlocked": false,
+        "neighbors": [
+            "om",
+            "sa"
+        ]
+    },
+    {
+        "country": "Zambia",
+        "capital": "Lusaka",
+        "currency": "Zambian kwacha",
+        "native_language": [
+            "english"
+        ],
+        "famous_for": "Iconic Victoria Falls",
+        "phone_code": "+260",
+        "flag": "https://flagpedia.net/data/flags/h160/zm.png",
+        "drive_direction": "left",
+        "alcohol_prohibition": "none",
+        "area": {
+            "km2": 752612,
+            "mi2": 290585
+        },
+        "continent": "af",
+        "iso": {
+            "numeric": "894",
+            "alpha_2": "zm",
+            "alpha_3": "zmb"
+        },
+        "tld": ".zm",
+        "constitutional_form": "republic",
+        "language_codes": [
+            "en-ZM"
+        ],
+        "is_landlocked": true,
+        "neighbors": [
+            "ao",
+            "bw",
+            "cd",
+            "mw",
+            "mz",
+            "na",
+            "tz",
+            "zw"
+        ]
+    },
+    {
+        "country": "Zimbabwe",
+        "capital": "Harare",
+        "currency": "United states dollar",
+        "native_language": [
+            "english"
+        ],
+        "famous_for": "Hwange And Mana Pools Teem With Wildlife",
+        "phone_code": "+263",
+        "flag": "https://flagpedia.net/data/flags/h160/zw.png",
+        "drive_direction": "left",
+        "alcohol_prohibition": "none",
+        "area": {
+            "km2": 390757,
+            "mi2": 150872
+        },
+        "continent": "af",
+        "iso": {
+            "numeric": "716",
+            "alpha_2": "zw",
+            "alpha_3": "zwe"
+        },
+        "tld": ".zw",
+        "constitutional_form": "republic",
+        "language_codes": [
+            "en-ZW"
+        ],
+        "is_landlocked": true,
+        "neighbors": [
+            "bw",
+            "mz",
+            "za",
+            "zm"
+        ]
+    }
+]

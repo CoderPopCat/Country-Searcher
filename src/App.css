@@ -1,38 +1,107 @@
-.App {
-  text-align: center;
+  .nav {
+    width: 80vw;
+    margin: auto;
+    background: #fffafa08;
+    text-align: center;
+    backdrop-filter: blur(10px);
+    margin-top: 28px;
+    border-radius: 0.675rem;
+    position: fixed;
+    left: 11vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 11vh;
+    z-index: 10;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
+  .nav-content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
   }
-}
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-}
-
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
+  .nav-icon {
+    width: 40px;
+    height: 40px;
+    margin-right: 10px;
   }
-  to {
-    transform: rotate(360deg);
+
+  .nav-title {
+    font-size: 32px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
+    font-weight: 600;
   }
+
+  .img-blur {
+    animation: blur 7s infinite ease-in-out;
+  }
+
+  @keyframes blur {
+    0% {
+      filter: blur(35px);
+    }
+    50% {
+      filter: blur(10px);
+    }
+    100% {
+      filter: blur(35px);
+    }
+  }
+
+  .main {
+    padding-top: 26vh;
+    margin: 0 10vh;
+  }
+
+  .search {
+    width: 100%;
+    margin-bottom: 11vh;
+  }
+
+  /* Grid */
+  .countries {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 2vw;
+    margin-bottom: 5vh;
+  }
+
+  .card {
+    backdrop-filter: blur(5px);
+    min-height: 405px;
+    max-height: max-content;
+  }
+
+
+  footer{
+    background: #fffafa08;
+    height: max-content;
+    width: 100vw;
+    font-family: Inter, sans-serif;
+    padding: 20px;
+    color: #fff;
+    border-top: 1px solid #333;
+    backdrop-filter: blur(10px);
+}
+.footer-content{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+}
+.footer-content h3{
+    font-size: 1.8rem;
+    font-weight: 400;
+    text-transform: capitalize;
+    line-height: 3rem;
+}
+.footer-content p{
+    max-width: 500px;
+    margin: 10px auto;
+    line-height: 28px;
+    font-size: 14px;
 }

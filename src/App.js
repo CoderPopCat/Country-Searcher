@@ -1,24 +1,26 @@
-import logo from './logo.svg';
 import './App.css';
+import Country from './components/Country';
+import Header from './components/Header';
+import Home from './components/Home';
+import {
+  BrowserRouter as Router,
+  Switch,
+  Route,
+  Link,
+  useParams
+} from "react-router-dom";
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <>
+      <Header icon='/4830734.ico' name='Country Searcher' />
+      <Router>
+        <Switch>
+          <Route path='/' exact children={<Home />} />
+          <Route path='/country/:name' children={<Country />} />
+        </Switch>
+      </Router>
+    </>
   );
 }
 

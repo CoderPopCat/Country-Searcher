@@ -1,3 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
 body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
@@ -5,6 +9,23 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  margin: 0;
+  padding: 0;
+  color: white;
+  /* background-image: url(/public/bg.png);
+  background-size: cover;
+  background-repeat: no-repeat; */
+  background-color: #011113;
+  fill-opacity: 0.1;
+  min-height: 100vh;
+  overflow-x: hidden;
+}
+
+.App {
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-image: url(https://cloe.gg/static/img/download.svg);
+  min-height: 100vh;
 }
 
 code {
