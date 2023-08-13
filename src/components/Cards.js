@@ -18,10 +18,10 @@ const Cards = ({ }) => {
         const lat2 = coords1.latitude;
         const lon2 = coords2.longitude;
         console.log(coords1, coords2, lat1, lon1, lat2, lon2)
-        setResult(getDistance(
+        setResult((getDistance(
             { latitude: lat1, longitude: lon1 },
             { latitude: lat2, longitude: lon2 }
-        ) / 1000 +  ' KM')
+        ) / 1000).toLocaleString() +  ' KM')
     }
     return (
         <>
@@ -36,7 +36,7 @@ const Cards = ({ }) => {
                                     <img className="max-w-[19rem] rounded-lg absolute" style={{ transform: 'translateY(-100%)' }} src={country1.flag} alt="" data-aos='zoom-in' data-aos-easing='ease-in-out' data-aos-duration='900' />
                                 </div>
                                 <div className="text items-center flex flex-col justify-start space-y-5">
-                                    <a className="mb-2 text-5xl font-bold tracking-tight text-white text-center lg:text-left country-headingg" href={`https://www.google.com/maps/place/${country1.country}/@25.0314752,55.2343264,6460m/data=!3m2!1e3!4b1?entry=ttu`} style={{ textDecoration: '#7760fe wavy underline', cursor: 'pointer' }}>
+                                    <a className="mb-2 text-5xl font-bold tracking-tight text-white text-center lg:text-left country-headingg" href={`https://www.google.com/maps/place/${country1.country}/@25.0314752,55.2343264,6460m/data=!3m2!1e3!4b1?entry=ttu`} style={{ textDecoration: '#7760fe solid underline', cursor: 'pointer' }}>
                                         {country1.country}
                                     </a>
                                 </div>
@@ -55,7 +55,7 @@ const Cards = ({ }) => {
                                     <img className="max-w-[19rem] rounded-lg absolute" style={{ transform: 'translateY(-100%)' }} src={country2.flag} alt="" data-aos='zoom-in' data-aos-easing='ease-in-out' data-aos-duration='900' />
                                 </div>
                                 <div className="text items-center flex flex-col justify-start space-y-5">
-                                    <a className="mb-2 text-5xl font-bold tracking-tight text-white text-center lg:text-center country-headingg" href={`https://www.google.com/maps/place/${country2.country}/@25.0314752,55.2343264,6460m/data=!3m2!1e3!4b1?entry=ttu`} style={{ textDecoration: '#7760fe wavy underline', cursor: 'pointer' }}>
+                                    <a className="mb-2 text-5xl font-bold tracking-tight text-white text-center lg:text-center country-headingg" href={`https://www.google.com/maps/place/${country2.country}/@25.0314752,55.2343264,6460m/data=!3m2!1e3!4b1?entry=ttu`} style={{ textDecoration: '#7760fe solid underline', cursor: 'pointer' }}>
                                         {country2.country}
                                     </a>
                                 </div>
