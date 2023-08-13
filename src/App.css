@@ -1,5 +1,5 @@
   .nav {
-    width: 91vw;
+    width: 90vw;
     margin: auto;
     background: #fffafa08;
     text-align: center;
@@ -15,6 +15,7 @@
     z-index: 10;
     transition: all 0.5s ease;
 }
+
 
 .country-headingg:hover {
   text-decoration: underline solid rgb(119, 96, 254) !important;
@@ -125,6 +126,9 @@
 @media only screen and (max-width: 900px) {
   .country-info-container {
     grid-template-columns: auto auto;
+  }
+  .borderdiv {
+    border: none !important;
   }
 }
 @media only screen and (max-width: 600px) {
