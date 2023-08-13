@@ -16,6 +16,14 @@ import {useEffect} from 'react';
 function App() {
   useEffect(() => {
     AOS.init();
+    window.onscroll = () => {
+      if (document.documentElement.scrollTop > 66) {
+        document.querySelector('.nav').classList.add('nav-scrolled')
+      } else {
+        document.querySelector('.nav').classList.remove('nav-scrolled')
+      }
+      console.log(document.documentElement.scrollTop)
+    }
   }, [])
   return (
     <>

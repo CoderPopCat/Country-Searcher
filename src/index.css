@@ -31,6 +31,7 @@ body {
   background-size: cover;
   background-image: url(https://cloe.gg/static/img/download.svg);
   min-height: 100vh;
+  width: 100vw;
 }
 
 code {

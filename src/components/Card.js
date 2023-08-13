@@ -1,6 +1,6 @@
 import React from 'react'
 
-const Card = ({ flag, name, capital, currency, continent }) => {
+const Card = ({ flag, name, capital, currency, continent, coords }) => {
     const continents = {
         'as': '🌏 Asia',
         'eu': '🌍 Europe',
@@ -37,10 +37,16 @@ const Card = ({ flag, name, capital, currency, continent }) => {
                                     </h1>
                                 </div>
                             </div>
-                            <button onClick={redirect(name)}
-                                className="bg-[#0111139c] rounded cursor-pointer flex items-center justify-center font-medium h-12 text-lg leading-10 mt-2 py-0 px-3 text-white whitespace-no-wrap w-full hover:bg-[#ffffff0d] hover:border-white hover:text-white duration-75"><i
-                                    className="fa-solid fa-arrow-up-right-from-square mr-3"></i>
-                                View</button>
+                            <div className="flex gap-2">
+                                <button onClick={redirect(name)}
+                                    className="bg-[#0111139c] rounded cursor-pointer flex items-center justify-center font-medium h-12 text-lg leading-10 mt-2 py-0 px-3 text-white whitespace-no-wrap w-full hover:bg-[#ffffff0d] hover:border-white hover:text-white duration-75"><i
+                                        className="fa-solid fa-arrow-up-right-from-square mr-3"></i>
+                                    View</button>
+                                    <button onClick={() => window.location.href = `https://www.google.com/maps/place/${name}/@25.0314752,55.2343264,6460m/data=!3m2!1e3!4b1?entry=ttu`}
+                                    className="bg-[#0111139c] rounded cursor-pointer flex items-center justify-center font-medium h-12 text-lg leading-10 mt-2 py-0 px-3 text-white whitespace-no-wrap w-full hover:bg-[#ffffff0d] hover:border-white hover:text-white duration-75"><i
+                                        className="fa-solid fa-location-dot mr-3"></i>
+                                    Map</button>
+                            </div>
                         </div>
                     </div>
                 </div>

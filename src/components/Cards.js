@@ -1,10 +1,10 @@
 import React, { useState } from 'react';
 import Info from '../constants/countries.json';
+import Coords from '../constants/country-coords.json';
 import Card from './Card';
 
 const Cards = ({ }) => {
     const [countries, setCountries] = useState(Info);
-    const [search, setSearch] = useState('');
     return (
         <>
             <div className="main flex flex-col">
@@ -24,7 +24,7 @@ const Cards = ({ }) => {
                 <div className="countries">
                     {countries.length > 0 ? countries.map((country) => {
                         return (
-                            <Card key={country.country} flag={country.flag} name={country.country} capital={country.capital} currency={country.currency} continent={country.continent} />
+                            <Card key={country.country} flag={country.flag} name={country.country} capital={country.capital} currency={country.currency} continent={country.continent} coords={Coords.filter(c => c.name === country.country)} />
                         )
                     }) : <div style={{fontWeight: '700', height: '300px'}} className='text-[60px] text-center text-white'>No Countries Found 😥</div>}
                 </div>

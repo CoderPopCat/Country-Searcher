@@ -13,6 +13,17 @@
     align-items: center;
     height: 11vh;
     z-index: 10;
+    transition: all 0.5s ease;
+}
+
+.country-headingg:hover {
+  text-decoration: underline solid rgb(119, 96, 254) !important;
+}
+
+.nav-scrolled {
+  width: 100vw;
+  box-shadow: inset 0 -1px 0 0 hsla(0,0%,100%,0.1);
+  margin: 0;
 }
 
   .nav-content {
@@ -104,4 +115,20 @@
     margin: 10px auto;
     line-height: 28px;
     font-size: 14px;
+}
+
+.country-info-container {
+  display: grid;
+  grid-template-columns: auto auto auto;
+}
+
+@media only screen and (max-width: 900px) {
+  .country-info-container {
+    grid-template-columns: auto auto;
+  }
+}
+@media only screen and (max-width: 600px) {
+  .country-info-container {
+    grid-template-columns: auto;
+  }
 }
