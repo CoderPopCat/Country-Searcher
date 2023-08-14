@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React, { useEffect, useState } from 'react';
 import Info from '../constants/countries.json';
 import Coords from '../constants/country-coords.json';
 import Card from './Card';
@@ -23,10 +23,13 @@ const Cards = ({ }) => {
             { latitude: lat2, longitude: lon2 }
         ) / 1000).toLocaleString() +  ' KM')
     }
+    useEffect(() => {
+        if (country1.country !== 'Country 1' && country2.country !== 'Country 2') calculateDistance();
+    }, [country1, country2])
     return (
         <>
             <div className="main flex flex-col items-center relative">
-                {open && <div className="modal absolute mx-auto flex justify-center items-center" style={{ zIndex: '999' }}>
+                {open && <div className="modal absolute mx-auto flex justify-center items-center" style={{ zIndex: '999', boxShadow: 'rgba(0, 0, 0, 0.3) 0px 2px 15px 0px, 0 0 0 max(100vw, 100vh) #00000099' }}>
                     <div className="modal-content relative bg-[#011113] rounded-lg border border-[#333] flex flex-col" style={{ backdropFilter: 'blur(125px)', width: '80vw' }}>
                         <i className="fa-solid fa-xmark absolute right-0 m-4 text-gray-400 bg-[#ffffff0d] rounded-lg text-sm w-8 h-8 ml-auto inline-flex justify-center items-center hover:bg-gray-600 hover:text-white" onClick={() => setOpen(false)} style={{ zIndex: 100, cursor: 'pointer' }}></i>
                         <div className="everything-else pt-12 px-12 w-[100%] rounded-lg flex flex-col justify-around lg:flex-row">
@@ -69,7 +72,7 @@ const Cards = ({ }) => {
                                 </select>
                             </div>
                         </div>
-                        <div className="results-container mt-[-25px]">
+                        <div className="results-container mt-[-25px] pb-12">
                             <div className="results flex flex-col justify-center items-center">
                                 <div className="result flex flex-col justify-center items-center">
                                     <div className="result-heading text-7xl font-bold text-white mb-2">Distance</div>
@@ -77,15 +80,6 @@ const Cards = ({ }) => {
                                     <span className='text-[#7760fe] text-3xl' style={{fontWeight:'700'}}>{result && result}</span>
                                 </div>
                             </div>
-                        </div>
-                        <div className="flex mt-6 pb-12 justify-center items-center w-[80vw] px-12">
-                            <a onClick={calculateDistance} className="relative px-5 py-2 font-medium text-white group cursor-pointer">
-                                <span className="absolute inset-0 w-[100%] h-full transition-all duration-300 ease-out transform translate-x-0 -skew-x-12 bg-purple-500 group-hover:bg-purple-700 group-hover:skew-x-12"></span>
-                                <span className="absolute inset-0 w-[100%] h-full transition-all duration-300 ease-out transform skew-x-12 bg-purple-700 group-hover:bg-purple-500 group-hover:-skew-x-12"></span>
-                                <span className="absolute bottom-0 left-0 hidden w-10 h-20 transition-all duration-100 ease-out transform -translate-x-8 translate-y-10 bg-purple-600 -rotate-12"></span>
-                                <span className="absolute bottom-0 right-0 hidden w-10 h-20 transition-all duration-100 ease-out transform translate-x-10 translate-y-8 bg-purple-400 -rotate-12"></span>
-                                <span className="relative"><i className="fa-solid fa-ruler text-[24px] mr-2"></i>Calculate Distance!</span>
-                            </a>
                         </div>
                     </div>
                 </div>
