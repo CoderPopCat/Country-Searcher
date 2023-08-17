@@ -18,9 +18,11 @@ function App() {
     AOS.init();
     window.onscroll = () => {
       if (document.documentElement.scrollTop > 66) {
-        document.querySelector('.nav').classList.add('nav-scrolled')
+        document.querySelector('.nav').classList.add('nav-scrolled');
+        document.querySelector('.totop').classList.remove('hidden');
       } else {
-        document.querySelector('.nav').classList.remove('nav-scrolled')
+        document.querySelector('.nav').classList.remove('nav-scrolled');
+        document.querySelector('.totop').classList.add('hidden');
       }
       console.log(document.documentElement.scrollTop)
     }

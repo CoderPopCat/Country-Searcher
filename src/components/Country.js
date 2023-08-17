@@ -25,6 +25,9 @@ const Country = () => {
                     <div className="content">
                         <div className="p-6 w-full lg:w-[90vw] bg-[#ffffff0a] rounded-lg border border-[#333] flex flex-col relative" style={{ backdropFilter: 'blur(5px)' }}>
                             <div className="everything-else p-6 -w-[100%] rounded-lg flex flex-col lg:flex-row">
+                                <div className="back absolute top-5 left-5 bg-[#ffffff0d] text-white rounded-lg p-2 px-3 cursor-pointer hover:scale-125" style={{ transition: 'all 0.5s ease' }} onClick={() => window.location.href = '/'}>
+                                    <i className="fa-solid fa-arrow-left"></i>
+                                </div>
                                 <div className="flex flex-col lg:flex-row justify-between sm:px-6 lg:px-8 img-container img relative items-center">
                                     <div className="images mb-6">
                                         <img className="max-w-[19rem] rounded-lg img-blur" src={country.flag} alt="" data-aos='zoom-in' data-aos-easing='ease-in-out' data-aos-duration='900' />

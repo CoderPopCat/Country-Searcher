@@ -29,6 +29,9 @@ const Cards = ({ }) => {
     return (
         <>
             <div className="main flex flex-col items-center relative">
+                <button onClick={() => window.scrollTo({ top: document.querySelector('.nav').offsetTop, behavior: 'smooth' })} className="totop fixed right-2 bottom-6 cursor-pointer border-none rounded-[50%] w-15 h-15 p-5 z-50 bg-[#ffffff0d] flex justify-center items-center hidden text-xl" style={{backdropFilter:'blur(8px)', boxShadow: '0 0 14px rgb(0 0 0 / 12%)'}}>
+                    <i className="fa-solid fa-arrow-up"></i>
+                </button>
                 {open && <div className="modal absolute mx-auto flex justify-center items-center" style={{ zIndex: '999', boxShadow: 'rgba(0, 0, 0, 0.3) 0px 2px 15px 0px, 0 0 0 max(100vw, 100vh) #00000099' }}>
                     <div className="modal-content relative bg-[#011113] rounded-lg border border-[#333] flex flex-col" style={{ backdropFilter: 'blur(125px)', width: '80vw' }}>
                         <i className="fa-solid fa-xmark absolute right-0 m-4 text-gray-400 bg-[#ffffff0d] rounded-lg text-sm w-8 h-8 ml-auto inline-flex justify-center items-center hover:bg-gray-600 hover:text-white" onClick={() => setOpen(false)} style={{ zIndex: 100, cursor: 'pointer' }}></i>
