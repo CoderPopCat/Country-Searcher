@@ -1,7 +1,9 @@
 import React from 'react'
 import { useParams } from 'react-router-dom'
 import Countries from '../constants/countries.json';
+import countryCoords from '../constants/country-coords.json';
 import CountryInfo from './CountryInfo';
+import { Tooltip } from 'react-tooltip';
 
 const Country = () => {
     const { name } = useParams();
@@ -17,9 +19,14 @@ const Country = () => {
         'an': '🌎 Antarctica',
     };
     const continentEmoji = continents[country.continent];
+    const neighbors = country.neighbors.map(n => countryCoords.filter(c => c.country.toLowerCase() === n.toLowerCase())[0]);
+    console.log(neighbors)
     return (
         <>
             <div className="flex flex-col App" style={{ margin: '0', paddingTop: '18vh' }}>
+                <button onClick={() => window.scrollTo({ top: document.querySelector('.nav').offsetTop, behavior: 'smooth' })} className="totop fixed right-2 bottom-6 cursor-pointer border-none rounded-[50%] w-15 h-15 p-5 z-50 bg-[#ffffff0d] flex justify-center items-center hidden text-xl" style={{ backdropFilter: 'blur(8px)', boxShadow: '0 0 14px rgb(0 0 0 / 12%)' }}>
+                    <i className="fa-solid fa-arrow-up"></i>
+                </button>
                 <section
                     className="pt-14 mt-[32px] mb-[50px] pb-12 px-5 antialiased text-center flex justify-center items-center">
                     <div className="content">
@@ -34,7 +41,7 @@ const Country = () => {
                                         <img className="max-w-[19rem] rounded-lg absolute" style={{ transform: 'translateY(-100%)' }} src={country.flag} alt="" data-aos='zoom-in' data-aos-easing='ease-in-out' data-aos-duration='900' />
                                     </div>
                                     <div className="text items-left lg:ml-[4rem] flex flex-col justify-start space-y-5">
-                                        <a className="mb-2 text-5xl font-bold tracking-tight text-white text-center lg:text-left country-headingg" href={`https://www.google.com/maps/place/${country.country}/@25.0314752,55.2343264,6460m/data=!3m2!1e3!4b1?entry=ttu`} style={{ textDecoration: '#7760fe wavy underline', cursor: 'pointer' }} target="_blank" data-aos='fade-left' data-aos-easing='ease-in-out' data-aos-duration='900'>
+                                        <a className="mb-2 text-5xl font-bold tracking-tight text-white text-center lg:text-left country-headingg" href={`https://www.google.com/maps/place/${country.country}/@25.0314752,55.2343264,6460m/data=!3m2!1e3!4b1?entry=ttu`} style={{ textDecoration: '#7760fe solid underline', cursor: 'pointer' }} target="_blank" data-aos='fade-left' data-aos-easing='ease-in-out' data-aos-duration='900'>
                                             {country.country}
                                         </a>
                                         <div className="country-info-container gap-5" data-aos='fade-left' data-aos-easing='ease-in-out' data-aos-duration='900'>
@@ -46,7 +53,10 @@ const Country = () => {
                                             <CountryInfo heading='Landlocked?' info={country.is_landlocked ? 'Yes' : 'No'} icon='fa-solid fa-lock' />
                                             <CountryInfo heading='Famous For' info={country.famous_for.includes(",") && country.famous_for.split(", ").length > 5 ? country.famous_for.split(", ").slice(5).join(", ") : country.famous_for} icon='fa-regular fa-star' />
                                             <CountryInfo heading='Driving Direction' info={country.drive_direction.charAt(0).toUpperCase() + country.drive_direction.slice(1)} icon='fa-solid fa-car' />
-                                            <CountryInfo heading='Neighbors' info={country.neighbors.map(c => c.toUpperCase()).join(", ")} icon='fa-solid fa-globe' />
+                                            <Tooltip id="country-name" />
+                                            <CountryInfo heading='Neighbors' info={<div className='flex flex-row gap-2'>{neighbors.map(n => {
+                                                return (<img data-tooltip-id="country-name" data-tooltip-content={n.name} data-tooltip-float={true} src={n.icon} className='neighbor-icon w-8' key={n.name} />)
+                                            })}</div>} icon='fa-solid fa-globe' />
                                         </div>
                                     </div>
                                 </div>

@@ -14,7 +14,7 @@ const Card = ({ flag, name, capital, currency, continent, coords }) => {
     const redirect = (name) => () => window.location.href = `/country/${name}`
     return (
         <>
-            <div data-aos="fade-up" data-aos-deay='100' data-aos-easing='ease-in-out' data-aos-duration='1500' className="group relative lg:w-[19rem] hover:scale-110 cursor-pointer"
+            <div data-aos="fade-up" data-aos-delay='100' data-aos-easing='ease-in-out' data-aos-duration='1500' className="group relative lg:w-[19rem] hover:scale-110 cursor-pointer"
                 style={{ transitionDuration: '0.5s' }}>
                 <div
                     className="flex flex-col justify-between items-center rounded-lg shadow-lg bg-[#ffffff0d] card">
